@@ -1,0 +1,7 @@
+{"id":"semaglutide","name":"司美格鲁肽 Semaglutide","mode":"drug","src":["drug"],
+ "A":1,"B":2,"C":3,"D":12,"E":6,"F":0,"G":20,"kill":"permeation","sellable":"rx",
+ "tech_moat":24,"comm":20,"supp_total":null,"band":"③ 低技×高商","quadrant":"③","archetype":"技术死局但商业重磅",
+ "key_data":{"MW":4113.58,"logP":"高亲水大肽(BCS IV)","pKa":"pI≈4.5-5.0，生理pH带净负电","oral_BA":"<1%(即便加SNAC促渗0.4-1%)","BA_mechanism":"渗透型(膜屏障限制,非首过)；SNAC靠制造膜缺陷强行透过胃上皮才<1%","dose_mg":"Rybelsus口服3/7/14mg(因~1%吸收);真黏膜吸收当量≈1mg","subl_evidence":"舌下/口溶膜无FDA批准、无人体PK对照，复方药房宣称0.25-4mg属营销(降权)"},
+ "one_liner":"MW4114大肽渗透型透不过黏膜,舌下/口溶膜救不动(SNAC加持口服也<1%);但作为GLP-1药物商业价值数百亿美元,正解皮下注射/SNAC口服,典型③低技×高商金矿",
+ "sources":["PubChem/FDA NDA 213051(MW4113.58, C187H291N45O59, 31-aa, pI4.5-5.0)","EMA Rybelsus EPAR + Nat Commun 2025 PMC12568990(oral BA<1%即便SNAC,渗透型膜缺陷机制)","Novo Nordisk FY2024(Ozempic$17.45B+Wegovy$8.44B+Rybelsus$3.38B≈$29B/yr,占公司~70%营收)","SeekPeptides/FormBlends(舌下semaglutide实验性、未获FDA批准,无PK对照)"],
+ "confidence":"high"}

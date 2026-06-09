@@ -1,0 +1,6 @@
+{"id":"nicotine","name":"尼古丁 Nicotine","mode":"drug","src":["drug"],
+ "A":18,"B":18,"C":13,"D":14,"E":6,"F":0,"G":18,"kill":"none","sellable":"otc",
+ "tech_moat":69,"comm":18,"supp_total":null,"band":"高技：舌下/口溶膜真值得做","quadrant":"①","archetype":"真护城河型（小分子+首过型低BA+口腔黏膜成倍救回）",
+ "key_data":{"MW":162.23,"logP":1.17,"oral_BA":"20-40%","BA_mechanism":"首过型(CYP2A6肝首过~70%,舌下绕过真能救)","dose_mg":"1-4mg","subl_evidence":"实锤:Nicorette Microtab舌下含片/含片/口含袋/尼古丁ODF临床NCT02239770"},
+ "one_liner":"MW162小分子+CYP2A6首过型低BA+多款口腔黏膜上市NRT人体实锤+剂量1-4mg易装→技术69紧贴硝酸甘油;叠加NRT与ZYN口含袋爆发高商业(G18)且OTC可售,落①高技×高商;唯一拦路虎是成瘾/青少年监管,非科学",
+ "sources":["PubChem CID 89594","NCT02239770","Springer Clin Pharmacokinet 2020","Grand View nicotine pouches market"],"confidence":"high"}

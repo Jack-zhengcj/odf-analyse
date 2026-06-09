@@ -1,0 +1,7 @@
+{"id":"sea-moss","name":"爱尔兰海苔 Sea moss (Chondrus crispus)","mode":"supplement","src":["amazon"],
+ "A":2,"B":2,"C":3,"D":0,"E":4,"F":8,"G":null,"kill":"dose","sellable":null,
+ "tech_moat":11,"comm":8,"supp_total":19,"band":"🔴 直接Pass","quadrant":"④","archetype":"剂量否决型(叠加概念错配)",
+ "key_data":{"nature":"红藻全食物/混合物,非单一小分子;卡拉胶(硫酸化半乳聚糖)占干重~55%,矿物质~15%,蛋白~10%,富碘","MW":"卡拉胶 100,000-1,000,000 Da(主活性多糖);矿物质为离子","logP":"不适用(高分子多糖+无机离子)","oral_BA":"卡拉胶口服BA极低且不可救:大分子+亲水,只在肠道作益生元;矿物质另算","BA_mechanism":"渗透/概念错配型——多糖在肠道发挥(似益生菌),非肝首过;舌下换部位无意义","dose_mg":"g级:凝胶4-8g/胶囊1000mg+/软糖3000mg → 远超100mg单膜上限","subl_evidence":"无任何舌下/口腔黏膜人体PK证据(分子量1M Da根本不可能透膜)","taste":"海藻腥味,需掩味;软糖已商业化掩盖,非krill级不可掩","market":"TikTok爆火($2B+市场,400M+浏览),但功效证据极薄;claim偏减肥/性欲/皮肤(踩限流红线);碘含量高且不稳定有甲状腺/监管风险;红海商品($0.14/粒)","regulatory":"FDA不监管;碘超标(UL 1100mcg)Wolff-Chaikoff甲状腺风险;重金属污染风险"},
+ "one_liner":"海藻全食物/混合物,主活性卡拉胶MW达百万Da根本透不过黏膜且在肠道起效(似益生菌概念错配),有效剂量g级触剂量否决——舌下/口溶膜化纯属噱头,直接Pass",
+ "sources":["Wikipedia: Chondrus crispus (carrageenan ~55% dry wt)","PMC10817618 Chondrus chemical constituents review","INCHEM/JECFA: carrageenan MW 100k-1M Da","PMC8502325/MDPI: native carrageenan poor oral BA,需降解","NCBI LactMed Sea Moss","Northwestern Medicine/Kaiser: 碘风险+剂量","NatGeo/NPR/TheConversation: 功效证据薄+TikTok趋势","Amazon: 海苔软糖/凝胶价格带"],
+ "confidence":"high"}
