@@ -1,0 +1,9 @@
+{"id":"lemon-balm","name":"香蜂草 Lemon balm","mode":"supplement","src":["fda"],
+ "A":7,"B":7,"C":9,"D":4,"E":4,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":31,"comm":0,"supp_total":31,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data":{"MW":"标志物迷迭香酸 rosmarinic acid 360.31（C18H16O8，>5%）；伴黄酮+萜烯（citronellal/neral/geranial）；产品为全草醇提混合物","logP":"rosmarinic acid XLogP3≈1.6（偏亲水），含 4 个酚羟基+羧基、TPSA≈144 Å²（极性大、解离），膜渗透差","pKa":"羧基≈3、多个酚羟基≈8-9（生理 pH 部分带负电）","oral_BA":"rosmarinic acid 口服 BA 低（多酚广泛 II 相结合+肠菌代谢）；GABA-T 抑制效应在人体常不可重现，文献归因于其‘poor bioavailability’；商业改良剂型需用葵花磷脂载体(Phytosome)才提升吸收","BA_mechanism":"渗透/溶解度型 + 混合物伪需求：主活性迷迭香酸高极性(TPSA 144、带电)本就难透膜、口服低 BA 主因 II 相结合而非纯首过；产品又是多酚+黄酮+萜烯混合物，无单一干净小分子可被舌下成倍救回 → 舌下 B 伪需求(7)","dose_mg":"标准化提取物 300-600 mg/日（常分次）；单次研究 300-1600 mg 醇提物 → 单膜物理装不下，载药 D 低(4)；封顶主因 tiktok","subl_evidence":"无人体舌下/buccal PK；传统为茶剂/酊剂；现代仅 Phytosome 口服改良，非舌下","solubility":"多酚部分水溶，萜烯挥发油亲脂——混合溶解","taste":"柠檬香+草本苦涩，掩味中等偏难需增溶/微囊 → E 低(4)","market":"助眠/抗焦虑(GABA-A/GABA-T)草本红海，与缬草/西番莲/洋甘菊/褪黑素竞争","regulatory":"草本(botanical/herbal Melissa)→ 命中 TikTok『所有草本』红线；‘舌下=新摄入途径’亦可能触 NDIN（主封顶记 tiktok）"},
+ "notes":"A=7：草本醇提混合物，主活性迷迭香酸高极性(TPSA144、带电、logP1.6)难透膜，无单一可锚定小分子→偏低。B=7：渗透/溶解度型+混合物伪需求——迷迭香酸口服低BA主因II相结合、需Phytosome磷脂载体才提升，舌下救不动一团多酚萜烯。C=9：镇静/抗焦虑半急性、有睡前仪式感但起效非急性(亚慢性补充见效)。D=4：标准化提取物300-600mg(单次研究至1600mg)，单膜装不下。E=4：柠檬草本苦涩需增溶/微囊。F=0：草本(Melissa)踩 TikTok『所有草本』红线，kill=tiktok 封顶≤45，实得 31。",
+ "one_liner":"香蜂草草本醇提混合物，主活性迷迭香酸极性高(TPSA144)难透膜、口服低BA需磷脂载体救、舌下救不动，剂量300-600mg装不下，叠草本TikTok红线 → 31 🔴 直接Pass。",
+ "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC10620697/","https://examine.com/supplements/lemon-balm/","https://restorativemedicine.org/library/monographs/lemon-balm/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11644815/"],
+ "confidence":"中（迷迭香酸为主活性、GABA-T机制、需Phytosome改良吸收、剂量300-1600mg有源；提取物组分比例与舌下PK缺失，A/B为机制判定；rosmarinic acid MW360.31/logP≈1.6/TPSA144为公认值，PubChem因沙箱封域未直取）"}
