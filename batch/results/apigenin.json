@@ -1,0 +1,8 @@
+{"id":"apigenin","name":"芹菜素 Apigenin","mode":"supplement","src":["fda","amazon"],
+ "A":12,"B":7,"C":8,"D":11,"E":5,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":43,"comm":0,"supp_total":43,
+ "band":"🟠 不推荐(伪需求)","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透/溶解度型伪需求（理化尚可但属BCS II溶解度限速，舌下救不动；且草本黄酮触TikTok红线）",
+ "key_data":{"MW":270.24,"logP":"XLogP3≈2.6 (PubChem CID 5280443)","pKa":"酚羟基 pKa≈6.6/7.6/9-10","oral_BA":"≈0.71% (大鼠绝对BA)","BA_mechanism":"渗透/溶解度型：BCS Class II，水不溶、溶出限速是BA瓶颈，分子本身MW270+logP~2.6理论可透膜，但口腔黏膜短驻留+极差溶出→舌下无法成倍救回，B伪需求7","dose_mg":"补剂常见50mg/粒；抗焦虑动物剂量3-10mg/kg换算人体偏大","subl_evidence":"无人体舌下/buccal PK；无成熟舌下产品","solubility":"水中几乎不溶(BCS II)","taste":"苦涩，黄酮粉，可掩但偏难","market":"助眠/Huberman概念热度，但草本黄酮→TikTok红线","regulatory":"膳食成分，舌下=新途径风险低但F封死"},
+ "notes":"A=12：本组里理化最好(MW270<500、logP~2.6落在1.6-3.3甜区、剂量可压<20mg)，理论上分子能透膜，但口腔黏膜驻留短+极差溶出仍压住A不到高档。B=7：核心障碍是溶解度/渗透型(BCS II溶出限速、口服BA仅0.71%)，不是首过型，舌下绕不过溶出瓶颈→伪需求。C=8：助眠/抗焦虑半急性、有仪式感但非急性即感。D=11：有效剂量约50mg落在20-50mg区间。E=5：黄酮苦涩需增溶/微囊。F=0：草本黄酮(chamomile来源)直接踩TikTok『所有草本』红线，kill=tiktok封顶45，本就43。","one_liner":"理化是这组最好的(MW270/logP2.6)，但卡在BCS II溶解度型伪需求+草本红线 → 伪需求型，Pass",
+ "sources":["https://pubchem.ncbi.nlm.nih.gov/compound/Apigenin","https://pmc.ncbi.nlm.nih.gov/articles/PMC6817918/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487423/","https://examine.com/supplements/apigenin/"],
+ "confidence":"high (MW/logP/BCS II/BA 0.71%多源一致；舌下PK缺失故B为机制判定)"}

@@ -1,0 +1,8 @@
+{"id":"passionflower","name":"西番莲 Passionflower","mode":"supplement","src":["fda"],
+ "A":7,"B":7,"C":9,"D":5,"E":4,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":32,"comm":0,"supp_total":32,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透型伪需求（草本提取混合物、活性黄酮低BA且无单一可优化分子，舌下救不动；草本→TikTok红线）",
+ "key_data":{"MW":"混合物：chrysin 254 / vitexin 432 / isovitexin 432","logP":"chrysin logP~3.5；vitexin亲水带糖logP~0-1","pKa":"黄酮酚羟基 pKa≈7","oral_BA":"chrysin ≈6.6% (人体PK)；提取物为多组分混合","BA_mechanism":"渗透/溶解度型+混合物：活性黄酮(chrysin)口服BA仅6.6%，主因溶出+广泛II相结合代谢，非纯首过可救；vitexin/isovitexin带糖亲水难透膜；混合提取物无单一可优化分子→舌下B伪需求7","dose_mg":"标准化提取物300-700mg睡前；抗焦虑90-400mg×2/日","subl_evidence":"无人体舌下/buccal PK；传统茶剂/酊剂为主","solubility":"提取物部分水溶(带糖黄酮)","taste":"草本苦涩","market":"助眠/抗焦虑GABA-A，但草本提取→TikTok红线","regulatory":"膳食提取物"},
+ "notes":"A=7：草本提取混合物，活性成分理化分散(chrysin可透但vitexin/isovitexin带糖亲水难透)，无单一小分子可锚定→偏低。B=7：渗透/溶解度型(chrysin口服BA仅6.6%、广泛II相结合)，且是多组分提取物不可像单分子那样靠舌下成倍救→伪需求。C=9：镇静/抗焦虑半急性、有仪式感但起效慢(临床7天)非急性。D=5：标准化提取物300-700mg偏大，落50-100mg以上区间压低载药分。E=4：草本苦涩需掩味+增溶。F=0：草本提取(Passiflora)踩TikTok『所有草本』红线，kill=tiktok封顶45，本就32。","one_liner":"西番莲草本提取混合物、活性黄酮低BA(6.6%)渗透型+无单一可优化分子+草本红线 → 直接Pass",
+ "sources":["https://pubmed.ncbi.nlm.nih.gov/21294203/","https://www.medicalnewstoday.com/articles/323795","https://www.rxlist.com/passion_flower/supplements.htm","https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/passiflora-incarnata"],
+ "confidence":"中 (chrysin BA 6.6%/剂量/混合物机制有源；提取物组分比例与舌下PK缺失，故B/A为机制判定)"}

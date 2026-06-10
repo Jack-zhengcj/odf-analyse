@@ -1,0 +1,7 @@
+{"id":"caffeine","name":"咖啡因 Caffeine","mode":"supplement","src":["fda","amazon"],
+ "A":13,"B":9,"C":14,"D":12,"E":8,"F":19,"G":null,"kill":"none","sellable":null,
+ "tech_moat":56,"comm":19,"supp_total":75,
+ "band":"🟢🟡 推荐(补一条腿)","quadrant":"① 高技×高商 → 立项首选(如褪黑素)","archetype":"赛道补腿型（BA无提升，靠急性场景+赛道补回）",
+ "key_data":{"MW":194.19,"logP":-0.07,"pKa":"~0.6(共轭酸)/~14(极弱酸)，生理pH近中性不带电","oral_BA":"~99-100%","BA_mechanism":"地板：口服绝对BA已接近100%，无可救缺口，舌下提不了总吸收(extent)；但小分子能透膜，舌下确能更快(onset)","dose_mg":"75-100mg/单次(典型能量膜75mg)","subl_evidence":"有口腔速溶/含片/口香糖商品(如军用咖啡因口香糖Stay Alert 100mg)，颊黏膜快速起效证据充分","solubility":"水溶~21.7mg/mL(中等)","taste":"苦，但已是能量赛道标配可掩","market":"能量/提神赛道，TikTok不限流"},
+ "notes":"A=13:MW194小但XLogP3 -0.07偏亲水(非理想1.6-3.3亲脂窗)，剂量75mg>20mg理想，故中高非满分。B=9:口服BA已~100%地板，舌下救不动extent(伪BA需求)，但能透膜可改善onset，给地板上限9。C=14:提神急性即感，颊吸收数分钟起效，接近满分。D=12:75-100mg落50-100mg档上沿，单膜勉强可载。E=8:苦但能量赛道标配掩味成熟，无需特殊包埋。F=19:能量/专注赛道可搭便车、不触限流、ASMR/便携仪式感强，近满分。典型赛道补腿型：卖便携/仪式感而非押BA提升。复现校准锚点75。","one_liner":"赛道补腿型锚点——BA无可救但急性即感+能量赛道+便携仪式感把分补回75，卖点切场景绝不押BA。",
+ "sources":["PubChem CID 2519 (Caffeine: MW 194.19, XLogP3 -0.07)","https://pubmed.ncbi.nlm.nih.gov (caffeine oral bioavailability ~99-100%, Tmax ~0.5-1h)","Stay Alert caffeine gum buccal PK literature"],"confidence":"high — 咖啡因理化/药代为教科书定值，校准锚点，维度拆分支撑总分75"}
