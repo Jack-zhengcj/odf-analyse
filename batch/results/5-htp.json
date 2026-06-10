@@ -1,0 +1,7 @@
+{"id":"5-htp","name":"5-羟色氨酸 5-HTP","mode":"supplement","src":["fda","amazon"],
+ "A":7,"B":8,"C":9,"D":7,"E":5,"F":4,"G":null,"kill":"none","sellable":null,
+ "tech_moat":36,"comm":4,"supp_total":40,"band":"🟠 不推荐(伪需求)","quadrant":"④ 低技×低商 → 放弃","archetype":"渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data":{"MW":220.22,"logP":"XLogP3 偏负（约 -0.3，亲水）","pKa":"羧 ~2.4 / 氨 ~9.5 → 两性离子，带电","oral_BA":"约 47-50%（无抑制剂时）；与外周脱羧酶抑制剂(卡比多巴)合用可升至 >50%，单用卡比多巴可使血浆 5-HTP 升高 5-15 倍 → 说明存在部分外周/首过 AADC 脱羧损耗","BA_mechanism":"部分首过/外周脱羧型(半救得动)：能透膜入血、tmax≈1.5h，但部分被肠/肝芳香族氨基酸脱羧酶(AADC)就地脱羧为 5-HT；舌下可部分绕过外周脱羧，但带电亲水限制透膜+口服本就 ~50% 能工作 → B 中(8)，非褪黑素式干净首过救回","dose_mg":"常规 50-100 mg（情绪/助眠，最高 ~300 mg/日分次）→ 落 50-100mg 临界带，单膜勉强可装，D 记 7","subl_evidence":"无金标准人体舌下/buccal PK；机制上半急性、可部分绕外周脱羧，但无 PK 对照背书","solubility":"水中可溶","taste":"轻微，需适度掩味","market":"亚马逊有大量 5-HTP 胶囊/片(情绪/睡眠/食欲)，膜剂极少；与褪黑素/L-茶氨酸睡眠赛道竞争","regulatory":"DSHEA 下合法，但存在血清素综合征(与 SSRI 合用)及历史 EMS/嗜酸细胞增多警示阴影；‘舌下=新摄入途径’叠加 5-HT 安全性需关注（未升至封顶级，记入风险）"},
+ "one_liner":"校准锚点：能透膜+部分外周/首过脱羧、助眠情绪半急性、剂量 50-100mg 临界——舌下只能部分绕过外周脱羧(B 半救8)，口服本就~50%能工作，总分 40 🟠 伪需求边缘，非真护城河。",
+ "sources":["https://en.wikipedia.org/wiki/Oxitriptan","https://pubmed.ncbi.nlm.nih.gov/6175178/","https://www.semanticscholar.org/paper/Bioavailability-and-related-pharmacokinetics-in-man-Magnussen-Nielsen%E2%80%90Kudsk/9cf5be1fd7b609bf00f3f07d3563373119d326bc","https://www.mdpi.com/1422-0067/22/1/181","https://patents.google.com/patent/CA3103477A1/en"],
+ "confidence":"高（BA~50%、外周脱羧机制、卡比多巴 5-15 倍效应、tmax 均有人体 PK/文献支撑；锚点 40 复现）"}

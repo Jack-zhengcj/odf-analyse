@@ -1,0 +1,43 @@
+{
+  "id": "l-arginine",
+  "name": "L-精氨酸 L-arginine",
+  "mode": "supplement",
+  "src": ["fda", "amazon"],
+  "A": 4,
+  "B": 5,
+  "C": 9,
+  "D": 0,
+  "E": 8,
+  "F": 7,
+  "G": null,
+  "kill": "dose",
+  "sellable": null,
+  "tech_moat": 26,
+  "comm": 7,
+  "supp_total": 33,
+  "band": "🔴 直接Pass",
+  "quadrant": "④ 低技×低商 → 放弃",
+  "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+  "key_data": {
+    "MW": "174.20 g/mol（C6H14N4O2，PubChem CID 6322）",
+    "logP": "XLogP3 ≈ -4.2（极强亲水，被动跨膜几乎为零）",
+    "pKa": "羧基 ~2.2 / α-氨基 ~9.0 / 胍基 ~12.5 → 口腔/生理 pH 下带正电(胍基质子化)的两性离子，被动渗透极差",
+    "solubility": "水溶性极高，强碱性氨基酸；离子化程度高，透膜靠转运体(CAT/y+ 系统)",
+    "oral_BA": "口服绝对 BA 约 68%(高个体差异)，但作为 NO 底物的可用性被肠壁与肝脏精氨酸酶(arginase)大量首过代谢限制；高剂量(>10g)吸收因转运体饱和递减",
+    "BA_mechanism": "混合：分子层面口服 BA 尚可(地板)，但靶向 NO 通路的『有效到达』受 arginase 首过 + CAT 转运体饱和限制；分子强亲水带电、被动透膜差。舌下即便绕过部分肝首过，也救不了肠壁 arginase 与转运体瓶颈，且强亲水分子本身透不过黏膜 → 救不动；瓜氨酸正因能绕开 arginase 而比口服精氨酸更高效",
+    "Tmax": "口服约 1-2 h",
+    "dose_mg": "常规有效单次 3-6 g（NO/血流研究常用 6g；心血管研究 3-6g/次）→ 远超单膜 100mg 上限，触剂量一票否决",
+    "subl_evidence": "无舌下/buccal 人体 PK；市售克级胶囊/粉(NO booster)，无口溶膜竞品",
+    "taste": "微苦/碱味，掩味中等，但克级载药本身物理不可行",
+    "market": "NO/pump pre-workout 老牌成分，常与瓜氨酸/AAKG 复配；Amazon 大量胶囊/粉(单瓶 180-240 粒)，无 strip 形态",
+    "regulatory": "DSHEA 下合法；非红线品类；TikTok 不直接限流(但勿打 ED/性功能 claim 否则触红线)"
+  },
+  "one_liner": "极性最强的碱性氨基酸(XLogP≈-4.2)+克级剂量(3-6g)+肠壁 arginase 首过：舌下救不动(渗透死局)且装不下(剂量否决)——NO 赛道正解是瓜氨酸/粉剂，本品直接 Pass。",
+  "sources": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/6322",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2291275/",
+    "https://pubmed.ncbi.nlm.nih.gov/17662090/",
+    "https://www.amazon.com/Supplement-Arginine-Citrulline-Vascularity-Capsules/dp/B0822DDC6G"
+  ],
+  "confidence": "high（理化 PubChem、arginase 首过与 BA Schwedhelm 2008/PMC2291275、转运体饱和文献；剂量否决确凿）"
+}

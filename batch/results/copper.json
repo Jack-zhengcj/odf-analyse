@@ -1,0 +1,7 @@
+{"id":"copper","name":"铜 Copper","mode":"supplement","src":["fda"],
+ "A":3,"B":4,"C":3,"D":13,"E":7,"F":8,"G":null,"kill":"none","sellable":null,
+ "tech_moat":30,"comm":8,"supp_total":38,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"概念错配/渗透不可能型（带电金属离子，靶点为慢性酶辅因子）",
+ "key_data":{"MW":"Cu²⁺ ≈63.5；常见盐 葡萄糖酸铜 452.8 / 硫酸铜 159.6","logP":"不适用——带 2+ 电荷金属阳离子/无机盐，强亲水，无被动透膜窗口","pKa":"金属离子，无经典 pKa；生理 pH 下以水合 Cu²⁺/络合形态存在","oral_BA":"BA 随摄入量反向调节：低摄入(0.4mg/d)时~75%、高摄入(7.5mg/d)时降至~12%；生理剂量吸收尚可且受稳态严控","BA_mechanism":"路线错误+稳态地板型——铜经 Ctr1 主动转运入肠上皮、ATP7A 外排，吸收由机体铜稳态严格调控；非肝首过，舌下绕不出任何 AUC，且靶点是 SOD/细胞色素 c 氧化酶等慢性酶辅因子，非血药急性效应","dose_mg":"RDA 0.9 mg/d，UL 10 mg；mg 级以下——载药轻松但极易过量(铜毒/拮抗锌)","subl_evidence":"无舌下/口腔黏膜 PK 优势证据；2+ 离子无被动透膜需求，舌下=噱头","taste":"金属涩味/收敛，需掩(可掩，非 krill 级)","market":"铜单补小众，多搭锌/多维；竞品廉价；无独立爆款叙事；非草本/减肥/性功能 → 不直接踩 TikTok 硬红线但赛道弱","regulatory":"DSHEA 合法；UL 10 mg，过量致铜毒/拮抗锌吸收/胃肠刺激，需剂量把控；‘舌下新途径’理论上可触 NDIN 但风险低于碘"},
+ "one_liner":"铜是带 2+ 电荷的金属阳离子，经 Ctr1 主动转运吸收且由机体铜稳态严控(BA 随摄入反向调节)，靶点为 SOD/细胞色素 c 氧化酶等慢性酶辅因子——非肝首过、舌下救不出任何 AUC，纯概念错配；剂量 0.9mg 易装但极易过量拮抗锌，技术 30、总分 38🔴 直接 Pass。",
+ "sources":["https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/","https://lpi.oregonstate.edu/mic/minerals/copper","https://www.cell.com/cell-metabolism/fulltext/S1550-4131(06)00279-8","https://www.atsdr.cdc.gov/toxprofiles/tp132-c3.pdf","https://www.ncbi.nlm.nih.gov/books/NBK222312/"],
+ "confidence":"high（铜为带电金属离子、Ctr1 主动转运 + 稳态调控 BA 为既定共识、RDA/UL 明确；舌下无意义判定确凿；F 商业分中置信）"}

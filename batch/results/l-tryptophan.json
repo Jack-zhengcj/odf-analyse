@@ -1,0 +1,7 @@
+{"id":"l-tryptophan","name":"L-色氨酸 L-tryptophan","mode":"supplement","src":["fda"],
+ "A":5,"B":5,"C":5,"D":0,"E":6,"F":5,"G":null,"kill":"dose","sellable":null,
+ "tech_moat":21,"comm":5,"supp_total":26,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data":{"MW":204.23,"logP":"XLogP3 ≈ -1.06（亲水）","pKa":"2.38(羧)/9.39(氨) → 生理/口腔 pH 下两性离子，带电","oral_BA":"高：经小肠 LNAA(L型)主动转运吸收；入血后 ~75-95% 与白蛋白结合，游离部分经 LNAA 转运体过血脑屏障入脑。无显著肝首过失活缺口","BA_mechanism":"地板/无缺口型：口服已高吸收、入脑靠 LNAA 转运体竞争（与酪氨酸/苯丙氨酸等竞争），不存在可被舌下绕过的首过缺口 → B 低，舌下救不动","dose_mg":"常规补剂 500-2000 mg（情绪/睡眠研究 1-5 g；RDA 约 250-425 mg，日常摄入 ~1 g）→ 远超单膜 100 mg 上限，触 dose 一票否决","subl_evidence":"无人体舌下/buccal PK；带电两性离子+克级剂量，舌下不可行","solubility":"水中微溶（~11 g/L, 25°C）","taste":"略苦，可掩但克级载量物理装不下","market":"助眠/情绪(5-羟色胺前体)赛道；无草本/减肥红线","regulatory":"1989 年 L-色氨酸 EMS(嗜酸性粒细胞增多-肌痛综合征)污染事件曾被 FDA 限制，现已解禁可作膳食补充剂；存在历史监管阴影但当前合法（dose 才是封顶约束）"},
+ "one_liner":"中性氨基酸前体，口服经 LNAA 转运体高吸收、入脑靠转运体竞争而非首过缺口（B 地板，舌下救不动），且有效剂量 0.5-5 g 远超单膜上限——dose 一票否决；叠加 1989 EMS 历史监管阴影，直接 Pass。",
+ "sources":["https://pubchem.ncbi.nlm.nih.gov/compound/6305","https://pmc.ncbi.nlm.nih.gov/articles/PMC2908021/","https://journals.sagepub.com/doi/pdf/10.4137/IJTR.S2129","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424286/"],
+ "confidence":"高（理化 PubChem 一手、BBB/白蛋白机制 IJTR 综述、剂量 g 级 dose 否决确凿；EMS 监管史为佐证）"}

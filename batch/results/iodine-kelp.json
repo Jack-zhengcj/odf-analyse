@@ -1,0 +1,7 @@
+{"id":"iodine-kelp","name":"碘/海带 Iodine","mode":"supplement","src":["fda"],
+ "A":3,"B":3,"C":5,"D":12,"E":5,"F":5,"G":null,"kill":"regulatory","sellable":null,
+ "tech_moat":28,"comm":5,"supp_total":33,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"概念错配/渗透不可能型（靶点不在血液，是甲状腺慢性摄碘）",
+ "key_data":{"MW":"碘离子 I⁻ ≈126.9；KI 166.0；元素碘 I₂ 253.8","logP":"不适用——无机阴离子(I⁻)/盐，无有意义 logP；强亲水带电","pKa":"I⁻ 为强酸 HI 的共轭碱，生理 pH 下完全解离为裸离子","oral_BA":"口服吸收已近完全(~90%+)，小肠主动吸收；BA 已是高地板，无可救缺口","BA_mechanism":"路线错误+地板型——碘不靠入血‘起效’，而是被甲状腺 NIS(钠碘同向转运体)主动摄取做慢性甲状腺激素合成底物；舌下绕首过毫无意义(本就无肝首过)，且 150mcg 是慢性营养而非急性血药效应","dose_mg":"RDA 150 mcg(0.15 mg)，UL 1100 mcg；mcg 级——载药本身轻松但极易过量","subl_evidence":"无任何舌下/口腔黏膜 PK 优势证据；裸离子无被动透膜需求，舌下=噱头","taste":"碘/海带带咸腥金属味，需掩；海带全食物另有藻腥","market":"碘补充小众(多数人从加碘盐/海产已足)；海带/kelp 走草本全食物叙事，TikTok 草本红线；竞品多为廉价 KI/kelp 片","regulatory":"甲状腺 UL 1100mcg，过量触发 Wolff-Chaikoff 效应致甲状腺功能紊乱/甲亢/甲减风险；‘舌下=新摄入途径’可能触 NDIN；高剂量碘有真实监管阴影 → regulatory 封顶"},
+ "one_liner":"碘是裸阴离子(I⁻)，口服吸收已近 100% 且‘起效’全靠甲状腺 NIS 主动摄碘做慢性激素底物——靶点根本不在血液、无肝首过可绕，舌下化纯属概念错配噱头；叠加甲状腺 UL/Wolff-Chaikoff 监管风险与海带草本红线，技术 28、总分 33🔴 直接 Pass。",
+ "sources":["https://www.ncbi.nlm.nih.gov/books/NBK542320/","https://en.wikipedia.org/wiki/Potassium_iodide","https://go.drugbank.com/drugs/DB06715","https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/","https://journals.sagepub.com/doi/abs/10.3181/00379727-106-26366"],
+ "confidence":"high（碘理化为无机离子事实清晰、口服近完全吸收 + NIS 甲状腺摄取机制为教科书共识、UL/Wolff-Chaikoff 监管风险确凿；F 商业分中置信随 TikTok 政策波动）"}
