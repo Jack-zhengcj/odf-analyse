@@ -1,0 +1,7 @@
+{"id":"alpha-gpc","name":"α-GPC Alpha-GPC","mode":"supplement","src":["fda","amazon"],
+ "A":5,"B":5,"C":8,"D":0,"E":3,"F":12,"G":null,"kill":"dose","sellable":null,
+ "tech_moat":21,"comm":12,"supp_total":33,
+ "band":"🔴 直接Pass","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data":{"MW":257.22,"logP":"约 -5.15~ -5.63(25°C)，极亲水(分子内季铵阳离子+磷酸根两性离子)","pKa":"季铵恒带正电+磷酸根(pKa~1-2)解离，生理pH呈两性离子带电","oral_BA":"高(口服后水解释放胆碱，胆碱总吸收高、可过血脑屏障)","BA_mechanism":"地板/渗透型双重：完整GPC极亲水带电根本透不过黏膜(渗透型)，且作为胆碱供体口服BA已高(地板)，舌下既提不了extent也救不动；非首过型","dose_mg":"300-600mg/日(单次≥300mg，远超100mg)","subl_evidence":"无人体舌下/buccal PK；强吸湿、不适合含水成膜","solubility":"易溶于水/醇","taste":"略带咸/淡","market":"益智/胆碱供体赛道，TikTok不限流，但胆碱供体为红海大宗，差异化弱"},
+ "notes":"A=5:MW257小是唯一利好，但logP约-5.5极亲水、两性离子带电(季铵+磷酸根)根本透不过黏膜，且单次≥300mg远超20mg，故低分。B=5:作为胆碱供体口服BA已高属地板，且完整分子是渗透型透不过膜，舌下既不能提extent也救不动(非首过型)，给地板低分5。C=8:益智半急性，30-60min起效，非咖啡因式即感也非纯慢性，中。D=0:300-600mg触发dose一票否决，物理装不下。E=3:强吸湿/潮解、批间含水量波动需-20°C密封保存，含水成膜稳定性差需重保护。F=12:益智赛道不限流可搭车，但胆碱供体大宗红海差异化仅一维。dose否决封顶≤40，落33。","one_liner":"剂量否决型——300-600mg单膜装不下、极亲水带电又透不过黏膜、强吸湿难成膜，三重硬伤，舌下化纯噱头。",
+ "sources":["PubChem Choline alfoscerate (MW 257.22, C8H20NO6P)","https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.70338 (L-α-GPC review: logP -5.15~-5.63, 吸湿需-20°C保存, 批间MW因水合变化)","https://pmc.ncbi.nlm.nih.gov/articles/PMC11644786/ (急性GPC认知，30-60min起效)","examine.com/supplements/alpha-gpc (常规剂量300-600mg/日)"],"confidence":"high — 理化(强亲水带电)+剂量(>100mg)+吸湿稳定性三项均为硬指标，结论稳"}
