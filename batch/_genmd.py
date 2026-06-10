@@ -58,7 +58,11 @@ def md_for(d):
     L.append("")
     L.append("## 三、产品评估")
     L.append("")
-    L.append(d.get("one_liner", ""))
+    notes = d.get("notes")
+    if notes:
+        L.append("**六维打分依据**：" + str(notes))
+        L.append("")
+    L.append("**结论**：" + d.get("one_liner", ""))
     L.append("")
     return "\n".join(L)
 

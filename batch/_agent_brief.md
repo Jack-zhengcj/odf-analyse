@@ -53,35 +53,22 @@
 - 药物(tech_moat·G)：硝酸甘油78·G9 / 尼古丁69·G18 / 丁丙诺啡69 / 昂丹司琼66 / 司美24·G20 / 二甲双胍17。
 - 若你负责的成分本身是上述锚点，**复现该分**（联网查证以支撑维度拆分，总分落在锚点±2）。
 
-## 5. 写两份文件（严格 schema）
-### `batch/results/<id>.json` —— **严格扁平顶层，禁止嵌套 scores/data 对象**：
+## 5. 只写一份文件：`batch/results/<id>.json`（MD 由上层用脚本统一生成，**你不要写 .md**——省你的 token，确保你能把整块成分都做完）
+**严格扁平顶层，禁止嵌套 scores/data 对象**：
 ```json
 {"id":"<id>","name":"<name>","mode":"<mode>","src":["<src>"],
  "A":int,"B":int,"C":int,"D":int,"E":int,"F":int,"G":int或null,"kill":"<kill>","sellable":"<sellable>或null",
  "tech_moat":int,"comm":int,"supp_total":int或null,
  "band":"<band>","quadrant":"<quadrant>","archetype":"<archetype>",
  "key_data":{"MW":..,"logP":..,"pKa":..,"oral_BA":"..","BA_mechanism":"首过型/渗透型/地板/路线错误 + 说明","dose_mg":"..","subl_evidence":".."},
+ "notes":"3-5 句：A-F 六维各自为何这么打分（首过 vs 渗透判定、剂量、口感、市场/G），供生成 MD 用",
  "one_liner":"一句话判型+理由",
  "sources":["URL或PMID",..],"confidence":"high/中/待证 + 说明"}
 ```
-字段纪律：`src` 用 ingredients 给的（补剂如 ["fda","amazon"]，药物 ["drug"]）；`comm` 补剂=F、药物=G；补剂 `G`=null、`sellable`=null、`supp_total`=数；药物 `F`=0、`supp_total`=null、`G`=数、`sellable`填。`key_data` 至少含 MW/logP/oral_BA/BA_mechanism/dose_mg/subl_evidence（pKa/solubility/taste/market/regulatory 可加）。
-
-### `batch/results/<id>.md` —— 照模板三段（可参考已存在的 `batch/results/melatonin.md`(补剂) / `batch/results/nicotine.md`(药物)）：
-```
-【ODFanalyse 评估：<name>】  语境：<补剂（美国 TikTok DTC 开品） / 药物（口腔黏膜/舌下可行性）>
-
-一、查证数据（带来源）
-（MW/logP/pKa/溶解度 ｜ 口服BA%及机制(首过 vs 渗透) ｜ 有效剂量 ｜ 舌下/口腔黏膜人体证据 ｜ 口感稳定性 ｜ 市场/合规；每条带来源+置信度）
-
-二、六维打分
-（A/B/C/D/E/F 逐维给分+依据；→ 技术护城河 NN/80 ｜ 商业分 F 或 药物商业价值 G ｜ 补剂总分；→ 档位 ｜ 四象限 ｜ 原型；→ 一票否决/可售性；自检对锚点）
-
-三、产品评估
-（卖点该押什么 ｜ 第2层商业体检要点 ｜ 风险红线 ｜ 一句话结论）
-```
+字段纪律：`src` 用 ingredients 给的（补剂如 ["fda","amazon"]，药物 ["drug"]）；`comm` 补剂=F、药物=G；补剂 `G`=null、`sellable`=null、`supp_total`=数；药物 `F`=0、`supp_total`=null、`G`=数、`sellable`填。`key_data` 至少含 MW/logP/oral_BA/BA_mechanism/dose_mg/subl_evidence（pKa/solubility/taste/market/regulatory 可加）。`notes` 必填（给 MD 用）。
 
 ## 6. 收尾自检
-每个成分写完跑 `python3 -c 'import json;json.load(open("batch/results/<id>.json"))'` 验证 JSON 合法且扁平。
+每个成分写完跑 `python3 -c 'import json;json.load(open("batch/results/<id>.json"))'` 验证 JSON 合法且扁平。**写完一个就存一个**（别攒到最后，防中途被截断丢进度）。
 
 ## 7. 返回给上层（务必简短，别回贴文件全文）
-一个 markdown 表，每行一个成分：`id | mode | A/B/C/D/E/F | tech_moat | supp_total或G | kill | band`，外加一行确认所有文件已写、JSON 校验通过。
+一个 markdown 表，每行一个成分：`id | mode | A/B/C/D/E/F | tech_moat | supp_total或G | kill | band`，外加一行确认所有 JSON 已写、校验通过。
