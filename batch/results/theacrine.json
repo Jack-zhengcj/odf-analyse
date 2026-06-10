@@ -1,0 +1,9 @@
+{"id":"theacrine","name":"茶叶碱 Theacrine","mode":"supplement","src":["fda"],
+ "A":13,"B":7,"C":13,"D":9,"E":7,"F":11,"G":null,"kill":"none","sellable":null,
+ "tech_moat":49,"comm":11,"supp_total":60,
+ "band":"🟡 谨慎/有条件","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"赛道补腿型（BA无提升属地板，但小分子+急性提神+能量赛道补回）",
+ "key_data":{"MW":224.22,"logP":"~ -0.2~0 区间(嘌呤生物碱,比咖啡因略低logD)","pKa":"弱酸/弱碱(四甲基尿酸,1,3,7,9-四甲基尿酸)","oral_BA":"口服吸收良好，Tmax≈2h(well absorbed)；BA较咖啡因略软但属地板","BA_mechanism":"BA已高地板型：1,3,7,9-四甲基尿酸,咖啡因同系物小分子(MW224)，口服即吸收良好，无低BA缺口可救→B给地板7；舌下意义在onset(起效)非extent(总吸收)","dose_mg":"~100-200mg(TeaCrine标准用量,研究亦用25-125mg±咖啡因)，单膜可装","subl_evidence":"无人体舌下PK；与咖啡因合用可提高其BA与效价(协同非舌下)"},
+ "notes":"A=13：MW224小分子、咖啡因类似物，理化对标咖啡因(锚A13)→给13。B=7：口服已well-absorbed属BA高地板，无首过缺口可救，对标咖啡因B9略低取7。C=13：兴奋剂急性即感提神(急性C中高)，对标咖啡因C14取13。D=9：100-200mg刚好压在50-100mg档上沿~100mg线，给9。E=7：嘌呤生物碱稳定、口感可控不需复杂包埋。F=11：能量赛道可对标/搭咖啡因便车，但消费者教育度远低于咖啡因、品牌认知弱→需差异化，10-15取低11。无kill。总分60落『谨慎/有条件』：能量小分子真能舌下，但本质是咖啡因的弱化平替+市场教育不足，对标咖啡因75而低15合理。",
+ "one_liner":"咖啡因同系物小分子，理化与急性提神接近咖啡因(可舌下)，但口服BA已是地板无可救+市场教育度远低于咖啡因→谨慎/有条件的能量赛道补腿型。",
+ "sources":["https://pubmed.ncbi.nlm.nih.gov/28875060/","https://www.nutritionaloutlook.com/view/bioavailability-potency-theacrine-enhanced-when-combined-caffeine-study-suggests","https://www.hsnstore.eu/blog/supplements/sport-performance/theacrine-the-next-caffeine/","PubChem CID 391686"],
+ "confidence":"high + 说明：MW224四甲基尿酸、口服良好吸收Tmax~2h、咖啡因协同提BA均多源一致；剂量100-200mg为TeaCrine行业标准；舌下PK无人体对照属推断。"}
