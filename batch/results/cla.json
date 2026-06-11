@@ -1,0 +1,9 @@
+{"id":"cla","name":"共轭亚油酸 CLA","mode":"supplement","src":["fda","amazon"],
+ "A":9,"B":5,"C":4,"D":0,"E":4,"F":0,"G":null,"kill":"dose","sellable":null,
+ "tech_moat":22,"comm":0,"supp_total":22,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data":{"MW":280.45,"logP":"~6.8(亲脂脂肪酸，估算)","pKa":"~4.8(羧酸)","oral_BA":"高(脂肪酸经常规脂质途径吸收，BA已高地板，无可救缺口)","BA_mechanism":"路线错误/地板：作为长链脂肪酸口服即经胆汁乳化+肠道脂质吸收良好，BA本无缺口；且减脂机制需克级慢性积累作用于脂肪代谢，入血即感不成立——舌下既无BA可救也无急性场景","dose_mg":"1000–6000mg/天(克级油)——单膜物理装不下，dose一票否决","subl_evidence":"无任何舌下/buccal人体PK；克级脂肪酸油本就不该做舌下膜(载量物理不可能)"},
+ "notes":"A=9：MW280<500且亲脂利于被动透膜，但克级剂量+羧酸+油性根本谈不上单膜舌下，给中性偏低。B=5：BA已高地板型——脂肪酸口服经脂质途径吸收本就良好无缺口，舌下救不动；且减脂靠克级慢性积累，入血到不了'急性减脂'靶点。C=4：纯慢性积累(6-12月才见~1kg脂肪)，无急性即感。D=0：常规有效剂量1-6克(克级油)，单膜物理装不下→dose一票否决，D记0、总分封≤40(实际22)。E=4：油性脂肪酸需乳化/微囊且无掩味必要但载量已废。F=0：'CLA减脂/燃脂'直接踩TikTok减肥/食欲红线→tiktok本也封45，但dose(40)更狠，取更严的根基不成立。综合🔴直接Pass。",
+ "one_liner":"克级减脂油，剂量物理否决——舌下既装不下也无BA缺口可救，④低技×低商直接Pass。",
+ "sources":["https://www.sigmaaldrich.com/US/en/substance/bbeconjugatedlinoleicacid2804522880031","https://www.healthline.com/nutrition/conjugated-linoleic-acid","https://www.sciencedirect.com/science/article/pii/S0002916523280557","https://pmc.ncbi.nlm.nih.gov/articles/PMC7401241/","https://www.webmd.com/vitamins/ai/ingredientmono-826/conjugated-linoleic-acid-cla"],
+ "confidence":"high + 说明：MW280.45/C18H32O2/亲脂为脂肪酸公认值；克级有效剂量(1-6g/天)有meta分析与多份综述支撑→dose否决稳；脂肪酸口服BA高地板属脂质生理常识，logP为估算。"}

@@ -1,0 +1,9 @@
+{"id":"chlorophyll","name":"叶绿素 Chlorophyll","mode":"supplement","src":["fda","amazon"],
+ "A":3,"B":3,"C":2,"D":8,"E":4,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":20,"comm":0,"supp_total":20,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"概念错配/渗透不可能型（分子根本透不过，或靶点不在血液）",
+ "key_data":{"MW":"市售多为水溶性‘叶绿素铜钠盐 chlorophyllin / sodium copper chlorophyllin’，主成分 Cu-chlorin e6/e4，MW≈722-724（C34H29CuN4Na3O6，>500 大卟啉金属络合物）；天然叶绿素 a≈893、b≈907（更大、亲脂、带植醇尾）","logP":"chlorophyllin 经磺化/去植醇后水溶但为大分子三钠盐(高度带电、强亲水)；天然叶绿素极亲脂结晶(植醇尾)——两端都不在舌下理想窗口","pKa":"chlorophyllin 含多个羧酸盐(三钠盐)，生理 pH 下高度带电阴离子","oral_BA":"天然叶绿素口服仅约 1-3% 吸收，余随粪便排出(为 pheophytin/pyropheophytin 代谢物)；chlorophyllin 部分被吸收但缓慢且仅 Cu-chlorin e4 入血/肝肾，整体低且为代谢物，非原型大分子整体入血","BA_mechanism":"渗透不可能/概念错配：核心是 MW≈722 的带电大卟啉金属络合物(或更大的亲脂天然叶绿素)，远超舌下被动透膜窗口；低BA是分子太大+带电透不过膜(渗透型)，舌下绝无法成倍救回 → A/B 双低(各3)","dose_mg":"叶绿素铜钠盐常规 100-300 mg/日(分次)——上限尚可装膜(D=8)，但装得下不代表透得过","subl_evidence":"无人体舌下/buccal PK 提升证据；厂商‘叶绿素水/含片’主打除臭/口气，靠口腔局部接触而非黏膜吸收入血"},
+ "notes":"A=3：主成分 chlorophyllin MW≈722 带电大卟啉络合物(天然叶绿素更大更亲脂)，远超舌下透膜窗口，舌下吸收近零。B=3：低BA是分子太大+带电透不过膜(渗透型)，非首过，舌下救不动→渗透不可能。C=2：作为‘排毒/除臭/抗氧/绿色’纯慢性，无急性即感。D=8：100-300 mg 上限尚可装单膜(故 D 给中等 8，是 4 项里唯一不糟的)，但装得下≠透得过。E=4：金属青绿色强染色+草青/微金属味，掩味中等偏难、易染口腔。F=0：greens/草本叶绿素，TikTok 上以‘排毒/减重/清肠/祛痘美肤’病态走红→命中『所有草本+减肥+美白/淡斑+疾病claim』红线，kill=tiktok 封顶≤45，实得 20。",
+ "one_liner":"叶绿素铜钠盐是 MW≈722 带电大卟啉络合物(天然叶绿素更大亲脂)，渗透型透不过黏膜、舌下救不动(D 虽能装下也没用)，greens+排毒/美肤叙事踩 TikTok 红线 → 20 🔴 直接Pass。",
+ "sources":["https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals/chlorophyll-metallo-chlorophyll-derivatives","https://www.chemicalbook.com/ChemicalProductProperty_EN_CB7705502.htm","https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.3681"],
+ "confidence":"high（chlorophyllin MW≈722-724/带电三钠盐/天然叶绿素1-3%吸收/Cu-chlorin e4 缓慢部分入血/100-300mg剂量/greens 减重·美肤 tiktok 封顶均多源确证；渗透不可能判定基于大MW+带电，稳）"}

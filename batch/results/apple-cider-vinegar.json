@@ -1,0 +1,9 @@
+{"id":"apple-cider-vinegar","name":"苹果醋 ACV","mode":"supplement","src":["fda","amazon"],
+ "A":5,"B":3,"C":4,"D":3,"E":3,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":18,"comm":0,"supp_total":18,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data":{"MW":"活性成分乙酸/醋酸 acetic acid 60.05（CH3COOH，极小分子）；但 ACV 本身仅含 5-6% 乙酸，其余为水+苹果多酚/糖等","logP":"乙酸 logP≈-0.17（极亲水小分子，pKa 4.76，胃肠/口腔近中性下大部分解离为乙酸根带电）","pKa":"乙酸 pKa 4.76（口腔 pH≈6.7 下以乙酸根阴离子为主，带电不利被动透膜）","oral_BA":"乙酸是膳食短链脂肪酸，口服经胃肠几乎完全吸收并快速代谢入 TCA 循环——口服 BA 已是地板(近100%)，无可救缺口；‘功效’机制(餐后血糖、胃排空延缓)多发生在胃肠腔局部而非靠提高入血浓度","BA_mechanism":"BA 已高地板 + 局部作用：乙酸口服吸收近完全，舌下无任何提升空间(B=3)；且许多代谢效应是胃肠腔局部(延缓胃排空/抑制双糖酶)，绕过胃肠的舌下反而丢失局部作用 → 舌下不仅无益且方向错","dose_mg":"常规 1-2 汤匙液体(15-30 mL ACV，含约 750-1800 mg 乙酸)/餐——以乙酸计已属克级/数百毫克，且需随餐液体量；单膜装不下有效乙酸量，D=3","subl_evidence":"无人体舌下/buccal PK；含化稀醋酸只会刺激口腔/腐蚀牙釉质，无吸收增益宣称"},
+ "notes":"A=5：活性乙酸虽 MW60 极小，但 pKa4.76 在口腔中性 pH 下以带电乙酸根为主、极亲水，被动透膜并不理想，且‘产品’是稀液体而非纯分子。B=3：乙酸口服 BA 已近100%(地板)，舌下零提升；且功效多为胃肠腔局部(胃排空/血糖)，绕过胃肠的舌下方向错。C=4：餐后血糖/饱腹有半急性感但弱、非药物级急起效。D=3：有效需 15-30 mL(约 750-1800 mg 乙酸)随餐，单膜装不下。E=3：强酸醋味/刺激+腐蚀牙釉质，掩味难、含醋酸成膜稳定性亦差。F=0：ACV 核心叙事即减重/食欲/血糖→命中 TikTok『减肥/食欲抑制+疾病claim』红线，kill=tiktok 封顶≤45，实得 18。",
+ "one_liner":"乙酸口服已近100%吸收(无可救地板)、功效多在胃肠腔局部、有效量是随餐 15-30 mL 稀醋酸装不进膜，叠减重 claim 踩 TikTok 红线 → 18 🔴 直接Pass。",
+ "sources":["https://en.wikipedia.org/wiki/Acetic_acid","https://www.healthline.com/nutrition/apple-cider-vinegar-weight-loss","https://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/apple-cider-vinegar-for-weight-loss/faq-20058394"],
+ "confidence":"high（乙酸 MW60.05/pKa4.76/口服近完全吸收、ACV 5-6% 乙酸、1-2 汤匙剂量、减重 claim tiktok 封顶均确证；舌下方向错+地板判定基于乙酸吸收/局部作用机制，结论稳）"}
