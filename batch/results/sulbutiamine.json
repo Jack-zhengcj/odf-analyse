@@ -1,9 +1,59 @@
-{"id":"sulbutiamine","name":"舒布硫胺 Sulbutiamine","mode":"supplement","src":["fda"],
- "A":5,"B":8,"C":10,"D":0,"E":6,"F":8,"G":null,"kill":"dose","sellable":null,
- "tech_moat":29,"comm":8,"supp_total":37,
- "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
- "key_data":{"MW":702.85,"logP":"亲脂(较硫胺显著提高，二硫键开环式脂溶设计)","pKa":"季铵噻唑(永久带正电季铵)+酯键","oral_BA":"口服可吸收(脂溶性优于硫胺,设计目的即提高吸收与入脑)，BA非主要瓶颈","BA_mechanism":"路线/剂量型：合成亲脂硫胺二聚体(MW702)，脂溶性使其能过血脑屏障升脑内硫胺三磷酸——口服吸收并不差，真正瓶颈是400-600mg的克级前剂量，舌下并无BA可救的缺口","dose_mg":"400-600mg/日(人体试验常用剂量)→ 远超100mg单膜上限，dose一票否决","subl_evidence":"无人体舌下PK；即便有也无意义，剂量物理装不下"},
- "notes":"D=0：常规有效剂量400-600mg，单膜物理装不下→dose一票否决cap40。A=5：MW702>500、含永久带电季铵，虽脂溶但分子大且剂量巨大，舌下吸收不利。B=8：脂溶性设计本就为提高口服吸收+过BBB，口服BA非瓶颈、无可救缺口，给地板偏低8。C=10：提神半急性(用于乏力/asthenia)，有一定起效感故中。E=6：含硫二聚体需一定处理但非死局。F=8：合成nootropic小众，需自费教育。结论：剂量否决型，37分对标剂量装不下的克级粉一档，直接Pass。",
- "one_liner":"亲脂硫胺二聚体能过血脑屏障是其卖点，但400-600mg克级前剂量物理装不进口溶膜→剂量一票否决，且口服吸收本不差无BA可救，直接Pass。",
- "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC7210561/","https://nootropicsexpert.com/sulbutiamine/","https://supplementsinreview.com/nootropic/sulbutiamine-nootropic/","PubChem CID 108025"],
- "confidence":"high + 说明：剂量400-600mg与亲脂过BBB机制多源一致(含PMC综述)；MW702.85为分子式公认值；logP具体数值文献少但定性『显著亲脂于硫胺』确定。"}
+{
+ "id": "sulbutiamine",
+ "name": "舒布硫胺 Sulbutiamine",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 5,
+ "B": 8,
+ "C": 10,
+ "D": 0,
+ "E": 6,
+ "F": 8,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 29,
+ "comm": 8,
+ "supp_total": 37,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": 702.85,
+  "logP": "亲脂(较硫胺显著提高，二硫键开环式脂溶设计)",
+  "pKa": "季铵噻唑(永久带正电季铵)+酯键",
+  "oral_BA": "口服可吸收(脂溶性优于硫胺,设计目的即提高吸收与入脑)，BA非主要瓶颈",
+  "BA_mechanism": "路线/剂量型：合成亲脂硫胺二聚体(MW702)，脂溶性使其能过血脑屏障升脑内硫胺三磷酸——口服吸收并不差，真正瓶颈是400-600mg的克级前剂量，舌下并无BA可救的缺口",
+  "dose_mg": "400-600mg/日(人体试验常用剂量)→ 远超100mg单膜上限，dose一票否决",
+  "subl_evidence": "无人体舌下PK；即便有也无意义，剂量物理装不下"
+ },
+ "notes": "D=0：常规有效剂量400-600mg，单膜物理装不下→dose一票否决cap40。A=5：MW702>500、含永久带电季铵，虽脂溶但分子大且剂量巨大，舌下吸收不利。B=8：脂溶性设计本就为提高口服吸收+过BBB，口服BA非瓶颈、无可救缺口，给地板偏低8。C=10：提神半急性(用于乏力/asthenia)，有一定起效感故中。E=6：含硫二聚体需一定处理但非死局。F=8：合成nootropic小众，需自费教育。结论：剂量否决型，37分对标剂量装不下的克级粉一档，直接Pass。",
+ "one_liner": "亲脂硫胺二聚体能过血脑屏障是其卖点，但400-600mg克级前剂量物理装不进口溶膜→剂量一票否决，且口服吸收本不差无BA可救，直接Pass。",
+ "sources": [
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7210561/",
+  "https://nootropicsexpert.com/sulbutiamine/",
+  "https://supplementsinreview.com/nootropic/sulbutiamine-nootropic/",
+  "PubChem CID 108025"
+ ],
+ "confidence": "high + 说明：剂量400-600mg与亲脂过BBB机制多源一致(含PMC综述)；MW702.85为分子式公认值；logP具体数值文献少但定性『显著亲脂于硫胺』确定。",
+ "m_demand": 10,
+ "m_story": 12,
+ "m_format": 6,
+ "m_claim": 10,
+ "m_econ": 9,
+ "commercial": 47,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "品牌扒皮",
+  "价格锚碾压"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "合成B1衍生物的nootropic小众赛道，脑能量/认知疲劳叙事弱、消费者教育成本高；胶囊400-600mg才是正解，无急性体感退款风险大，约47分边缘放弃"
+}

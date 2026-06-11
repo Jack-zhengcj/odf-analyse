@@ -1,7 +1,61 @@
-{"id":"manganese","name":"锰 Manganese","mode":"supplement","src":["fda"],
- "A":3,"B":3,"C":3,"D":13,"E":6,"F":6,"G":null,"kill":"none","sellable":null,
- "tech_moat":28,"comm":6,"supp_total":34,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"概念错配/渗透不可能型（带电金属离子，靶点为慢性酶辅因子）",
- "key_data":{"MW":"Mn²⁺ ≈54.9；常见盐 硫酸锰 151.0 / 葡萄糖酸锰 445.2","logP":"不适用——带 2+ 电荷金属阳离子/无机盐，强亲水，无被动透膜窗口","pKa":"金属离子，无经典 pKa；生理 pH 下以水合 Mn²⁺/络合形态存在","oral_BA":"GI 吸收率 ≤5%(健康成人约 1-5%)，且~97% 被吸收的 Mn 经胆汁排出 → 仅约 3% 真正进入体循环","BA_mechanism":"路线错误+渗透不可能型——肠吸收本就极低且经胆汁快速清除，靶点为精氨酸酶/Mn-SOD/丙酮酸羧化酶等慢性酶辅因子；非肝首过，舌下绕不出 AUC；高暴露反致神经毒性(锰中毒/帕金森样)而非获益","dose_mg":"AI 1.8-2.3 mg/d，UL 11 mg；mg 级——载药轻松但口服过量有神经毒性","subl_evidence":"无舌下/口腔黏膜 PK 优势证据；2+ 离子无被动透膜需求，舌下=噱头","taste":"金属涩味，需掩(可掩)","market":"锰单补极小众(膳食/饮水普遍够)，多搭骨骼/多维；竞品廉价；无爆款叙事；非草本/减肥 → 不直接踩硬红线但赛道弱","regulatory":"DSHEA 合法；EFSA/文献警示口服锰过量神经毒性、无明确获益证据，UL 11mg；需剂量把控；‘舌下新途径’风险低但叙事站不住"},
- "one_liner":"锰是带 2+ 电荷金属离子，肠吸收 ≤5% 且~97% 经胆汁排出仅~3% 入血，靶点为 Mn-SOD/精氨酸酶等慢性酶辅因子——非肝首过、舌下救不动，且口服过量有神经毒性无获益；剂量 1.8-2.3mg 易装但概念彻底错配，技术 28、总分 34🔴 直接 Pass。",
- "sources":["https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2023.8413","https://www.ncbi.nlm.nih.gov/books/NBK222332/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4609933/","https://pmc.ncbi.nlm.nih.gov/articles/PMC8122055/","https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/"],
- "confidence":"high（锰为带电金属离子、GI 吸收 ≤5% + 胆汁清除 97% 为 EFSA/文献共识、AI/UL 明确、神经毒性确凿；舌下无意义判定坚实；F 商业分中置信）"}
+{
+ "id": "manganese",
+ "name": "锰 Manganese",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 3,
+ "B": 3,
+ "C": 3,
+ "D": 13,
+ "E": 6,
+ "F": 6,
+ "G": null,
+ "kill": "none",
+ "sellable": null,
+ "tech_moat": 28,
+ "comm": 6,
+ "supp_total": 34,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃",
+ "archetype": "概念错配/渗透不可能型（带电金属离子，靶点为慢性酶辅因子）",
+ "key_data": {
+  "MW": "Mn²⁺ ≈54.9；常见盐 硫酸锰 151.0 / 葡萄糖酸锰 445.2",
+  "logP": "不适用——带 2+ 电荷金属阳离子/无机盐，强亲水，无被动透膜窗口",
+  "pKa": "金属离子，无经典 pKa；生理 pH 下以水合 Mn²⁺/络合形态存在",
+  "oral_BA": "GI 吸收率 ≤5%(健康成人约 1-5%)，且~97% 被吸收的 Mn 经胆汁排出 → 仅约 3% 真正进入体循环",
+  "BA_mechanism": "路线错误+渗透不可能型——肠吸收本就极低且经胆汁快速清除，靶点为精氨酸酶/Mn-SOD/丙酮酸羧化酶等慢性酶辅因子；非肝首过，舌下绕不出 AUC；高暴露反致神经毒性(锰中毒/帕金森样)而非获益",
+  "dose_mg": "AI 1.8-2.3 mg/d，UL 11 mg；mg 级——载药轻松但口服过量有神经毒性",
+  "subl_evidence": "无舌下/口腔黏膜 PK 优势证据；2+ 离子无被动透膜需求，舌下=噱头",
+  "taste": "金属涩味，需掩(可掩)",
+  "market": "锰单补极小众(膳食/饮水普遍够)，多搭骨骼/多维；竞品廉价；无爆款叙事；非草本/减肥 → 不直接踩硬红线但赛道弱",
+  "regulatory": "DSHEA 合法；EFSA/文献警示口服锰过量神经毒性、无明确获益证据，UL 11mg；需剂量把控；‘舌下新途径’风险低但叙事站不住"
+ },
+ "one_liner": "锰是带 2+ 电荷金属离子，肠吸收 ≤5% 且~97% 经胆汁排出仅~3% 入血，靶点为 Mn-SOD/精氨酸酶等慢性酶辅因子——非肝首过、舌下救不动，且口服过量有神经毒性无获益；剂量 1.8-2.3mg 易装但概念彻底错配，技术 28、总分 34🔴 直接 Pass。",
+ "sources": [
+  "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2023.8413",
+  "https://www.ncbi.nlm.nih.gov/books/NBK222332/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4609933/",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8122055/",
+  "https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/"
+ ],
+ "confidence": "high（锰为带电金属离子、GI 吸收 ≤5% + 胆汁清除 97% 为 EFSA/文献共识、AI/UL 明确、神经毒性确凿；舌下无意义判定坚实；F 商业分中置信）",
+ "m_demand": 5,
+ "m_story": 5,
+ "m_format": 5,
+ "m_claim": 9,
+ "m_econ": 5,
+ "commercial": 29,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "价格锚碾压",
+  "高退款无体感"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🔴 放弃",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "微量矿物极小众，无刚需叙事无可视化无剂型新奇，被白牌多维产品碾压；骨骼/酶辅因子claim枯燥无传播力，技术商业双低典型放弃标的。"
+}

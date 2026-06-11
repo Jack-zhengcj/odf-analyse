@@ -1,7 +1,60 @@
-{"id":"flaxseed-ala","name":"亚麻籽油 Flaxseed ALA","mode":"supplement","src":["fda","amazon"],
- "A":5,"B":3,"C":4,"D":0,"E":5,"F":9,"G":null,"kill":"dose","sellable":null,
- "tech_moat":17,"comm":9,"supp_total":26,
- "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
- "key_data":{"MW":"ALA 278.4 g/mol（亚麻籽油为甘油三酯混合物，非单分子）","logP":"ALA XLogP3≈6.5（极亲脂脂肪酸）","pKa":"羧基≈4.8（油中以酯键存在）","oral_BA":"作为膳食脂肪基本完全吸收，但ALA→EPA转化仅5–10%、→DHA<0.5%","BA_mechanism":"路线错误/地板：作为脂肪口服吸收已充分，无首过缺口可救；真正瓶颈是体内ALA→EPA/DHA转化率极低，舌下完全改变不了转化","dose_mg":"有效量 g 级：1勺(约14g油)含7–8g ALA；EFSA AI 1–2g/日，研究常用2–3g ALA/日 → 远超100mg","subl_evidence":"无舌下/buccal PK；油本身无舌下化理由"},
- "notes":"A=5：ALA虽MW278可透膜，但成分是g级甘油三酯油，舌下场景无意义；B=3：作为膳食脂肪口服吸收已是地板、无首过缺口，瓶颈在转化酶限速(舌下救不动)，属路线错误；C=4：纯慢性omega-3结构脂，无急性感；D=0：单次有效量g级油，单膜物理装不下，dose一票否决封顶40；E=5：油可成软膜但量大、轻微籽腥可掩；F=9：omega-3赛道拥挤、植物ALA转化差被反复科普打脸(Harvard'why not flaxseed')，差异化弱但非红线(脂肪酸非草本)。","one_liner":"g级食用油+转化率地板，舌下既装不下也救不动，剂量否决直接Pass。",
- "sources":["https://www.health.harvard.edu/heart-health/why-not-flaxseed-oil","https://www.dhaomega3.org/overview/conversion-efficiency-of-ala-to-dha-in-humans","https://pmc.ncbi.nlm.nih.gov/articles/PMC2989356/","PubChem CID 5280934 (alpha-linolenic acid)"],"confidence":"high：g级剂量与低转化率为omega-3领域共识，dose否决稳"}
+{
+ "id": "flaxseed-ala",
+ "name": "亚麻籽油 Flaxseed ALA",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 5,
+ "B": 3,
+ "C": 4,
+ "D": 0,
+ "E": 5,
+ "F": 9,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 17,
+ "comm": 9,
+ "supp_total": 26,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": "ALA 278.4 g/mol（亚麻籽油为甘油三酯混合物，非单分子）",
+  "logP": "ALA XLogP3≈6.5（极亲脂脂肪酸）",
+  "pKa": "羧基≈4.8（油中以酯键存在）",
+  "oral_BA": "作为膳食脂肪基本完全吸收，但ALA→EPA转化仅5–10%、→DHA<0.5%",
+  "BA_mechanism": "路线错误/地板：作为脂肪口服吸收已充分，无首过缺口可救；真正瓶颈是体内ALA→EPA/DHA转化率极低，舌下完全改变不了转化",
+  "dose_mg": "有效量 g 级：1勺(约14g油)含7–8g ALA；EFSA AI 1–2g/日，研究常用2–3g ALA/日 → 远超100mg",
+  "subl_evidence": "无舌下/buccal PK；油本身无舌下化理由"
+ },
+ "notes": "A=5：ALA虽MW278可透膜，但成分是g级甘油三酯油，舌下场景无意义；B=3：作为膳食脂肪口服吸收已是地板、无首过缺口，瓶颈在转化酶限速(舌下救不动)，属路线错误；C=4：纯慢性omega-3结构脂，无急性感；D=0：单次有效量g级油，单膜物理装不下，dose一票否决封顶40；E=5：油可成软膜但量大、轻微籽腥可掩；F=9：omega-3赛道拥挤、植物ALA转化差被反复科普打脸(Harvard'why not flaxseed')，差异化弱但非红线(脂肪酸非草本)。",
+ "one_liner": "g级食用油+转化率地板，舌下既装不下也救不动，剂量否决直接Pass。",
+ "sources": [
+  "https://www.health.harvard.edu/heart-health/why-not-flaxseed-oil",
+  "https://www.dhaomega3.org/overview/conversion-efficiency-of-ala-to-dha-in-humans",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2989356/",
+  "PubChem CID 5280934 (alpha-linolenic acid)"
+ ],
+ "confidence": "high：g级剂量与低转化率为omega-3领域共识，dose否决稳",
+ "m_demand": 13,
+ "m_story": 9,
+ "m_format": 7,
+ "m_claim": 11,
+ "m_econ": 5,
+ "commercial": 45,
+ "best_format": "softgel/capsule(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "价格锚碾压",
+  "品牌扒皮",
+  "高退款无体感"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "植物omega-3里ALA到EPA/DHA转化率不足10%被哈佛等主流媒体反复科普打脸，需求窄于鱼油且无TikTok叙事，g级油softgel被大牌碾压；最廉价成分之一"
+}

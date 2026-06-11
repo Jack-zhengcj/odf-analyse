@@ -1,9 +1,59 @@
-{"id":"krill-oil","name":"磷虾油 Krill oil","mode":"supplement","src":["fda","amazon"],
- "A":6,"B":6,"C":4,"D":0,"E":3,"F":6,"G":null,"kill":"dose","sellable":null,
- "tech_moat":19,"comm":6,"supp_total":25,
- "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
- "key_data":{"MW":"EPA 302.45 / DHA 328.49（单分子<500），磷虾油中大部分EPA/DHA结合于磷脂(phospholipid，分子更大>700)而非甘油三酯；另含astaxanthin/胆碱","logP":"EPA/DHA XLogP≈6–7极亲脂；磷脂结合型两亲但整体油相，须乳化","pKa":"游离脂肪酸羧基pKa≈4.8；磷脂磷酸基pKa低段解离——口腔中性pH带电","oral_BA":"磷脂结合型72h-BA略高于鱼油/磷虾粉(血浆磷脂EPA/DHA增量iAUC≈89% vs 鱼油≈59%)，但单粒omega-3含量低(常120mg/粒)→需大量粒数，BA优势不改变克级总量需求","BA_mechanism":"BA已高地板/略优+路线非首过(伪需求)：磷脂载体使乳化/吸收略优(无需额外胆汁)，但仍经小肠→淋巴乳糜微粒入血天然绕肝首过，无肝首过缺口可救；舌下救不动。B低6。真正死因=克级有效剂量装不进膜→dose一票否决","dose_mg":"有效剂量克级且单位浓度低：研究达1680mg EPA+DHA需14粒(120mg/粒)；要起效须g级油→远超单膜≤100mg→D=0，kill=dose封顶≤40","subl_evidence":"无人体舌下/buccal PK；g级油须吞服，舌下不可承载；厂商主打‘无鱼腥嗝’软胶囊(非舌下)"},
- "notes":"A=6：EPA/DHA单分子<500但XLogP~6–7极亲脂、磷脂结合型分子更大、成药是克级油，A中低。B=6：磷脂载体使BA略优于鱼油(iAUC~89%)但仍是淋巴乳糜微粒天然绕肝首过的‘地板/略优’、无首过缺口可救，舌下救不动(伪需求)。C=4：心脑/关节慢性积累、非急性即感。D=0：单粒omega-3仅~120mg、达标须g级(1680mg需14粒)，远超单膜≤100mg→dose一票否决(主死因)。E=3：磷虾油鱼腥(dimension-glossary正以krill oil级作‘强腥不可掩’范例)，掩味很难→E低3。F=6：磷虾油是omega-3溢价小众(比鱼油贵)、非草本红线但市场窄+ODF不可行，给6。kill=dose封顶≤40，实得25。",
- "one_liner":"剂量否决+krill级强腥：单粒omega-3仅~120mg、起效须克级油(磷脂BA略优也救不了总量)、经淋巴绕首过无缺口可救，舌下装不下且腥不可掩 → kill=dose 25 🔴 直接Pass。",
- "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC4374210/ (磷虾油/磷虾粉/鱼油单剂量交叉BA，磷脂型72h-BA较高)","https://pubmed.ncbi.nlm.nih.gov/21854650/ (鱼油vs磷虾油血浆磷脂EPA/DHA掺入，1680mg需14粒krill)","https://pmc.ncbi.nlm.nih.gov/articles/PMC11914527/ (磷虾油机制/包埋技术综述)","https://pubchem.ncbi.nlm.nih.gov/compound/Eicosapentaenoic-Acid (EPA MW302)"],
- "confidence":"high：EPA/DHA理化、磷脂型BA略优(iAUC~89%)、克级有效剂量+单粒120mg、淋巴吸收绕首过均有人体证据；dose一票否决与krill级强腥(glossary范例)确定。落档25合理。"}
+{
+ "id": "krill-oil",
+ "name": "磷虾油 Krill oil",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 6,
+ "B": 6,
+ "C": 4,
+ "D": 0,
+ "E": 3,
+ "F": 6,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 19,
+ "comm": 6,
+ "supp_total": 25,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": "EPA 302.45 / DHA 328.49（单分子<500），磷虾油中大部分EPA/DHA结合于磷脂(phospholipid，分子更大>700)而非甘油三酯；另含astaxanthin/胆碱",
+  "logP": "EPA/DHA XLogP≈6–7极亲脂；磷脂结合型两亲但整体油相，须乳化",
+  "pKa": "游离脂肪酸羧基pKa≈4.8；磷脂磷酸基pKa低段解离——口腔中性pH带电",
+  "oral_BA": "磷脂结合型72h-BA略高于鱼油/磷虾粉(血浆磷脂EPA/DHA增量iAUC≈89% vs 鱼油≈59%)，但单粒omega-3含量低(常120mg/粒)→需大量粒数，BA优势不改变克级总量需求",
+  "BA_mechanism": "BA已高地板/略优+路线非首过(伪需求)：磷脂载体使乳化/吸收略优(无需额外胆汁)，但仍经小肠→淋巴乳糜微粒入血天然绕肝首过，无肝首过缺口可救；舌下救不动。B低6。真正死因=克级有效剂量装不进膜→dose一票否决",
+  "dose_mg": "有效剂量克级且单位浓度低：研究达1680mg EPA+DHA需14粒(120mg/粒)；要起效须g级油→远超单膜≤100mg→D=0，kill=dose封顶≤40",
+  "subl_evidence": "无人体舌下/buccal PK；g级油须吞服，舌下不可承载；厂商主打‘无鱼腥嗝’软胶囊(非舌下)"
+ },
+ "notes": "A=6：EPA/DHA单分子<500但XLogP~6–7极亲脂、磷脂结合型分子更大、成药是克级油，A中低。B=6：磷脂载体使BA略优于鱼油(iAUC~89%)但仍是淋巴乳糜微粒天然绕肝首过的‘地板/略优’、无首过缺口可救，舌下救不动(伪需求)。C=4：心脑/关节慢性积累、非急性即感。D=0：单粒omega-3仅~120mg、达标须g级(1680mg需14粒)，远超单膜≤100mg→dose一票否决(主死因)。E=3：磷虾油鱼腥(dimension-glossary正以krill oil级作‘强腥不可掩’范例)，掩味很难→E低3。F=6：磷虾油是omega-3溢价小众(比鱼油贵)、非草本红线但市场窄+ODF不可行，给6。kill=dose封顶≤40，实得25。",
+ "one_liner": "剂量否决+krill级强腥：单粒omega-3仅~120mg、起效须克级油(磷脂BA略优也救不了总量)、经淋巴绕首过无缺口可救，舌下装不下且腥不可掩 → kill=dose 25 🔴 直接Pass。",
+ "sources": [
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4374210/ (磷虾油/磷虾粉/鱼油单剂量交叉BA，磷脂型72h-BA较高)",
+  "https://pubmed.ncbi.nlm.nih.gov/21854650/ (鱼油vs磷虾油血浆磷脂EPA/DHA掺入，1680mg需14粒krill)",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11914527/ (磷虾油机制/包埋技术综述)",
+  "https://pubchem.ncbi.nlm.nih.gov/compound/Eicosapentaenoic-Acid (EPA MW302)"
+ ],
+ "confidence": "high：EPA/DHA理化、磷脂型BA略优(iAUC~89%)、克级有效剂量+单粒120mg、淋巴吸收绕首过均有人体证据；dose一票否决与krill级强腥(glossary范例)确定。落档25合理。",
+ "m_demand": 18,
+ "m_story": 14,
+ "m_format": 7,
+ "m_claim": 10,
+ "m_econ": 7,
+ "commercial": 56,
+ "best_format": "softgel(非ODF)",
+ "efficacy_basis": "真实证据",
+ "redline": "none",
+ "risk_flags": [
+  "价格锚碾压",
+  "高退款无体感"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "磷虾油是真实Omega-3赛道的高溢价细分，磷脂BA略优+EPA/DHA证据扎实，但克级油装不进ODF(softgel才是最佳剂型)，鱼腥严重掩味难，且被Costco鱼油价格锚碾压；叙事稍硬、红人传播弱，做差异化要靠'磷脂型/无嗝'等功能背书。"
+}

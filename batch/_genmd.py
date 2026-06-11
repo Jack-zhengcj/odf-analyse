@@ -64,6 +64,22 @@ def md_for(d):
         L.append("")
     L.append("**结论**：" + d.get("one_liner", ""))
     L.append("")
+    if "commercial" in d and not is_drug:
+        L.append("## 四、商业可行性（第2轴 · 卖不卖得动）")
+        L.append("")
+        L.append("- M1需求 %s/25 · M2叙事 %s/25 · M3剂型即卖点 %s/20 · M4claim渠道 %s/15 · M5单位经济 %s/15" % (
+            d.get("m_demand"), d.get("m_story"), d.get("m_format"), d.get("m_claim"), d.get("m_econ")))
+        L.append("- → **商业可行性 %s/100** ｜ 技术护城河 %s/80 ｜ 四象限 **%s**" % (
+            d.get("commercial"), d.get("tech_moat"), d.get("quadrant2", "")))
+        L.append("- → go档位 **%s** ｜ 原型 **%s**" % (d.get("go_tier", ""), d.get("comm_archetype", "")))
+        L.append("- → 效力底色 **%s** ｜ 最佳剂型 **%s** ｜ 红线 **%s**" % (
+            d.get("efficacy_basis", ""), d.get("best_format", ""), d.get("redline", "none")))
+        rf = d.get("risk_flags") or []
+        if rf:
+            L.append("- → 风险面板：%s" % " / ".join(rf))
+        L.append("")
+        L.append("**商业判词**：" + d.get("commercial_one_liner", ""))
+        L.append("")
     return "\n".join(L)
 
 made = 0

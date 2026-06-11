@@ -1,8 +1,60 @@
-{"id":"selenium","name":"硒 Selenium","mode":"supplement","src":["fda"],
- "A":4,"B":3,"C":3,"D":15,"E":5,"F":6,"G":null,"kill":"none","sellable":null,
- "tech_moat":30,"comm":6,"supp_total":36,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"渗透型伪需求（mcg 装得下但带电/极性透不过黏膜，且 BA 已高、靶点为细胞内硒蛋白合成，舌下救不动）",
- "key_data":{"MW":"Se 78.97（元素）；常见形态 亚硒酸钠 172.9 / 硒代蛋氨酸 196.1 / 硒酸钠","logP":"不适用/极低——无机亚硒酸盐/硒酸盐为带电阴离子；硒代蛋氨酸为极性氨基酸，被动跨膜差","pKa":"无机硒为含氧阴离子(亚硒酸/硒酸)，生理 pH 带电；有机硒代氨基酸两性离子","oral_BA":">90%（有机硒代蛋氨酸经氨基酸主动转运、无机硒经被动扩散/转运，均高）——属 BA 已高地板，无可救缺口","BA_mechanism":"路线错误 + BA 已高地板：口服吸收已>90%，无首过缺口可救；且带电/极性透不过口腔黏膜（A 低）；更关键靶点为细胞内硒蛋白(谷胱甘肽过氧化物酶 GPx)合成——需经 selenocysteinyl-tRNA 在 UGA 位点掺入，是慢性细胞内过程，入血快慢与酶辅因子功能无关，舌下绕过首过毫无意义","dose_mg":"RDA 55 mcg/天（男 70/女 55），常规补 55-200 mcg；UL 255-400 mcg（>400mcg 致硒中毒 selenosis：蒜味呼吸/脱发/指甲脱落）。mcg 级 → 物理上轻松装进单膜（D 高）","subl_evidence":"无舌下/buccal 人体 PK 证据；无上市硒舌下/口腔膜剂；因 BA 已高+靶点为细胞内酶合成，舌下无增益"},
- "notes":"A=4：无机硒为带电含氧阴离子、有机硒为极性氨基酸，被动跨口腔黏膜差。B=3：口服 BA 已>90% 无可救缺口(地板)，且非首过；更本质是路线错误——靶点为细胞内 GPx 等硒蛋白经 tRNA 掺入合成，是慢性过程，入血快慢与功能无关，舌下救不动。C=3：纯慢性 trace element，GPx 活性数周才达平台，无急性即感(类 NMN territory)。D=15：决定性区别于镁/钾——剂量仅 55-200 mcg，物理上轻松装进单膜，载药不是问题。E=5：mcg 载量极小、味道可掩(高量才有蒜味)。F=6：硒小众(抗氧化/甲状腺/免疫)赛道不限流但无差异化、舌下膜无 BA 优势。技术 30/80、总分 36 🔴 直接 Pass——死于 A/B(透不过+BA已高+靶点错)而非剂量。",
- "one_liner":"硒是 mcg 级(55-200mcg)，物理装得下(D=15)，但无机硒带电/有机硒极性透不过黏膜(A 低)、口服 BA 已>90% 无缺口可救、靶点为细胞内硒蛋白(GPx)慢性掺入合成(B/C 低、路线错误)，舌下纯噱头。技术 30/80、总分 36 🔴 直接 Pass。",
- "sources":["https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/","https://lpi.oregonstate.edu/mic/minerals/selenium","https://pmc.ncbi.nlm.nih.gov/articles/PMC8193087/","https://www.ncbi.nlm.nih.gov/books/NBK557551/","https://nutritionsource.hsph.harvard.edu/selenium/"],
- "confidence":"高（RDA 55mcg/UL 255-400mcg/BA>90% 多源一致 NIH ODS/LPI；硒蛋白经 selenocysteinyl-tRNA UGA 位点掺入机制有 PMC8193087/Frontiers 支持；selenosis 慢性毒性确证；剂量 mcg 级 D 高、A/B 死因为机制推断+理化，诚实判定）"}
+{
+ "id": "selenium",
+ "name": "硒 Selenium",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 4,
+ "B": 3,
+ "C": 3,
+ "D": 15,
+ "E": 5,
+ "F": 6,
+ "G": null,
+ "kill": "none",
+ "sellable": null,
+ "tech_moat": 30,
+ "comm": 6,
+ "supp_total": 36,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃",
+ "archetype": "渗透型伪需求（mcg 装得下但带电/极性透不过黏膜，且 BA 已高、靶点为细胞内硒蛋白合成，舌下救不动）",
+ "key_data": {
+  "MW": "Se 78.97（元素）；常见形态 亚硒酸钠 172.9 / 硒代蛋氨酸 196.1 / 硒酸钠",
+  "logP": "不适用/极低——无机亚硒酸盐/硒酸盐为带电阴离子；硒代蛋氨酸为极性氨基酸，被动跨膜差",
+  "pKa": "无机硒为含氧阴离子(亚硒酸/硒酸)，生理 pH 带电；有机硒代氨基酸两性离子",
+  "oral_BA": ">90%（有机硒代蛋氨酸经氨基酸主动转运、无机硒经被动扩散/转运，均高）——属 BA 已高地板，无可救缺口",
+  "BA_mechanism": "路线错误 + BA 已高地板：口服吸收已>90%，无首过缺口可救；且带电/极性透不过口腔黏膜（A 低）；更关键靶点为细胞内硒蛋白(谷胱甘肽过氧化物酶 GPx)合成——需经 selenocysteinyl-tRNA 在 UGA 位点掺入，是慢性细胞内过程，入血快慢与酶辅因子功能无关，舌下绕过首过毫无意义",
+  "dose_mg": "RDA 55 mcg/天（男 70/女 55），常规补 55-200 mcg；UL 255-400 mcg（>400mcg 致硒中毒 selenosis：蒜味呼吸/脱发/指甲脱落）。mcg 级 → 物理上轻松装进单膜（D 高）",
+  "subl_evidence": "无舌下/buccal 人体 PK 证据；无上市硒舌下/口腔膜剂；因 BA 已高+靶点为细胞内酶合成，舌下无增益"
+ },
+ "notes": "A=4：无机硒为带电含氧阴离子、有机硒为极性氨基酸，被动跨口腔黏膜差。B=3：口服 BA 已>90% 无可救缺口(地板)，且非首过；更本质是路线错误——靶点为细胞内 GPx 等硒蛋白经 tRNA 掺入合成，是慢性过程，入血快慢与功能无关，舌下救不动。C=3：纯慢性 trace element，GPx 活性数周才达平台，无急性即感(类 NMN territory)。D=15：决定性区别于镁/钾——剂量仅 55-200 mcg，物理上轻松装进单膜，载药不是问题。E=5：mcg 载量极小、味道可掩(高量才有蒜味)。F=6：硒小众(抗氧化/甲状腺/免疫)赛道不限流但无差异化、舌下膜无 BA 优势。技术 30/80、总分 36 🔴 直接 Pass——死于 A/B(透不过+BA已高+靶点错)而非剂量。",
+ "one_liner": "硒是 mcg 级(55-200mcg)，物理装得下(D=15)，但无机硒带电/有机硒极性透不过黏膜(A 低)、口服 BA 已>90% 无缺口可救、靶点为细胞内硒蛋白(GPx)慢性掺入合成(B/C 低、路线错误)，舌下纯噱头。技术 30/80、总分 36 🔴 直接 Pass。",
+ "sources": [
+  "https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/",
+  "https://lpi.oregonstate.edu/mic/minerals/selenium",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8193087/",
+  "https://www.ncbi.nlm.nih.gov/books/NBK557551/",
+  "https://nutritionsource.hsph.harvard.edu/selenium/"
+ ],
+ "confidence": "高（RDA 55mcg/UL 255-400mcg/BA>90% 多源一致 NIH ODS/LPI；硒蛋白经 selenocysteinyl-tRNA UGA 位点掺入机制有 PMC8193087/Frontiers 支持；selenosis 慢性毒性确证；剂量 mcg 级 D 高、A/B 死因为机制推断+理化，诚实判定）",
+ "m_demand": 12,
+ "m_story": 12,
+ "m_format": 9,
+ "m_claim": 10,
+ "m_econ": 10,
+ "commercial": 53,
+ "best_format": "ODF或tablet",
+ "efficacy_basis": "弱证据",
+ "redline": "safety",
+ "risk_flags": [
+  "高退款无体感",
+  "价格锚碾压",
+  "成分合规红线"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件 ← 被『safety红线』下压(成分违法/安全，需先解合规)",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "mcg级矿物甲状腺/抗氧化小众赛道，合规友好但大牌0.05美元/片价格锚极强，UL 400mcg安全红线需严控，ODF剂量物理可行但BA优势不成立，整体小众难溢价"
+}

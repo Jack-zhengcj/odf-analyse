@@ -1,9 +1,59 @@
-{"id":"acetyl-l-carnitine","name":"乙酰左旋肉碱 ALCAR","mode":"supplement","src":["fda"],
- "A":7,"B":7,"C":8,"D":0,"E":7,"F":13,"G":null,"kill":"dose","sellable":null,
- "tech_moat":29,"comm":13,"supp_total":40,
- "band":"🟠 不推荐(伪需求)","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
- "key_data":{"MW":203.2,"logP":"logP≈-0.9~0（乙酰化后比肉碱稍亲脂，仍为两性/季铵带电）","pKa":"羧基~3.6；季铵N永久正电荷","oral_BA":"约15-25%（部分文献<5%）；显著肠壁/肝首过脱乙酰转为肉碱+乙酸","BA_mechanism":"渗透/转运体型为主，叠部分首过脱乙酰：OCTN2介导透BBB与吸收；比肉碱更能过血脑屏障(nootropic关键)。带电仍限被动透膜，舌下救不动整体extent，B给渗透型7","dose_mg":"1000-2000mg/次（认知用最低有效~1500mg/d）→ 超100mg，dose一票否决，D=0","subl_evidence":"无可靠人体舌下/buccal PK；克级剂量+带电使舌下不可行"},
- "notes":"D=0 + dose否决：常规1-2g克级，单膜装不下，封顶40。A7：MW203<500且乙酰化略增亲脂(比肉碱A6稍高)，但仍两性带电透膜有限。B7：渗透/转运体型——虽有部分首过脱乙酰，但口服BA低主因是带电+转运体饱和，舌下救不动总吸收，给渗透型7(不因『首过’抬高，因主缺口非首过)。C8：作为nootropic属慢性认知积累，但比纯慢性略带半急性『清醒感’仪式感，给C中8。E7：基本无味、稳定性可，不需重包埋。F13：益智/抗疲劳赛道有热度，nootropic在TikTok可走清醒/专注软定位，给13。比肉碱(39)略高仅因更能过BBB的差异化叙事+C略高，但剂量硬伤同样封顶。",
- "one_liner":"剂量否决型升级版：比肉碱更能过BBB(nootropic)，但仍克级带电→单膜装不下，舌下救不动，封顶40。",
- "sources":["https://pubmed.ncbi.nlm.nih.gov/14595704/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2556204/","https://nootropicsexpert.com/acetyl-l-carnitine/","PubChem CID 7045767 (Acetyl-L-carnitine, C9H17NO4, MW 203.24)"],
- "confidence":"high：BBB通透+OCTN2(PMID14595704)、PK(PMC2556204)、克级剂量与nootropic定位均有文献；BA区间(15-25% vs <5%)有分歧但均低，不改判定。剂量克级→dose否决稳。"}
+{
+ "id": "acetyl-l-carnitine",
+ "name": "乙酰左旋肉碱 ALCAR",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 7,
+ "B": 7,
+ "C": 8,
+ "D": 0,
+ "E": 7,
+ "F": 13,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 29,
+ "comm": 13,
+ "supp_total": 40,
+ "band": "🟠 不推荐(伪需求)",
+ "quadrant": "③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": 203.2,
+  "logP": "logP≈-0.9~0（乙酰化后比肉碱稍亲脂，仍为两性/季铵带电）",
+  "pKa": "羧基~3.6；季铵N永久正电荷",
+  "oral_BA": "约15-25%（部分文献<5%）；显著肠壁/肝首过脱乙酰转为肉碱+乙酸",
+  "BA_mechanism": "渗透/转运体型为主，叠部分首过脱乙酰：OCTN2介导透BBB与吸收；比肉碱更能过血脑屏障(nootropic关键)。带电仍限被动透膜，舌下救不动整体extent，B给渗透型7",
+  "dose_mg": "1000-2000mg/次（认知用最低有效~1500mg/d）→ 超100mg，dose一票否决，D=0",
+  "subl_evidence": "无可靠人体舌下/buccal PK；克级剂量+带电使舌下不可行"
+ },
+ "notes": "D=0 + dose否决：常规1-2g克级，单膜装不下，封顶40。A7：MW203<500且乙酰化略增亲脂(比肉碱A6稍高)，但仍两性带电透膜有限。B7：渗透/转运体型——虽有部分首过脱乙酰，但口服BA低主因是带电+转运体饱和，舌下救不动总吸收，给渗透型7(不因『首过’抬高，因主缺口非首过)。C8：作为nootropic属慢性认知积累，但比纯慢性略带半急性『清醒感’仪式感，给C中8。E7：基本无味、稳定性可，不需重包埋。F13：益智/抗疲劳赛道有热度，nootropic在TikTok可走清醒/专注软定位，给13。比肉碱(39)略高仅因更能过BBB的差异化叙事+C略高，但剂量硬伤同样封顶。",
+ "one_liner": "剂量否决型升级版：比肉碱更能过BBB(nootropic)，但仍克级带电→单膜装不下，舌下救不动，封顶40。",
+ "sources": [
+  "https://pubmed.ncbi.nlm.nih.gov/14595704/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2556204/",
+  "https://nootropicsexpert.com/acetyl-l-carnitine/",
+  "PubChem CID 7045767 (Acetyl-L-carnitine, C9H17NO4, MW 203.24)"
+ ],
+ "confidence": "high：BBB通透+OCTN2(PMID14595704)、PK(PMC2556204)、克级剂量与nootropic定位均有文献；BA区间(15-25% vs <5%)有分歧但均低，不改判定。剂量克级→dose否决稳。",
+ "m_demand": 19,
+ "m_story": 16,
+ "m_format": 8,
+ "m_claim": 11,
+ "m_econ": 10,
+ "commercial": 64,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "真实证据",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "价格锚碾压",
+  "品牌扒皮"
+ ],
+ "quadrant2": "🟣 营销驱动型爆品（卖叙事不卖科学，附风险面板）",
+ "go_tier": "🟣 营销驱动·可做",
+ "comm_archetype": "营销驱动型·真效力错格式（效力是真的，ODF不对→换最佳剂型）",
+ "commercial_one_liner": "认知/抗疲劳真实证据赛道，nootropic叙事可走，但克级带电装不进ODF→胶囊是正确剂型；赛道红海被白牌低价压，需成分故事差异化(过BBB胆碱供体)。"
+}

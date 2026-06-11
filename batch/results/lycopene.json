@@ -1,7 +1,59 @@
-{"id":"lycopene","name":"番茄红素 Lycopene","mode":"supplement","src":["fda"],
- "A":4,"B":4,"C":3,"D":14,"E":4,"F":9,"G":null,"kill":"none","sellable":null,
- "tech_moat":29,"comm":9,"supp_total":38,
- "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
- "key_data":{"MW":"536.87 g/mol（C40H56）","logP":"极亲脂，XLogP3级别极高(无含氧基团，比叶黄素更疏水，文献估logP~15)","pKa":"无可解离基团（纯多烯烃）","oral_BA":"低且高度可变；番茄经热加工+油脂破壁后才显著提升，晶体直摄吸收差","BA_mechanism":"渗透/溶解度型伪需求：纯烃类番茄红素晶体水完全不溶、需热处理破壁+油脂胶束化方可吸收，舌下唾液溶不开、透不过黏膜，舌下救不动","dose_mg":"约10–30mg/次（常见胶囊15–20mg）→ mg级，单膜可装","subl_evidence":"无舌下/buccal PK；提升BA全靠口服油基/微囊/番茄基质热加工"},
- "notes":"A=4：MW537<800但纯烃极亲脂(无含氧基、比叶黄素更疏水)结晶水不溶，舌下根本溶不开透不过；B=4：渗透/溶解度型伪需求，瓶颈是晶体溶出+需油脂胶束，非首过，舌下救不动；C=3：靶点前列腺/抗氧化纯慢性累积、无任何急性体感(比叶黄素更纯慢性故C略低)；D=14：15–20mg mg级单膜装得下；E=4：必须油载/热处理/微囊增溶否则吸收近零；F=9：前列腺/抗氧化番茄红素叙事老旧、临床证据混杂(BPH/前列腺癌结论不一)、carotenoid非草本不触红线但属性功能擦边的男性前列腺定位需谨慎，差异化与流量均弱。剂量满但救不动+商业平淡，直接Pass。","one_liner":"mg级装得下但纯烃结晶舌下溶不开透不过，渗透型伪需求且叙事老旧，Pass。",
- "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC8868408/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3742263/","https://www.drugs.com/npp/lycopene.html","PubChem CID 446925 (lycopene)"],"confidence":"high：MW536.87/水不溶结晶/油脂热加工依赖型吸收为共识；精确logP未直取但极亲脂无争议"}
+{
+ "id": "lycopene",
+ "name": "番茄红素 Lycopene",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 4,
+ "B": 4,
+ "C": 3,
+ "D": 14,
+ "E": 4,
+ "F": 9,
+ "G": null,
+ "kill": "none",
+ "sellable": null,
+ "tech_moat": 29,
+ "comm": 9,
+ "supp_total": 38,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data": {
+  "MW": "536.87 g/mol（C40H56）",
+  "logP": "极亲脂，XLogP3级别极高(无含氧基团，比叶黄素更疏水，文献估logP~15)",
+  "pKa": "无可解离基团（纯多烯烃）",
+  "oral_BA": "低且高度可变；番茄经热加工+油脂破壁后才显著提升，晶体直摄吸收差",
+  "BA_mechanism": "渗透/溶解度型伪需求：纯烃类番茄红素晶体水完全不溶、需热处理破壁+油脂胶束化方可吸收，舌下唾液溶不开、透不过黏膜，舌下救不动",
+  "dose_mg": "约10–30mg/次（常见胶囊15–20mg）→ mg级，单膜可装",
+  "subl_evidence": "无舌下/buccal PK；提升BA全靠口服油基/微囊/番茄基质热加工"
+ },
+ "notes": "A=4：MW537<800但纯烃极亲脂(无含氧基、比叶黄素更疏水)结晶水不溶，舌下根本溶不开透不过；B=4：渗透/溶解度型伪需求，瓶颈是晶体溶出+需油脂胶束，非首过，舌下救不动；C=3：靶点前列腺/抗氧化纯慢性累积、无任何急性体感(比叶黄素更纯慢性故C略低)；D=14：15–20mg mg级单膜装得下；E=4：必须油载/热处理/微囊增溶否则吸收近零；F=9：前列腺/抗氧化番茄红素叙事老旧、临床证据混杂(BPH/前列腺癌结论不一)、carotenoid非草本不触红线但属性功能擦边的男性前列腺定位需谨慎，差异化与流量均弱。剂量满但救不动+商业平淡，直接Pass。",
+ "one_liner": "mg级装得下但纯烃结晶舌下溶不开透不过，渗透型伪需求且叙事老旧，Pass。",
+ "sources": [
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8868408/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3742263/",
+  "https://www.drugs.com/npp/lycopene.html",
+  "PubChem CID 446925 (lycopene)"
+ ],
+ "confidence": "high：MW536.87/水不溶结晶/油脂热加工依赖型吸收为共识；精确logP未直取但极亲脂无争议",
+ "m_demand": 11,
+ "m_story": 10,
+ "m_format": 9,
+ "m_claim": 10,
+ "m_econ": 8,
+ "commercial": 48,
+ "best_format": "softgel/capsule(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "价格锚碾压",
+  "FTC-claim"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "番茄红素叙事老旧、男性前列腺/抗氧化小众赛道、证据混杂，softgel是正解，无TikTok爆款潜力，适合亚马逊默默走量"
+}

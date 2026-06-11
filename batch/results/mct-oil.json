@@ -1,7 +1,59 @@
-{"id":"mct-oil","name":"中链甘油三酯 MCT oil","mode":"supplement","src":["fda","amazon"],
- "A":4,"B":3,"C":6,"D":0,"E":6,"F":10,"G":null,"kill":"dose","sellable":null,
- "tech_moat":19,"comm":10,"supp_total":29,
- "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
- "key_data":{"MW":"C8三甘酯≈470、C10三甘酯≈554 g/mol（甘油三酯混合油，非单分子）","logP":"极亲脂（三甘酯logP>8）","pKa":"游离中链脂肪酸≈4.9（油中以酯键存在）","oral_BA":"中链脂肪酸经门静脉直达肝、吸收快而高效；C8摄入后15–30min血酮峰0.5–3.0mmol/L","BA_mechanism":"路线错误/地板：口服经门静脉吸收已极高效、无首过缺口，舌下无可救空间；功能靠肝脏生酮，与吸收途径无关","dose_mg":"有效量 g 级：起始5g、渐增至15–20g C8，研究区间5–70g/日 → 远超100mg","subl_evidence":"无舌下/buccal PK；油为大宗食用油无舌下化必要"},
- "notes":"A=4：三甘酯极亲脂大油滴，舌下黏膜无相关吸收；B=3：中链脂肪酸口服经门静脉吸收已是高效地板、无首过缺口，舌下救不动属路线错误；C=6：C8生酮15–30min确有半急性体感(略高于纯慢性)，但这来自肝脏代谢非舌下；D=0：单次5–20g油，单膜装不下，dose一票否决封顶40；E=6：油可成软胶/软膜、口感中性偏滑，但装载量大；F=10：生酮/防弹咖啡赛道有流量但已红海、纯油大宗品差异化弱，非红线(脂质非草本)。","one_liner":"门静脉直吸的g级生酮油，舌下既无缺口可救也装不下，剂量否决Pass。",
- "sources":["https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2021.747284/full","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8650700/","https://www.healthline.com/nutrition/mct-oil-101","PubChem (tricaprylin CID 10850 / tricaprin)"],"confidence":"high：g级剂量+门静脉高效吸收为共识，dose否决稳"}
+{
+ "id": "mct-oil",
+ "name": "中链甘油三酯 MCT oil",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 4,
+ "B": 3,
+ "C": 6,
+ "D": 0,
+ "E": 6,
+ "F": 10,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 19,
+ "comm": 10,
+ "supp_total": 29,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": "C8三甘酯≈470、C10三甘酯≈554 g/mol（甘油三酯混合油，非单分子）",
+  "logP": "极亲脂（三甘酯logP>8）",
+  "pKa": "游离中链脂肪酸≈4.9（油中以酯键存在）",
+  "oral_BA": "中链脂肪酸经门静脉直达肝、吸收快而高效；C8摄入后15–30min血酮峰0.5–3.0mmol/L",
+  "BA_mechanism": "路线错误/地板：口服经门静脉吸收已极高效、无首过缺口，舌下无可救空间；功能靠肝脏生酮，与吸收途径无关",
+  "dose_mg": "有效量 g 级：起始5g、渐增至15–20g C8，研究区间5–70g/日 → 远超100mg",
+  "subl_evidence": "无舌下/buccal PK；油为大宗食用油无舌下化必要"
+ },
+ "notes": "A=4：三甘酯极亲脂大油滴，舌下黏膜无相关吸收；B=3：中链脂肪酸口服经门静脉吸收已是高效地板、无首过缺口，舌下救不动属路线错误；C=6：C8生酮15–30min确有半急性体感(略高于纯慢性)，但这来自肝脏代谢非舌下；D=0：单次5–20g油，单膜装不下，dose一票否决封顶40；E=6：油可成软胶/软膜、口感中性偏滑，但装载量大；F=10：生酮/防弹咖啡赛道有流量但已红海、纯油大宗品差异化弱，非红线(脂质非草本)。",
+ "one_liner": "门静脉直吸的g级生酮油，舌下既无缺口可救也装不下，剂量否决Pass。",
+ "sources": [
+  "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2021.747284/full",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8650700/",
+  "https://www.healthline.com/nutrition/mct-oil-101",
+  "PubChem (tricaprylin CID 10850 / tricaprin)"
+ ],
+ "confidence": "high：g级剂量+门静脉高效吸收为共识，dose否决稳",
+ "m_demand": 18,
+ "m_story": 17,
+ "m_format": 5,
+ "m_claim": 10,
+ "m_econ": 7,
+ "commercial": 57,
+ "best_format": "shot/液体(非ODF)",
+ "efficacy_basis": "真实证据",
+ "redline": "none",
+ "risk_flags": [
+  "价格锚碾压",
+  "品牌扒皮"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "生酮/防弹咖啡能量赛道真实大刚需，叙事成熟有热度；但液体油g级装不进ODF是硬约束，shot/liquid才是正确剂型；大宗油白牌价格锚强，品牌溢价需精准定位biohacker/产酮效率差异化。"
+}

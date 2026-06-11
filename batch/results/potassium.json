@@ -1,8 +1,58 @@
-{"id":"potassium","name":"钾 Potassium","mode":"supplement","src":["fda"],
- "A":3,"B":3,"C":4,"D":0,"E":4,"F":5,"G":null,"kill":"dose","sellable":null,
- "tech_moat":14,"comm":5,"supp_total":19,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"剂量否决型（有效摄入 g 级、FDA 单片≤99mg、高钾心脏停搏红线，物理+监管双重装不进膜）",
- "key_data":{"MW":"K 39.10（元素）；K+ 离子；常用盐 氯化钾 74.55 / 柠檬酸钾 306.4 / 葡萄糖酸钾 234.2","logP":"不适用——K+ 为带 +1 电荷的碱金属阳离子，无 logP，被动跨磷脂双层极差","pKa":"金属阳离子，口腔/生理 pH 全程带电，不形成中性可透膜分子","oral_BA":"口服吸收较高（~85-90%，小肠/结肠高效吸收）——属 BA 已高地板，无可救缺口，但仍带电不能改舌下","BA_mechanism":"路线错误/渗透不可能型：钾在肠道经高效转运吸收（非肝首过，口服 BA 已高），但 K+ 带电根本透不过口腔黏膜，舌下既无首过可绕、也透不过膜，纯噱头","dose_mg":"AI 4700 mg/天（g 级有效量）；FDA 限非处方单片/份 ≤99 mg（仅 RDA 的 2%）以防高钾血症致肠道溃疡+心律失常/心脏停搏；治疗剂量需处方+监护 → 单膜既装不下 g 级、也撞 FDA 99mg 上限 → 剂量一票否决","subl_evidence":"无舌下/buccal 人体 PK 证据；无任何上市钾舌下/口腔膜剂——g 级需求物理装不进膜，且监管禁高剂量 OTC"},
- "notes":"A=3：K+ 带 +1 电荷碱金属阳离子，无 logP，透不过口腔黏膜。B=3：口服吸收已高(~85-90%)无可救缺口、且非首过，舌下既无首过可绕又因带电透不过膜 → 路线错误/噱头。C=4：纯慢性电解质平衡，无急性即感（急性补钾是医院静脉/处方场景，非舌下膜）。D=0：决定性死因双重——有效摄入 g 级(AI 4700mg)远超 100mg；且 FDA 强制非处方单片≤99mg 防高钾血症致心脏停搏(安全红线)，单膜既装不下也撞监管上限 → 剂量一票否决（监管 regulatory 同时成立，已记 notes）。E=4：氯化钾咸苦/金属味可掩但 g 级无意义。F=5：电解质赛道有(运动/补水)但钾单方受 99mg 限制无意义、舌下膜无优势。技术 14/80、总分 19 🔴 直接 Pass。",
- "one_liner":"K+ 是带 +1 电荷碱金属阳离子透不过黏膜（A 低），口服 BA 已高且非首过、舌下救不动（B 低、路线错误）；死因是有效量 g 级（AI 4700mg）远超 100mg，叠加 FDA 强制单片≤99mg+高钾致心脏停搏红线 → 剂量否决，D=0。技术 14/80、总分 19 🔴 直接 Pass。",
- "sources":["https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/","https://www.uclahealth.org/news/article/why-you-need-potassium-and-how-get-more-it","https://www.healthline.com/nutrition/how-much-potassium-per-day","https://nutrixu.com/what-is-the-rule-for-potassium-supplements"],
- "confidence":"高（理化为基础化学；AI 4700mg、FDA 非处方单片≤99mg 防高钾血症致心律失常/肠溃疡多源一致 NIH ODS/UCLA Health；口服 BA 高为公认；剂量+监管双重否决证据确凿；舌下 PK 缺失为诚实判定）"}
+{
+ "id": "potassium",
+ "name": "钾 Potassium",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 3,
+ "B": 3,
+ "C": 4,
+ "D": 0,
+ "E": 4,
+ "F": 5,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 14,
+ "comm": 5,
+ "supp_total": 19,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃",
+ "archetype": "剂量否决型（有效摄入 g 级、FDA 单片≤99mg、高钾心脏停搏红线，物理+监管双重装不进膜）",
+ "key_data": {
+  "MW": "K 39.10（元素）；K+ 离子；常用盐 氯化钾 74.55 / 柠檬酸钾 306.4 / 葡萄糖酸钾 234.2",
+  "logP": "不适用——K+ 为带 +1 电荷的碱金属阳离子，无 logP，被动跨磷脂双层极差",
+  "pKa": "金属阳离子，口腔/生理 pH 全程带电，不形成中性可透膜分子",
+  "oral_BA": "口服吸收较高（~85-90%，小肠/结肠高效吸收）——属 BA 已高地板，无可救缺口，但仍带电不能改舌下",
+  "BA_mechanism": "路线错误/渗透不可能型：钾在肠道经高效转运吸收（非肝首过，口服 BA 已高），但 K+ 带电根本透不过口腔黏膜，舌下既无首过可绕、也透不过膜，纯噱头",
+  "dose_mg": "AI 4700 mg/天（g 级有效量）；FDA 限非处方单片/份 ≤99 mg（仅 RDA 的 2%）以防高钾血症致肠道溃疡+心律失常/心脏停搏；治疗剂量需处方+监护 → 单膜既装不下 g 级、也撞 FDA 99mg 上限 → 剂量一票否决",
+  "subl_evidence": "无舌下/buccal 人体 PK 证据；无任何上市钾舌下/口腔膜剂——g 级需求物理装不进膜，且监管禁高剂量 OTC"
+ },
+ "notes": "A=3：K+ 带 +1 电荷碱金属阳离子，无 logP，透不过口腔黏膜。B=3：口服吸收已高(~85-90%)无可救缺口、且非首过，舌下既无首过可绕又因带电透不过膜 → 路线错误/噱头。C=4：纯慢性电解质平衡，无急性即感（急性补钾是医院静脉/处方场景，非舌下膜）。D=0：决定性死因双重——有效摄入 g 级(AI 4700mg)远超 100mg；且 FDA 强制非处方单片≤99mg 防高钾血症致心脏停搏(安全红线)，单膜既装不下也撞监管上限 → 剂量一票否决（监管 regulatory 同时成立，已记 notes）。E=4：氯化钾咸苦/金属味可掩但 g 级无意义。F=5：电解质赛道有(运动/补水)但钾单方受 99mg 限制无意义、舌下膜无优势。技术 14/80、总分 19 🔴 直接 Pass。",
+ "one_liner": "K+ 是带 +1 电荷碱金属阳离子透不过黏膜（A 低），口服 BA 已高且非首过、舌下救不动（B 低、路线错误）；死因是有效量 g 级（AI 4700mg）远超 100mg，叠加 FDA 强制单片≤99mg+高钾致心脏停搏红线 → 剂量否决，D=0。技术 14/80、总分 19 🔴 直接 Pass。",
+ "sources": [
+  "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/",
+  "https://www.uclahealth.org/news/article/why-you-need-potassium-and-how-get-more-it",
+  "https://www.healthline.com/nutrition/how-much-potassium-per-day",
+  "https://nutrixu.com/what-is-the-rule-for-potassium-supplements"
+ ],
+ "confidence": "高（理化为基础化学；AI 4700mg、FDA 非处方单片≤99mg 防高钾血症致心律失常/肠溃疡多源一致 NIH ODS/UCLA Health；口服 BA 高为公认；剂量+监管双重否决证据确凿；舌下 PK 缺失为诚实判定）",
+ "m_demand": 18,
+ "m_story": 12,
+ "m_format": 7,
+ "m_claim": 9,
+ "m_econ": 7,
+ "commercial": 53,
+ "best_format": "powder/capsule(复方)(非ODF)",
+ "efficacy_basis": "真实证据",
+ "redline": "safety",
+ "risk_flags": [
+  "成分合规红线",
+  "价格锚碾压"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件 ← 被『safety红线』下压(成分违法/安全，需先解合规)",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "99mg法规上限让单方钾补剂几乎无价值主张；真正的机会在电解质复方(钾+镁+钠)，高钾致心脏停搏safety红线下压，单独做钾是小生意，搭粉剂电解质包才有出路"
+}
