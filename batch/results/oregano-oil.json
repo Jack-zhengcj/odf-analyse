@@ -1,0 +1,9 @@
+{"id":"oregano-oil","name":"牛至油 Oregano oil","mode":"supplement","src":["fda","amazon"],
+ "A":14,"B":10,"C":9,"D":11,"E":3,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":47,"comm":0,"supp_total":45,
+ "band":"🟠 不推荐(伪需求)","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"赛道合规封顶型：分子本身是舌下良配(小亲脂酚单萜)，但免疫类草本触TikTok限流，技术再好补剂总分≤45",
+ "key_data":{"MW":"150.2 (carvacrol/thymol)","logP":"2.82 (XLogP3)","pKa":"~10.3 酚羟基(口腔pH下基本不解离)","oral_BA":"中等(bioavailability score 0.55)；经肝肠快速葡糖醛酸化/硫酸化","BA_mechanism":"首过/代谢型(非渗透死局)：小分子+logP理想透膜不难，主要损失在首过II相结合——理论上舌下可救一点(故B给10而非7)，但作为补剂不计入总分","dose_mg":"牛至油50-150mg/粒，carvacrol有效量约数十mg(数滴即可，过量伤肝肾)","subl_evidence":"无人体舌下/buccal PK；无成熟舌下膜产品","taste":"极辛辣灼烧、刺激口腔黏膜，3滴即致胃部不适——掩味极难","market":"免疫/抗菌草本，TikTok限流红线"},
+ "notes":"A=14：carvacrol/thymol MW150、logP2.82、口腔pH不解离，理化上罕见地落在褪黑素式理想舌下窗口，故A偏高。B=10：属首过/II相结合型而非渗透死局，舌下理论能救一点，但补剂语境不计入。C=9：抗菌/免疫为半急性—慢性用途，无急性即感。D=11：carvacrol有效量数十mg可装,但精油形态难标准化。E=3：极辛辣灼烧刺激黏膜、任何掩味都难盖,成本高。F=0且kill=tiktok：免疫抗菌草本命中限流红线,封顶45。",
+ "one_liner":"理化罕见地是舌下良配(小亲脂酚MW150/logP2.82)，但灼口难掩+免疫草本触TikTok限流，技术47却封顶45——剂型科学可行、赛道把它判死。",
+ "sources":["https://www.mdpi.com/2075-1729/14/8/1037","PMC6081540 (Liposomal carvacrol dissolution/stability)","PMC11171306 (Oregano EO veterinary)","https://www.amazon.com/ORZAX-Oregano-Carvacrol-Immune-Support/dp/B0C24BS3QS"],
+ "confidence":"中：理化(MW/logP)high且与PubChem一致；人体口服BA与舌下PK证据弱(待证)，B按机制推定；剂量为市场常见值。"}

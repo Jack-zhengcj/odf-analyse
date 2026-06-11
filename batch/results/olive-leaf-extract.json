@@ -1,0 +1,9 @@
+{"id":"olive-leaf-extract","name":"橄榄叶提取物 Olive leaf","mode":"supplement","src":["fda","amazon"],
+ "A":6,"B":7,"C":6,"D":5,"E":5,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":29,"comm":0,"supp_total":29,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透型伪需求（大极性裂环烯醚萜糖苷透不过黏膜，舌下救不动）+ 免疫草本赛道封顶",
+ "key_data":{"MW":"540.5 (oleuropein)","logP":"-0.79 ~ +0.1 (亲水裂环烯醚萜糖苷)","pKa":"酚羟基~8-9","oral_BA":"极低：50-77mg口服后血浆仅ng/mL级(0.47-2.74 ng/mL)，大部水解为羟基酪醇","BA_mechanism":"渗透/溶解度型(伪需求)：MW540、亲水带糖苷、肠道水解为hydroxytyrosol——分子本身透不过黏膜，舌下extent救不动","dose_mg":"提取物500-1000mg/天，标准化oleuropein 50-200mg(远超单膜可载)","subl_evidence":"无人体舌下/buccal PK；现有人体PK均为口服胶囊/液剂(Bock 2013, PMID 23766098)"},
+ "notes":"A=6：oleuropein MW540、亲水裂环烯醚萜糖苷、口服血浆仅ng/mL,黏膜透过差。B=7：渗透型伪需求,舌下救不动(分子太大太亲水、肠内即水解为羟基酪醇)。C=6：抗氧化/免疫慢性积累,无急性。D=5：标准化有效量oleuropein数十~200mg+提取物常500-1000mg,单膜装不下。E=5：苦涩植物味需增溶/掩味。F=0且kill=tiktok：免疫草本红线,封顶45(实分29已远低于封顶)。",
+ "one_liner":"大极性糖苷(MW540)口服血浆只到ng/mL、入肠即水解——典型渗透型伪需求，舌下救不动；叠加免疫草本TikTok红线，双低直接Pass。",
+ "sources":["https://pubmed.ncbi.nlm.nih.gov/23766098/ (Bock 2013 human absorption oleuropein/hydroxytyrosol)","https://pubmed.ncbi.nlm.nih.gov/24158653/ (oleuropein-rich OLE bioavailability)","https://onlinelibrary.wiley.com/doi/abs/10.1002/mnfr.201200795"],
+ "confidence":"high：人体PK(Bock 2013等)明确血浆ng/mL级、渗透型判定可靠；MW/极性来自PubChem oleuropein。"}

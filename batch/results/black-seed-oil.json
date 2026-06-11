@@ -1,0 +1,9 @@
+{"id":"black-seed-oil","name":"黑种草籽油 Black seed oil","mode":"supplement","src":["fda","amazon"],
+ "A":8,"B":7,"C":7,"D":7,"E":4,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":33,"comm":0,"supp_total":33,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透/溶解度型伪需求（极亲脂酮、>99%蛋白结合、需SNEDDS增溶）+ 免疫草本赛道封顶",
+ "key_data":{"MW":"164.2 (thymoquinone)","logP":"~2.2-2.5 (强亲脂)","pKa":"无显著解离(中性醌)","oral_BA":"thymoquinone家兔口服约58%但伴慢吸收/快消除、>99%血浆蛋白结合；油本身基质效应大,需纳米乳/SNEDDS提2-4倍","BA_mechanism":"渗透/溶解度型(伪需求)：thymoquinone极亲脂、溶解度差、>99%蛋白结合、吸收受溶出限速;靠脂质/SNEDDS增溶而非绕首过——舌下extent救不动","dose_mg":"油500-3000mg/天；TQ有效量约40-80mg(2.5-3%油每500mg仅~12.5-15mg TQ,需大体积油或高浓缩)","subl_evidence":"无人体舌下/buccal PK；现有改善方案全是口服纳米乳/SNEDDS(PMC9726673)"},
+ "notes":"A=8：thymoquinone MW164虽小但极亲脂、溶解度差、>99%蛋白结合,且产品是油基质,黏膜净透过有限。B=7：渗透/溶解度型伪需求,瓶颈在溶出与蛋白结合而非首过,舌下救不动(改善靠SNEDDS/纳米乳)。C=7：免疫/抗炎慢性用途,无急性即感。D=7：TQ有效量40-80mg但常规油3%浓度需0.5-3g油,单膜难载足量TQ。E=4：油腥微苦、需脂质增溶,包埋成本高。F=0且kill=tiktok：免疫草本红线,封顶45(实分33已低于封顶)。",
+ "one_liner":"活性thymoquinone虽小分子却极亲脂、溶出受限、>99%蛋白结合、要SNEDDS才提得动——渗透/溶解度型伪需求；加免疫草本TikTok红线，直接Pass。",
+ "sources":["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5613109/ (TQ therapeutic potential/PK)","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9726673/ (SNEDDS improved oral BA of TQ)","https://pmc.ncbi.nlm.nih.gov/articles/PMC9460610/ (commercial TQ content screening)","https://www.naturesblends.co.uk/blogs/news/thymoquinone-dosage-guide"],
+ "confidence":"中：TQ理化(亲脂/蛋白结合/需SNEDDS)与剂量证据good;58%口服BA为家兔单研究(待证),渗透/溶解度型判定按机制可靠。"}

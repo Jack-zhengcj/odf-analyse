@@ -1,0 +1,7 @@
+{"id":"lutein-zeaxanthin","name":"叶黄素/玉米黄质 Lutein","mode":"supplement","src":["fda","amazon"],
+ "A":4,"B":4,"C":4,"D":14,"E":4,"F":11,"G":null,"kill":"none","sellable":null,
+ "tech_moat":30,"comm":11,"supp_total":41,
+ "band":"🟠 不推荐(伪需求)","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data":{"MW":"568.9 g/mol（叶黄素=玉米黄质同分异构）","logP":"叶黄素 logP≈7.9（文献），XLogP3级别更高；极亲脂","pKa":"无可解离基团（羟基弱）；中性脂溶","oral_BA":"低且高度可变，依赖膳食脂肪+胆汁形成混合胶束→乳糜微粒，空腹/无脂时很差","BA_mechanism":"渗透/溶解度型伪需求：极亲脂叶黄素晶体水不溶、需油+胆盐胶束化才能被肠黏膜摄取，舌下唾液环境根本溶不开、透不过黏膜，舌下救不动","dose_mg":"10–20mg/次（LAST试验10mg/日，单剂研究用20mg）→ mg级，单膜可装","subl_evidence":"无舌下/buccal PK；现有提升BA全靠口服微囊/胶束/纳米乳配方"},
+ "notes":"A=4：MW569虽<800但极亲脂(logP~8)结晶水不溶，舌下唾液溶不开、透不过黏膜；B=4：渗透/溶解度型伪需求——瓶颈是晶体溶出+需脂质胶束，非首过，舌下救不动；C=4：靶点是黄斑色素密度需数月累积，纯慢性无急性感；D=14：10–20mg mg级，单膜装得下(唯一亮点)；E=4：必须油载/微囊/纳米乳增溶否则吸收近零，成本偏高；F=11：眼健康/蓝光护眼赛道真实且增长、carotenoid非草本不触红线，但舌下卖点站不住、需自费教育。剂量满但救不动的典型。","one_liner":"mg级装得下但极亲脂结晶舌下溶不开透不过，渗透型伪需求，正解是口服胶束而非膜。",
+ "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC3663991/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7558721/","https://pmc.ncbi.nlm.nih.gov/articles/PMC6770730/","PubChem CID 5281243 (lutein)"],"confidence":"high：MW/极亲脂/胶束依赖型吸收明确；XLogP3未直取PubChem但logP~8有文献支撑"}
