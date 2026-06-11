@@ -1,0 +1,8 @@
+{"id":"dexamethasone","name":"地塞米松 Dexamethasone","mode":"drug","src":["drug"],
+ "A":10,"B":6,"C":6,"D":13,"E":5,"F":0,"G":9,"kill":"permeation","sellable":"rx",
+ "tech_moat":40,"comm":9,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"高地板伪需求型（口服BA已70-78%无可救首过缺口；分子虽MW<500但mucoadhesive颊/舌下膜实测无法达到可接受全身吸收，即便加polysorbate 80增溶——技术性渗透死局）",
+ "key_data":{"MW":392.46,"logP":1.83,"pKa":"无显著解离(中性糖皮质激素)","oral_BA":"70-78%(健康成人)","BA_mechanism":"BA已高地板：口服吸收良好且无显著首过缺口，舌下绕过首过无增益空间；且实测颊/舌下黏膜膜剂吸收不达标→功能上渗透死局","dose_mg":"典型0.5-8mg(单次低剂量，物理可装入膜)；高剂量神经/肿瘤方案可达16-40mg","subl_evidence":"专利/文献：dexamethasone mucoadhesive sublingual/buccal films未能达到可接受的全身吸收速率与程度，即便加polysorbate 80增溶剂；已上市为口服ODT(吞咽型GI吸收，非透黏膜)","solubility":"水溶性差(亲脂结晶)","market":"仿制薄利但适应症广(抗炎/止吐/脑水肿/COVID/哮喘急性/croup)"},
+ "notes":"A=10：MW392<500且logP1.83本应利于透膜，但实测颊/舌下mucoadhesive膜剂无法达到可接受全身吸收(即便加增溶剂)，故只给中分。B=6：口服BA 70-78%属高地板，无首过缺口可救，舌下化无BA增益(非首过型)。C=6：糖皮质激素抗炎为半慢性效应，非急性即感。D=13：典型单次0.5-8mg≤20mg物理可装。E=5：小分子但要克服黏膜吸收差需促渗方案，成本中。G=9：仿制红海薄利，但适应症极广，中等战略；rx处方药不可作补剂。判定为高地板+功能渗透死局的伪需求型。",
+ "one_liner":"高地板伪需求型：口服BA已80%且颊/舌下膜实测吸收不达标，舌下化救不动，纯噱头(rx)。",
+ "sources":["https://en.wikipedia.org/wiki/Dexamethasone","https://pubmed.ncbi.nlm.nih.gov/6832191/","https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11083734","https://pmc.ncbi.nlm.nih.gov/articles/PMC12389210/"],"confidence":"high：MW/logP/BA来自PubChem/Wikipedia与PubMed一致；颊/舌下膜吸收不达标有专利+综述直接证据"}

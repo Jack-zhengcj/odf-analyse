@@ -1,0 +1,9 @@
+{"id":"dulaglutide","name":"度拉糖肽 Dulaglutide","mode":"drug","src":["drug"],
+ "A":1,"B":1,"C":2,"D":10,"E":4,"F":0,"G":19,"kill":"permeation","sellable":"rx",
+ "tech_moat":18,"comm":19,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"技术死局但商业重磅（分子透不过，但成分本身是金矿，走皮下/换剂型）",
+ "key_data":{"MW":"约63000 (≈60-63 kDa)","logP":"不适用(大分子蛋白，强亲水)","pKa":"多电荷蛋白","oral_BA":"无口服剂型；同类口服肽(口服司美)BA≈1%可佐证肽口服死局","BA_mechanism":"渗透型(死局)：GLP-1/IgG4-Fc融合蛋白MW≈63kDa，远超黏膜透过上限(~800Da)，分子根本透不过口腔/舌下黏膜，舌下救不动；皮下绝对BA仅47-65%","dose_mg":"0.75-4.5 mg/周(皮下)，剂量本身可装下","subl_evidence":"无人体舌下/buccal PK证据；蛋白经口腔黏膜透过率近零，需注射或新型给药平台","market":"Trulicity 糖尿病/减重 blockbuster，曾为按用量计最广处方GLP-1RA","regulatory":"处方生物制品"},
+ "notes":"A=1：MW≈63kDa蛋白，强亲水多电荷，舌下黏膜物理透不过(渗透死局)。B=1：无可救的BA缺口——不是首过型而是渗透型，舌下绕过首过也救不动(连皮下BA都只47-65%)。C=2：周制剂、慢效慢性病，无急性即感需求。D=10：周剂量0.75-4.5mg物理能装，故D非否决。E=4：蛋白成膜需冻干/促渗+稳定化，成本高。F=0(药物语境忽略传播)。G=19：GLP-1抗体融合大分子，Trulicity数十亿美元级blockbuster、糖尿/减重双刚需强战略，对标司美G20。kill=permeation：MW>800且属渗透型、无促渗方案，技术封顶。",
+ "one_liner":"③低技×高商：60kDa融合蛋白渗透死局，舌下/口溶膜不可行，但成分本身是GLP-1金矿，正解仍是注射或换给药平台。",
+ "sources":["https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125469s036lbl.pdf","https://pmc.ncbi.nlm.nih.gov/articles/PMC12052016/"],
+ "confidence":"high：MW≈63kDa与皮下BA47-65%来自FDA label及PK综述，蛋白舌下透过死局为机制必然"}

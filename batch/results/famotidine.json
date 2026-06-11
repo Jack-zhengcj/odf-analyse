@@ -1,0 +1,8 @@
+{"id":"famotidine","name":"法莫替丁 Famotidine","mode":"drug","src":["drug"],
+ "A":10,"B":8,"C":8,"D":13,"E":6,"F":0,"G":9,"kill":"none","sellable":"otc",
+ "tech_moat":45,"comm":9,"supp_total":null,
+ "band":"中技：有真实优势但带短板","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"渗透型伪需求（口服BA 40-45%但几乎无首过代谢→低BA源于通透性受限的不完全吸收而非可救首过；舌下亦受同一通透性限制，无真增益；且OTC Pepcid RPD ODT早已占位）",
+ "key_data":{"MW":337.43,"logP":"约-0.6至-0.5(亲水)","pKa":"胍基pKa约6.8-7.1(生理pH部分带电)","oral_BA":"40-45%","BA_mechanism":"渗透/吸收型伪需求：法莫替丁几乎无首过代谢，40-45%的低BA来自通透性受限的不完全肠吸收(BCS III高溶低渗)；舌下同样受通透性限制，绕过首过无意义→非首过型，无真BA增益","dose_mg":"20mg标准(40mg最大单次)，物理可装入膜","subl_evidence":"已上市Pepcid RPD口腔崩解片(20/40mg)，但与普通片生物等效→证明是崩解后吞咽GI吸收，非透黏膜增益；无人体舌下/颊PK证实","solubility":"水溶性好(BCS III)","market":"OTC烧心/胃酸大众市场，但仿制商品化、且RPD ODT已存在无白空间"},
+ "notes":"A=10：MW337<500但亲水(logP约-0.6)、生理pH部分带电，黏膜通透性中等，小分子A中。B=8：关键——口服BA 40-45%但几乎无首过代谢，缺口来自通透性受限的不完全吸收(BCS III)而非可救首过，舌下受同一限制→属7-9渗透型伪需求，非首过型(若是首过应16-20)。C=8：H2阻断起效1-3h达峰，半急性缓解烧心非戏剧性即感。D=13：20mg标准≤20mg物理可装。E=6：小分子，已有ODT工艺无需异常包埋。G=9：OTC大众市场但仿制红海+RPD ODT已占位，中等；otc可售。kill=none(非MW>800、ODT经GI可工作)。判定渗透型伪需求。",
+ "one_liner":"渗透型伪需求：低BA是通透性受限吸收(无首过可救)，舌下救不动且Pepcid RPD早占位(otc)。",
+ "sources":["https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/019462s038lbl.pdf","https://pi.bauschhealth.com/globalassets/BHC/PI/Pepcid-PI.pdf","https://www.rxlist.com/pepcid-drug.htm"],"confidence":"high：MW/BA 40-45%/minimal first-pass/RPD ODT 20-40mg均来自FDA Pepcid label；舌下透黏膜无人体PK证据(按BCS III通透性受限判B中低)"}

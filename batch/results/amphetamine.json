@@ -1,0 +1,8 @@
+{"id":"amphetamine","name":"安非他明 Amphetamine (Adderall)","mode":"drug","src":["drug"],
+ "A":16,"B":6,"C":13,"D":15,"E":8,"F":0,"G":16,"kill":"none","sellable":"controlled",
+ "tech_moat":58,"comm":16,"supp_total":null,"band":"中技：有真实优势但带短板","quadrant":"① 高技×高商","archetype":"技术可行但合规封顶（剂型科学上该做，但管制/处方/草本，作补剂卖不了）",
+ "key_data":{"MW":135.21,"logP":"XLogP3 1.8(中等亲脂,理想跨膜窗口1.6-3.3内)","pKa":"~9.9(弱碱;口腔中性pH下相当比例为可透膜游离碱)","oral_BA":"~90%(高地板,胃肠几乎全吸收)","BA_mechanism":"BA已高地板——口服绝对BA~90%,分子小+亲脂适中本就透膜好,无首过缺口可救;舌下化无法把吸收从90%再显著抬高,B故低","dose_mg":"单次5-30mg(Adderall 5-30mg/剂),≤20mg理想载药区,膜可装","subl_evidence":"理化上A极优(MW135/logP1.8/低剂量,堪比硝酸甘油级好底子);但无FDA批准舌下/口溶膜,且因BA已高地板,舌下相对口服无extent增益,仅可能略快onset"},
+ "notes":"A=16:MW135、logP1.8、弱碱pKa9.9在口腔中性pH有可透膜游离碱、单剂≤20mg,理化几乎满分。B=6:这是关键短板——口服BA已~90%高地板,首过损失极小,根本没有可被舌下绕过的缺口,属『理化好但没缺口可救』,舌下救不动extent(非首过型救援标的)。C=13:中枢兴奋剂急性可感(专注/觉醒提升),但非秒级。D=15:单剂5-30mg,≤20mg能装进单膜。E=8:小分子无需复杂包埋,微苦可掩。G=16:Adderall/ADHD刚需大市场(数十亿美元级,含成人ADHD扩张),战略价值高;但Schedule II管制,合规封死,作补剂不可售。综合①高技×高商但合规封顶。",
+ "one_liner":"理化底子极好的小分子(MW135/logP1.8),但口服BA已~90%高地板无缺口可救,舌下提不了extent;Adderall商业大但Schedule II管制封死→技术可行但合规封顶",
+ "sources":["PubChem CID 3007(C9H13N, MW135.21, XLogP3 1.8)","Wikipedia/PubMed PMID14871155(oral BA~90%, pKa~9.9, 弱碱pH依赖吸收, Vd 4L/kg, t1/2 9-14h, 蛋白结合<20%, 肝肾清除)","FDA Adderall label(单剂5-30mg ADHD剂量, Schedule II controlled)"],
+ "confidence":"high"}
