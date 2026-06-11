@@ -1,0 +1,7 @@
+{"id":"apixaban","name":"阿哌沙班 Apixaban","mode":"drug","src":["drug"],
+ "A":9,"B":7,"C":4,"D":14,"E":6,"F":0,"G":18,"kill":"none","sellable":"rx",
+ "tech_moat":40,"comm":18,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data":{"MW":460,"logP":"约1.9 (XLogP3≈2)","pKa":"无可电离基团(中性分子)","oral_BA":"约50%","BA_mechanism":"渗透/溶解度型——低水溶(0.028 mg/mL)+低肠渗透(Caco-2 0.9×10⁻⁶ cm/s)，BCS III/IV；仅约20-25%经CYP3A4代谢、约30%原型经肾排，缺口不是首过而是溶解+透膜障碍，故舌下救不动属伪需求","dose_mg":"2.5/5 mg bid(房颤5mg、术后预防2.5mg)，单次小，装得下膜","subl_evidence":"无人体舌下/buccal PK；现有研究都是固体分散体/增溶提BA，方向是改善溶解度而非黏膜途径"},
+ "notes":"A=9：MW460<500且中性分子尚可，但本身肠渗透低(Caco-2极低)、是P-gp/BCRP底物，黏膜被动透过同样受限，给中偏低。B=7：关键判定为渗透/溶解度型而非首过型——只有~25%被代谢、~30%原型排出，50%缺口来自溶解差+透膜差，舌下绕过首过救不回，伪需求地板。C=4：慢性抗凝预防性用药，无急性即感场景，起效快无临床价值。D=14：单次2.5-5mg，远小于上限，单膜轻松装下。E=6：需增溶但不算极端。F=0(药物语境忽略传播)。G=18：Eliquis为全球最畅销药物之一(DOAC龙头)，战略商业价值极高，但与剂型可行性解耦。整体象限③低技高商：成分是金矿但舌下化无意义。","one_liner":"渗透型伪需求×blockbuster：慢性口服DOAC口服已工作，缺口是溶解+透膜非首过，舌下救不动，G高但属象限③低技高商。",
+ "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC6769096/","https://pmc.ncbi.nlm.nih.gov/articles/PMC10057842/","https://www.ncbi.nlm.nih.gov/books/NBK507910/"],"confidence":"high — BA~50%、低溶低渗机制、剂量、blockbuster地位均有多源佐证；舌下无人体PK属真空(标无PK对照)"}

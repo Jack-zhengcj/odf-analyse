@@ -1,0 +1,7 @@
+{"id":"midazolam","name":"咪达唑仑 Midazolam","mode":"drug","src":["drug"],
+ "A":17,"B":12,"C":14,"D":14,"E":6,"F":0,"G":11,"kill":"none","sellable":"controlled",
+ "tech_moat":63,"comm":11,"supp_total":null,"band":"中技：有真实优势但带短板","quadrant":"② 高技×低商 → 剂型完美但变现受限(管制/红海)","archetype":"技术可行但合规封顶（剂型科学上该做，但管制处方，作补剂卖不了）",
+ "key_data":{"MW":325.77,"logP":"3.3-3.9(高亲脂)","pKa":"6.2(开环-闭环pH依赖,胃酸下开环水溶,生理pH闭环亲脂透膜)","oral_BA":"~36-44%","BA_mechanism":"首过型(CYP3A4肝+肠首过显著,口服BA仅36% → 口腔黏膜真有可救缺口,oromucosal绝对BA升至~75%,成人,extent真提升;这是四个苯二氮䓬里唯一有真首过缺口的)","dose_mg":"5-10mg(急救单次)","subl_evidence":"硬实锤:Buccolam口腔黏膜溶液(EMA批准,癫痫持续状态/丛集惊厥急救,儿童及成人);oromucosal BA~75%(成人)~87%(儿童),非口服36% → 既快起效又提extent"},
+ "notes":"A17:MW326小分子+logP~3.3高亲脂+生理pH闭环易透膜+急救剂量5-10mg易装,理化近满分。B12:四个里唯一B偏高——口服BA仅36%(CYP3A4肝肠双首过),属真首过型,口腔黏膜把extent救到~75%,有真缺口可救(不是地板),但因开环pH依赖+部分被吞咽,未给满分。C14:癫痫持续状态/惊厥急救,黏膜给药数分钟入血即感,急性场景顶格。D14:5-10mg易装膜。E6:亲脂+pH依赖开闭环需溶媒/调味,中等成本。G11:苯二氮䓬急救市场刚需但成熟仿制,Buccolam已占口腔黏膜位,中等商业;controlled管制封死可售性,落②高技×低商,类比硝酸甘油/丁丙诺啡。",
+ "one_liner":"四个苯二氮䓬里舌下/口腔黏膜价值最真的一个:MW326亲脂小分子+口服BA仅36%(CYP3A4真首过缺口)→Buccolam口腔黏膜把extent救到75%且急救起效快,技术63中上;但管制+成熟仿制压商业(G11),落②高技×低商。",
+ "sources":["BUCCOLAM SmPC medicines.org.uk emc 7460/7461/7462(oromucosal绝对BA~75%成人,CYP3A4首过)","EMA Buccolam community register","PubChem CID 4192(MW325.77)","Clin Pharmacokinet midazolam oromucosal/buccal PK"],"confidence":"high"}
