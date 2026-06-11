@@ -1,0 +1,9 @@
+{"id":"pregnenolone","name":"孕烯醇酮 Pregnenolone","mode":"supplement","src":["fda"],
+ "A":14,"B":16,"C":6,"D":13,"E":6,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":55,"comm":0,"supp_total":45,
+ "band":"🟠 不推荐(伪需求)","quadrant":"② 高技×低商 → 剂型完美但变现受限(药物/管制/红海，如硝酸甘油/丁丙诺啡)","archetype":"真护城河型（小分子+首过型低BA+舌下成倍救回）",
+ "key_data":{"MW":316.48,"logP":4.4,"pKa":"无可解离基团(中性甾醇酮)","oral_BA":"~10–15%(口服首过后原型，大部分被肝转化为allopregnanolone等神经甾体/孕烯醇酮硫酸盐)","BA_mechanism":"首过型：MW316小、强亲脂(XLogP3~4.4)分子本身被动透膜没问题，口服低BA主因是肝/肠大量首过代谢(转allopregnanolone/磺化)；舌下绕首过理论上真能成倍提extent→B高。注意logP4.4高于最佳1.6-3.3区，亲脂结晶+水不溶比DHEA略难做","dose_mg":"50–100mg口服补剂常规；舌下宣称5–20mg(膜剂装得下)","subl_evidence":"理化上可舌下(亲脂小分子，市面有舌下/含服宣称，及'micronized lipid matrix'增溶剂型)，但无人体舌下PK金标准对照→降权；水不溶需脂质增溶；鼻腔BA文献~23%佐证黏膜途径可绕首过"},
+ "notes":"A=14：MW316<500、口腔中性pH、剂量小都利好，但XLogP3~4.4高于最佳1.6-3.3带、水不溶亲脂结晶比DHEA(logP3.2)更难透膜与增溶，故比DHEA低1分。B=16：典型首过型——口服原型BA仅~10-15%因肝肠大量首过(转神经甾体/磺化)，分子本身透膜没问题，舌下绕首过是真能救的成倍缺口。C=6：甾体需在体内转化为allopregnanolone等活性神经甾体才起效，偏慢性/仪式感，无急性即感。D=13：舌下5-20mg/口服50mg易装。E=6：水不溶亲脂结晶需脂质基质/增溶(如micronized lipid matrix)但无需纳米乳。F=0：'孕烯醇酮=甾体激素前体/睾酮·记忆·情绪'类claim直接踩TikTok激素/性功能红线→tiktok封顶45；且作为甾体激素受FDA监管争议、'舌下=新摄入途径'存NDIN风险(regulatory亦适用)，故技术再好(tech_moat55)补剂总分封死45。与DHEA同构。",
+ "one_liner":"DHEA的甾体孪生：教科书级舌下候选(小亲脂分子+首过型低BA)，但激素claim+FDA监管把它钉死在45——②高技×低商，剂型完美却变现受限。",
+ "sources":["https://pubchem.ncbi.nlm.nih.gov/compound/Pregnenolone","https://en.wikipedia.org/wiki/Pregnenolone_(medication)","https://www.nbinno.com/article/pharmaceutical-intermediates/chemical-profile-pregnenolone-properties-specifications-ux","https://www.hmdb.ca/metabolites/HMDB0000253","https://allergyresearchgroup.com/products/pregnenolone-50-mg-micronized-lipid-matrix-60-scored-tabs"],
+ "confidence":"high + 说明：MW316.48/亲脂水不溶/CAS145-13-1为甾体公认值；口服首过代谢机制(转allopregnanolone/磺化)与鼻腔BA~23%有文献支撑；舌下extent'成倍救回'幅度属理化外推(无专门人体舌下PK对照)，故B的提升幅度有外推成分。"}
