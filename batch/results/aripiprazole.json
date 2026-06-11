@@ -1,0 +1,8 @@
+{"id":"aripiprazole","name":"阿立哌唑 Aripiprazole","mode":"drug","src":["drug"],
+ "A":9,"B":6,"C":7,"D":12,"E":7,"F":0,"G":16,"kill":"none","sellable":"rx",
+ "tech_moat":41,"comm":16,"supp_total":null,"band":"低技：舌下救不动/装不下，多为噱头","quadrant":"③ 低技×高商 → 换给药途径","archetype":"渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data":{"MW":448.39,"logP":4.5,"pKa":"最强碱性pKa≈7.6（哌嗪N）；高亲脂极易在黏膜面晶析/滞留","oral_BA":"绝对BA≈87%（已高地板，几乎无可救缺口）","BA_mechanism":"BA已高地板+偏渗透型：口服绝对BA已达87%，本就无首过缺口可救；且MW448偏大、logP≈4.5极亲脂（高亲脂结晶/极慢溶出，舌下短驻留窗内难有效跨膜），舌下既无需求也救不动，B低(6)","dose_mg":"10/15/20/30mg（Abilify Discmelt口崩，常用10–30mg）","subl_evidence":"无支持舌下增BA的人体证据：Abilify Discmelt口崩片为吞咽型、与普通片生物等效（FDA标签），口服BA本已87%无提升空间；ODT价值仅依从（精神科防藏药）"},
+ "notes":"A：MW448偏大接近上限、logP约4.5过亲脂（黏膜面易晶析、溶出慢），仅靠剂量/中性度不足，A偏低(9)。B：口服BA已87%高地板、无首过缺口可救，且偏渗透型（大且极亲脂、舌下短窗难透），舌下救不动属伪需求，B低(6)。C：抗精神病慢性维持为主，急性即感弱，低-中(7)。D：10–30mg在20–50区，载药中(12)。E：阿立哌唑相对耐受、Discmelt口崩基质成熟、掩味可控，中(7)。G：Abilify曾为全球最畅销药之一、抗精神病/双相数十亿级且仿制后仍量大，更有长效针(Maintena/Aristada)证明剂型创新强需求，战略价值高G16。落象限③（tech41低技、G16高商）——成分金矿但口溶膜在科学上救不动（BA已满+亲脂渗透差），正解是已落地的LAI长效注射而非舌下膜。",
+ "one_liner":"阿立哌唑是'低技×高商'的清晰反例——口服BA已87%无缺口可救、MW448+logP4.5极亲脂属渗透型舌下救不动，技术仅41为伪需求；但Abilify本身是数十亿级抗精神病金矿(G16)，剂型创新的正解是已上市的长效针而非口溶膜，象限③。",
+ "sources":["PubChem CID 60795 Aripiprazole (C23H27Cl2N3O2, MW 448.39)","FDA Abilify & Abilify Discmelt 标签 — 绝对BA≈87%、CYP2D6/3A4代谢、t½≈75h(脱氢代谢物94h)、Vd≈4.9L/kg高亲脂、Discmelt与普通片生物等效","Psychopharmacology Institute Aripiprazole PK — BA87%、Tmax 3–5h","DrugBank DB01238 logP≈4.5–4.9(高亲脂)、最强碱pKa≈7.6、水溶极低","Grandview/Mordor 抗精神病市场 — 数十亿美元、阿立哌唑曾占最大份额"],
+ "confidence":"high（MW/BA87%/亲脂性/Discmelt生物等效均FDA标签直证多源一致；logP4.5为DrugBank/文献区间高置信；G定性中-高置信）"}

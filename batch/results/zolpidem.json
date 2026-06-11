@@ -1,0 +1,7 @@
+{"id":"zolpidem","name":"唑吡坦 Zolpidem","mode":"drug","src":["drug"],
+ "A":17,"B":7,"C":13,"D":14,"E":7,"F":0,"G":12,"kill":"none","sellable":"controlled",
+ "tech_moat":58,"comm":12,"supp_total":null,
+ "band":"中技：有真实优势但带短板","quadrant":"① 高技×高商","archetype":"BA已高地板型——舌下不靠extent靠onset(起效快),管制药合规封顶",
+ "key_data":{"MW":307.4,"logP":"≈1.2(中等亲脂)","pKa":"≈6.2(咪唑并吡啶)","oral_BA":"~70%(口服已高)","BA_mechanism":"地板型：口服绝对BA已~70%,无可救的BA缺口→B只能7;舌下/口腔黏膜的价值不在extent(总吸收)而在onset——绕过胃排空使Tmax提前、起效更快,主打半夜易醒的快速催眠","dose_mg":"舌下1.75/3.5mg(Intermezzo夜间),5/10mg(Edluar睡前)","subl_evidence":"金标准人体实锤：Edluar、Intermezzo均为获批舌下片,人体PK示舌下Tmax较口服明显提前(Intermezzo 0.6-1.3h vs Ambien 1.6h),血药峰更早更高、入睡更快"},
+ "notes":"A17：MW307亲脂小分子+logP~1.2在最优窗口下沿+剂量极小,舌下吸收良好且有上市舌下片人体证据,A高。B只给7：这是关键判定——zolpidem属『BA已高地板型』,口服绝对BA已~70%,没有被首过吃掉的缺口可救,舌下化不可能成倍提升总吸收量(extent),故B落地板7(非首过型救命的16-20)。C13：失眠尤其半夜易醒是半急性需快起效场景,舌下绕过胃排空使Tmax提前、入睡更快,起效维度是真实卖点,C高。D14：1.75-10mg远<20mg易装膜。E7：小分子无需复杂包埋,味道可掩,成本低。G12：失眠是大市场且快起效有差异化(Intermezzo/Edluar已验证细分需求),但zolpidem仿制充分、为III类管制,战略价值中等。F=0。","one_liner":"『BA已~70%地板型』——舌下救不动总吸收量(B仅7),但MW307亲脂小分子靠onset(绕过胃排空、Tmax提前、入睡更快)立得住,技术58中技；失眠大市场+快起效差异化G12,落①高技×高商但III类管制合规封顶。",
+ "sources":["Zolpidem Wikipedia (自由碱MW 307.4;口服绝对BA~70%)","RxList Edluar / Intermezzo (舌下片,Tmax提前)","FDA NDA 022328 Clin Pharm Review (舌下PK,血药峰更早更高)","DailyMed Zolpidem Tartrate Sublingual tablet label","PMC3932650 Fast-Acting Sublingual Zolpidem for Middle-of-the-Night Wakefulness"],"confidence":"high（口服BA~70%地板判定与舌下onset人体证据多源一致；MW以自由碱307.4计-酒石酸盐764.88为2:1盐；logP/pKa为文献/计算值中置信；G定性中置信）"}

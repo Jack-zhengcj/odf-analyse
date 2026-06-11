@@ -1,0 +1,10 @@
+{"id":"riluzole","name":"利鲁唑 Riluzole","mode":"drug","src":["drug"],
+ "A":11,"B":8,"C":6,"D":11,"E":6,"F":0,"G":11,"kill":"none","sellable":"rx",
+ "tech_moat":42,"comm":11,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头",
+ "quadrant":"④ 低技×低商",
+ "archetype":"吞咽型ODF便利剂型（非真舌下绕首过；为吞咽困难患者提供免水好吞，BA按口服等效，技术噱头有限）",
+ "key_data":{"MW":234.20,"logP":3.0,"pKa":"弱碱 苯并噻唑胺基 pKa≈3.5（生理pH基本中性）","oral_BA":"口服绝对BA约60%（口服片）；Exservan口溶膜与口服片生物等效","BA_mechanism":"地板/口服折：Exservan是吞咽型ODF——药随唾液吞下经胃肠吸收(非舌下黏膜绕首过)，与口服片生物等效，口服BA~60%本属中等地板、膜剂不提升BA；诚实标注'吞咽型膜非真舌下'，仅解决吞咽困难便利性而非救BA","dose_mg":"50mg，每12小时一次（BID）","subl_evidence":"诚实降权：Exservan(riluzole口溶膜)为吞咽型ODF，置于舌上溶解后随唾液'吞下'(ingested with saliva)，并非舌下黏膜吸收绕首过；32名健康人交叉PK证明与50mg口服片生物等效(PMC10087659/PubMed36168148)，故无舌下BA增益，仅为ALS吞咽困难患者免水好吞"},
+ "notes":"A：MW234小、logP~3，分子本身好透膜，但Exservan是吞咽型膜(随唾液吞下)非走黏膜，作为'舌下吸收'技术不成立，给11偏低（诚实）。B：口服BA~60%本属中等地板、且膜与口服片生物等效→零BA增益、非首过救援，按口服折，给8（地板型伪需求边缘）。C：ALS慢性每日给药、神经保护非急救，纯慢性，给6低。D：50mg BID落20-50mg档、口溶膜可装，给11。E：利鲁唑苦、口溶膜需掩味，中等，给6。G(商业)：ALS小适应症(近孤儿)、利鲁唑仅延长生存数月、市场小，但真实未满足需求+吞咽困难刚需场景，给11中。落象限④低技×低商：吞咽型膜便利剂型、非舌下救援、技术噱头有限。诚实标'吞咽型膜非真舌下'。","one_liner":"利鲁唑Exservan口溶膜=吞咽型ODF而非真舌下：随唾液吞下、与口服片生物等效、口服BA~60%本属地板、零BA增益，只为ALS吞咽困难患者免水好吞→技术仅42(B8/C6)、G11，象限④低技×低商。",
+ "sources":["PubChem CID 5070 Riluzole — C8H5F3N2OS, MW 234.20","PMC10087659 / PubMed 36168148 (Wymer 2023) — Riluzole oral film置于舌上溶解后随唾液吞下(ingested with saliva)、与50mg口服片生物等效、与食同服AUC↓15%/Cmax↓45%","alsnewstoday — FDA批准Exservan(riluzole口溶膜)治ALS、免水好吞、针对吞咽困难","DrugBank/FDA label Riluzole — 口服绝对BA~60%、50mg BID、高首过(CYP1A2)但片/膜等效"],
+ "confidence":"high（MW/口服BA60%/Exservan为吞咽型膜且与口服片生物等效均明确高置信，诚实判定非真舌下；G为定性判断中置信）"}

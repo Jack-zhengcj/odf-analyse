@@ -1,0 +1,8 @@
+{"id":"ondansetron","name":"昂丹司琼 Ondansetron","mode":"drug","src":["drug"],
+ "A":17,"B":14,"C":12,"D":14,"E":9,"F":0,"G":10,"kill":"none","sellable":"rx",
+ "tech_moat":66,"comm":10,"supp_total":null,"band":"高技：舌下/口溶膜真值得做","quadrant":"② 高技×低商","archetype":"技术可行但合规封顶（剂型科学上该做，但管制/处方/草本，作补剂卖不了）",
+ "key_data":{"MW":293.4,"logP":2.4,"pKa":"咪唑~7.4(生理pH部分质子化)","oral_BA":"约60%(50–70%)","BA_mechanism":"半地板/部分首过型：口服已吸收完全，BA~60%缺口由首过代谢造成且随剂量饱和(8→64mg非线性升)。注意——Zofran ODT/Zuplenz膜均为口腔崩解后吞咽吸收(swallow型ODT/ODF)，并非真舌下绕首过：研究显示ODT与普通片BA等同(~60%)，并不提升extent。故B折到~14(地板偏高+剂型只是好吞非绕首过)","dose_mg":"口服4/8mg(止吐)、24mg(化疗)；ODT/膜同剂量","subl_evidence":"实锤但为吞咽型：Zofran ODT口崩片 & Zuplenz口溶膜(oral soluble film)上市，但二者是崩解后吞咽、口腔黏膜吸收极少→非真舌下；FDA标签ODT BA≈普通片"},
+ "notes":"A：MW293、logP~2.4、剂量4–8mg、理化适合成膜→17。B：关键纠偏——口服BA已~60%(地板偏高)、且Zofran ODT/Zuplenz膜是口崩/口溶后吞咽吸收(swallow型，FDA标签ODT BA≈普通片)，非真舌下绕首过，extent无实质提升→只能给14(按口服折，区别于真舌下绕首过)。C：止吐起效半急性、ODT便利于呕吐患者(不需水)→12。D：4–8mg易装、24mg化疗剂量偏大→14。E：成熟ODT/膜工艺无需特殊包埋→9。G：止吐中等市场但仿制红海(generic ondansetron极廉)、薄利→10(rx)。技术66复现锚点；象限②高技×低商。",
+ "one_liner":"剂型成立但B虚高需折：MW293好成膜+实锤Zofran ODT/Zuplenz膜，技术66锚点；但ODT/膜是吞咽型(非真舌下)、口服BA已~60%无extent缺口可救，B按口服折到14，G仿制红海仅10，象限②高技×低商。",
+ "sources":["PubChem CID 4595 — MW 293.4, C18H19N3O, logP~2.4","FDA Zofran 标签 020103/020605/020781 — 口服绝对BA~60%(8mg~56%)，8→64mg首过饱和非线性，片4/8/24mg","Zuplenz(ondansetron oral soluble film)标签 022524 & Zofran ODT — 口崩/口溶后吞咽吸收，ODT BA≈普通片(非真舌下绕首过)","Springer Clin Pharmacokinet 1995(29:95) ondansetron PK — 口服BA~60%、首过代谢可饱和","市场定性：止吐仿制红海，generic ondansetron价格极低、薄利"],
+ "confidence":"high（MW/logP/口服BA~60%/ODT等同普通片FDA标签直证；关键纠偏=ODT/膜为吞咽型非真舌下，B据此折到14；G为止吐仿制红海定性中置信）"}

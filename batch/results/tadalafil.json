@@ -1,0 +1,9 @@
+{"id":"tadalafil","name":"他达拉非 Tadalafil","mode":"drug","src":["drug"],
+ "A":13,"B":6,"C":7,"D":14,"E":7,"F":0,"G":17,"kill":"none","sellable":"rx",
+ "tech_moat":47,"comm":17,"supp_total":null,
+ "band":"中技：有真实优势但带短板","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"BA已高地板型（口服BA约80%、长半衰期17.5h、无首过可救缺口，舌下化救不动extent仅便携噱头；但ED大市场+每日5mg/BPH适应症使商业仍是金矿）",
+ "key_data":{"MW":389.4,"logP":"XLogP3≈1.7","pKa":"≈极弱碱(酰胺/吲哚)，生理pH近中性不电离","oral_BA":"约80%(首过后)，绝对BA未正式测定但属高地板；Cmax 0.5-6h(中位2h)、t½ 17.5h","BA_mechanism":"BA已高地板型——口服BA约80%、CYP3A4代谢但首过损耗有限，无可救缺口；舌下绕过首过对总吸收(extent)增益空间小，至多略快起效","dose_mg":"2.5/5/10/20mg(全部≤20mg，载药无压力)","subl_evidence":"无强人体舌下PK提升证据；长半衰期决定其为‘按需/每日’慢性节律而非急性救场，舌下化主要是便携而非BA"},
+ "notes":"A=13：MW389<500、亲脂可透膜、生理pH近中性，良好透膜体。B=6：口服BA约80%=已高地板，无首过缺口可救，舌下绕过首过对extent增益空间小(落BA已高地板5-8带)，至多略快起效。C=7：t½ 17.5h长、Cmax中位2h(偏慢)、定位按需/每日慢性节律，非急性即感。D=14：剂量2.5-20mg全≤20mg载药无压力。E=7：成熟、需轻度掩味。G=17：ED大市场、Cialis为blockbuster(每日5mg+BPH适应症增战略价值、现仿制但DTC巨量)，brief标G高(drug语境F=0)。F=0。整体落③象限：成分是金矿但无BA故事，膜剂主要为便携而非技术增益。",
+ "one_liner":"BA已高地板：口服80%无首过缺口可救，舌下化无extent增益纯便携，分子是ED金矿但该剂型技术故事薄(③象限)",
+ "sources":["https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021368s012lbl.pdf","https://pmc.ncbi.nlm.nih.gov/articles/PMC2643112/","https://www.ncbi.nlm.nih.gov/books/NBK603743/","PubChem CID 110635"],
+ "confidence":"high：MW389.41、t½17.5h、BA~80%、剂量2.5-20mg均FDA标签/多源确认；舌下无BA增益判定基于高地板机制"}

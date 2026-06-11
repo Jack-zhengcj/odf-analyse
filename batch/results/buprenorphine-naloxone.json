@@ -1,0 +1,8 @@
+{"id":"buprenorphine-naloxone","name":"丁丙诺啡/纳洛酮 Suboxone","mode":"drug","src":["drug"],
+ "A":16,"B":17,"C":12,"D":15,"E":9,"F":0,"G":18,"kill":"none","sellable":"controlled",
+ "tech_moat":69,"comm":18,"supp_total":null,"band":"高技：舌下/口溶膜真值得做","quadrant":"① 高技×高商","archetype":"技术可行但合规封顶（剂型科学上该做，但管制/处方/草本，作补剂卖不了）",
+ "key_data":{"MW":"467.6(丁丙诺啡)/327.4(纳洛酮)，复方","logP":4.98,"pKa":"丁丙诺啡叔胺~8.5/酚~9.6","oral_BA":"丁丙诺啡口服~10%；纳洛酮口服BA极低(<3%，故口服几乎无拮抗，仅注射误用时显效=滥用阻断设计)","BA_mechanism":"首过型(以丁丙诺啡为活性主体)：舌下绕过首过把丁丙诺啡BA从~10%救回~30–50%；纳洛酮舌下/口服几乎不吸收，只在静脉误用时拮抗→这正是Suboxone舌下膜的核心设计。B同丁丙诺啡17","dose_mg":"舌下膜2/0.5、4/1、8/2、12/3 mg(buprenorphine/naloxone)","subl_evidence":"金标准实锤：Suboxone舌下膜=本体就是上市的口溶/舌下膜旗舰，FDA标签人体PK完备；OUD一线维持治疗"},
+ "notes":"本体即Suboxone舌下膜旗舰本身。A/B/C/D/E同丁丙诺啡(活性主体)：A16(MW467偏大+亲脂唯一偏离，实锤膜证明透膜)、B17(口服~10%重首过→舌下~30–50%成倍救回；纳洛酮口服/舌下不吸收的特性正是抗误用设计)、C12(OUD维持半急性)、D15(2–12mg单膜)、E9(成熟膜工艺)。G18：Suboxone曾为>$10亿/年blockbuster、即便仿制化丁丙诺啡膜段2024仍~$31.5亿、OUD最大刚需+强战略DTC远程处方→18(controlled)。技术69复现锚点，象限①高技×高商，但管制合规封死。",
+ "one_liner":"Suboxone舌下膜本体=真护城河旗舰：丁丙诺啡口服~10%→舌下成倍救回、纳洛酮不吸收做抗误用，技术69+OUD数十亿G18，象限①高技×高商；管制药合规封死可售性。",
+ "sources":["FDA Suboxone(buprenorphine/naloxone)舌下膜标签 022410 — 膜档2/0.5…12/3mg，舌下/颊给药，人体PK","PubChem CID 644073(丁丙诺啡 MW467.64)/ CID 5284596(纳洛酮 MW327.4)","StatPearls/Springer Clin Pharmacokinet — 丁丙诺啡口服BA~10%、舌下~30%；纳洛酮口服BA<3%(抗误用机制)","市场：GlobeNewswire 2025/Zion — OUD市场$3.1B→$7.65–15B；丁丙诺啡(Suboxone主导)段2024 $3,151.6M","历史：Suboxone曾为Indivior >$10亿/年blockbuster"],
+ "confidence":"high（剂型即上市旗舰本体，PK/剂量/复方机制FDA标签直证；G为OUD blockbuster市场高置信）"}

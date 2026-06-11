@@ -1,0 +1,10 @@
+{"id":"donepezil","name":"多奈哌齐 Donepezil","mode":"drug","src":["drug"],
+ "A":11,"B":6,"C":4,"D":14,"E":6,"F":0,"G":17,"kill":"none","sellable":"rx",
+ "tech_moat":41,"comm":17,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头",
+ "quadrant":"③ 低技×高商",
+ "archetype":"剂型不可行但成分是金矿（ODT只是好吞、BA已100%地板无缺口可救；但阿尔茨海默大市场，价值在成分本身/给药依从性而非舌下）",
+ "key_data":{"MW":379.49,"logP":4.3,"pKa":"碱性叔胺 piperidine pKa≈8.9（生理pH质子化）","oral_BA":"相对口服BA~100%（吸收完全，Tmax 3-4h）；Aricept ODT与口服片生物等效","BA_mechanism":"地板/口服折：口服BA已~100%(吸收完全、食物/时间不影响)，无可救的吸收缺口；Aricept ODT是吞咽型口崩片(口内崩解后随唾液吞下，非舌下黏膜吸收)、与口服片生物等效，ODT仅改善吞咽便利/依从性而非提升BA","dose_mg":"5/10mg(轻中度)，重度可至23mg，每日一次","subl_evidence":"诚实降权：Aricept ODT为口崩片(orally disintegrating)，口内崩解后随唾液吞下经胃肠吸收(非舌下黏膜绕首过)、与口服片生物等效；BA本已~100%无缺口，ODT价值仅在AD/老年吞咽困难依从性"},
+ "notes":"A：MW379可透但logP~4.3偏亲脂、且ODT是吞咽型口崩(非走黏膜)，作为'舌下吸收'技术不成立，给11偏低。B：口服BA已~100%属高地板、无可救缺口，ODT与片生物等效零增益→按口服折，给6低。C：阿尔茨海默慢性每日给药、胆碱酯酶抑制需长期积累、非急救，给4低。D：5/10mg(标准)≤20mg、口崩片轻松可装(23mg重度上限仍可)，给14。E：多奈哌齐苦、口崩片需掩味，中等，给6。G(商业)：阿尔茨海默=数十亿美元级大市场、AD/老年吞咽困难与依从性是真痛点(ODT为此而生)，成分本身金矿，给17高。落象限③低技×高商：该舌下/口崩剂型对BA无价值(已100%地板)，但成分本身商业重磅，价值在给药依从性而非舌下救援。","one_liner":"多奈哌齐Aricept ODT=低技×高商典型：口服BA已~100%无缺口、ODT只是吞咽型口崩(非舌下)与片等效零BA增益→技术仅41；但阿尔茨海默数十亿大市场+老年吞咽依从刚需，G17→象限③，价值在成分本身而非舌下。",
+ "sources":["PubChem CID 3152 Donepezil — C24H29NO3, MW 379.49","FDA Aricept/Aricept ODT label (NDA 21-720) & DailyMed — 相对口服BA~100%、Tmax 3-4h、线性1-10mg、食物/时间不影响吸收；ODT与片生物等效；5/10/23mg","ClinicalTrials NCT01260948/NCT01260922 — 10mg donepezil ODT 空腹/非空腹BE研究","ScienceDirect S0149291811003997 — donepezil ODT vs 常规片 PK交叉(健康韩国男性)生物等效"],
+ "confidence":"high（MW/口服BA~100%/ODT为吞咽型口崩且与片生物等效均明确高置信，诚实判定非舌下救援；G阿尔茨海默大市场为高置信定性判断）"}

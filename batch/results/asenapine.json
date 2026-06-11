@@ -1,0 +1,7 @@
+{"id":"asenapine","name":"阿塞那平 Asenapine","mode":"drug","src":["drug"],
+ "A":18,"B":19,"C":11,"D":14,"E":6,"F":0,"G":12,"kill":"none","sellable":"rx",
+ "tech_moat":68,"comm":12,"supp_total":null,
+ "band":"高技：舌下/口溶膜真值得做","quadrant":"① 高技×高商","archetype":"技术可行但合规封顶（剂型科学上该做，但处方药，作补剂卖不了）",
+ "key_data":{"MW":285.77,"logP":"≈4.0(3.7-4.3)","pKa":"≈8.6(叔胺)","oral_BA":"<2%(口服),舌下~35%","BA_mechanism":"首过型(教科书级)：分子能透膜,但口服经UGT1A4葡萄糖醛酸化+CYP1A2氧化的极广泛首过使BA<2%,完全不可口服给药；舌下绕过首过将BA救回~35%(提升约15-20倍)→B19","dose_mg":"2.5/5/10mg BID(舌下)","subl_evidence":"金标准人体实锤：Saphris/Sycrest是唯一获批的舌下片(无口服剂型存在),多项人体舌下PK研究,舌下绝对BA~35%、Tmax 0.5-1.5h,且要求服后10min禁食水"},
+ "notes":"A18：MW285小分子+亲脂logP~4偏高(略超最优1.6-3.3窗口故非满分)+舌下pH下部分解离,但大量上市人体舌下PK证据支撑高A。B19：最经典的首过型——分子本身能透膜,口服BA<2%纯因UGT1A4+CYP1A2极广泛首过,舌下绕过真把BA救回~35%,是『必须舌下』的明星案例,B给到顶。C11：抗精神病为半急性/维持用药,非急救即感场景,起效仪式感中等。D14：5-10mg单次,≤20mg易装膜。E6：已知有局部口腔麻木/味苦,需掩味但可成膜(Saphris本身就是口崩),成本中等。G12：抗精神病(双相躁狂/精分)为中等刚需市场,但已有Saphris舌下片+Secuado透皮贴在售,可替代性使战略价值中等偏上,非blockbuster。F=0(药物语境忽略)。","one_liner":"『口服BA<2%、唯一舌下给药』的教科书首过型明星案例——MW285小分子+UGT/CYP极广泛首过,舌下把BA从<2%救回~35%,技术68分高技；抗精神病中等市场已有Saphris舌下+透皮贴,G12,落①高技×高商但处方药合规封顶。",
+ "sources":["PubChem CID 163091 (Asenapine, C17H16ClNO, MW 285.77)","PMC3368668 ACS Chem Neurosci Molecule Spotlight on Saphris (口服<2%首过,舌下~35%)","Sage Journals 2021 (Musselman/Faden/Citrome) Asenapine atypical formulations","FDA Saphris label / DailyMed (舌下2.5/5/10mg BID,服后10min禁食水)","DrugBank — UGT1A4葡萄糖醛酸化+CYP1A2氧化首过代谢"],"confidence":"high（理化/BA机制/舌下人体证据多源一致；logP区间与pKa为计算/文献值中置信；G为定性判断中置信）"}

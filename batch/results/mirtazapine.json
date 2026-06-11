@@ -1,0 +1,8 @@
+{"id":"mirtazapine","name":"米氮平 Mirtazapine","mode":"drug","src":["drug"],
+ "A":12,"B":10,"C":7,"D":13,"E":7,"F":0,"G":11,"kill":"none","sellable":"rx",
+ "tech_moat":49,"comm":11,"supp_total":null,"band":"中技：有真实优势但带短板","quadrant":"④ 低技×低商 → 放弃","archetype":"慢性/首过缺口存在但现剂型未捕获型（小分子有首过缺口，但Remeron SolTab是吞咽型ODT、与普通片生物等效，未真正绕首过）",
+ "key_data":{"MW":265.35,"logP":2.9,"pKa":"最强碱性pKa≈7.1（哌嗪N）；口腔pH附近部分质子化，部分中性可透膜","oral_BA":"绝对BA≈50%（几乎完全吸收，约一半被肝首过代谢）","BA_mechanism":"首过型（分子能透膜，中等亲脂）：口服快速吸收但经CYP2D6/1A2(8-羟基)及CYP3A(N-去甲/N-氧化)首过，BA约50%——存在可绕首过的缺口；但关键事实是Remeron SolTab是吞咽型口崩片，FDA标签明确SolTab与普通片生物等效，ODT并未真正经黏膜绕首过、缺口未捕获，故B只给中(10)","dose_mg":"15/30/45mg（SolTab口崩，常用15–45mg）","subl_evidence":"无支持舌下增BA的人体证据：Remeron SolTab为口崩吞咽型，FDA标签证实与普通片生物等效（Tmax≈2h、t½ 20–40h一致），价值在'好吞/无需水'及夜间助眠依从非'舌下增BA'"},
+ "notes":"A：MW265<500、logP约2.9适中、部分中性可透膜，理化对黏膜吸收较友好，A中偏上(12)。B：口服BA≈50%确有首过缺口（CYP2D6/1A2/3A），属首过型本可被舌下救——但Remeron SolTab是吞咽型ODT、与普通片生物等效，未真正绕首过，缺口未捕获，诚实给B中(10)。C：抗抑郁/失眠为慢性积累起效（数周），单次无急性即感，低-中(7)。D：15–45mg在20–50区上沿，载药中(13)。E：SolTab已是橙味口崩、掩味成熟、相对适口，中偏上(7)。G：米氮平为抗抑郁仿制红海薄利、小众于SSRI/SNRI之后，但镇静助眠/老年增食欲有真实依从需求，G中(11)。落象限④（tech49欠高技线、G11欠高商线）——ODT价值是好吞与夜间依从而非绕首过。",
+ "one_liner":"米氮平是'首过缺口真实但现剂型没吃到'的抗抑郁版——MW265中等亲脂小分子、口服BA50%有首过缺口本可救，但Remeron SolTab是吞咽型口崩片、与普通片生物等效未真舌下绕首过；技术中等49、抗抑郁仿制市场G11，象限④，ODT卖点应是好吞与夜间助眠依从而非增BA。",
+ "sources":["PubChem CID 4205 Mirtazapine (C17H19N3, MW 265.35)","FDA Remeron & RemeronSolTab 标签 — 绝对BA≈50%、CYP2D6/1A2(8-OH)+CYP3A(N-去甲/N-氧)首过、Tmax≈2h、t½ 20–40h；SolTab与普通片生物等效","Voortman & S-Tablets Hum Psychopharmacol 1995 — Remeron BA PK研究","Wikipedia/DrugBank DB00370 — logP≈2.9、最强碱pKa≈7.1","Mordor 抗抑郁市场 — 仿制竞争、米氮平小众份额"],
+ "confidence":"high（MW/BA50%/首过/SolTab生物等效均FDA标签直证多源一致；logP/pKa文献中置信；G定性中置信）"}
