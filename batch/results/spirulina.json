@@ -1,0 +1,8 @@
+{"id":"spirulina","name":"螺旋藻 Spirulina","mode":"supplement","src":["fda","amazon"],
+ "A":2,"B":3,"C":4,"D":0,"E":3,"F":0,"G":null,"kill":"tiktok","sellable":null,
+ "tech_moat":12,"comm":0,"supp_total":12,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data":{"MW":"整株蓝藻/复杂混合物——主活性藻蓝蛋白(phycocyanin)为大分子蛋白复合体 ≈100-260 kDa；整体远超渗透上限","logP":"不适用（全细胞/蛋白基质，非单一小分子）","pKa":"不适用","oral_BA":"作为食品蛋白源消化吸收(蛋白消化率~95%)，但‘活性’藻蓝蛋白为大分子蛋白、口服后被蛋白酶降解，完整入血极低；其价值是营养/抗氧化基质而非可透膜小分子","BA_mechanism":"渗透不可能/路线错误型(B≈3)：主体为 g 级全细胞粉+大分子蛋白(phycocyanin≫800 Da)，根本无法透过口腔黏膜；舌下绝对救不动，正解是当食品吃","dose_mg":"常规 1-3g/日起、常达 3-5g(乃至 g 级多勺)→ 远超单膜 100mg；FDA 公认安全藻蓝蛋白上限约 1g/日","subl_evidence":"无任何舌下/buccal PK；全细胞粉+大分子蛋白舌下不可行","solubility":"粉末部分分散于水（全细胞悬浮，非真溶解）","taste":"强烈腥/藻草味+染蓝，难掩","market":"greens/超级食物赛道——属草本/藻类植物大类，TikTok 限流红线(herbal/botanical/greens)；且常伴减肥/排毒宣称叠加风险 → tiktok 一票否决 F=0","regulatory":"GRAS 食品/膳食补充剂合法；但‘藻类+草本’大类与减肥/排毒宣称触 TikTok 红线"},
+ "notes":"A 极低(2)：整株蓝藻全细胞粉+大分子藻蓝蛋白(≈100kDa≫800)无法透黏膜。B 低(3)：渗透不可能型，主活性是大分子蛋白被肠酶降解、价值在营养基质而非透膜入血，舌下救不动。C 低(4)：抗氧化/营养为慢性积累、无急性即感。D=0：g 级有效量(1-5g)远超 100mg，物理装不下。E 低(3)：强腥藻味+染蓝难掩。F=0：螺旋藻属藻类/草本 greens 大类，命中 TikTok 限流红线(herbal/botanical/greens)，tiktok 一票否决封顶 45（此处技术分本就极低，实际 12）。总分 12 🔴 直接 Pass。",
+ "one_liner":"双重死局：藻类/greens 触 TikTok 红线(tiktok 否决 F=0)，且 g 级全细胞粉+大分子蛋白渗透不可能、膜也装不下——总分 12 🔴 直接 Pass。",
+ "sources":["https://www.mdpi.com/1420-3049/29/22/5387","https://pmc.ncbi.nlm.nih.gov/articles/PMC10144176/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10971825/","https://www.intechopen.com/chapters/59210"],
+ "confidence":"高（蓝藻全细胞+藻蓝蛋白大分子、g 级剂量、greens/草本属性均确证；tiktok 红线判定明确；技术渗透死局确凿。dose 同样适用，此处按 brief 指引以 greens/tiktok 为定性否决）"}
