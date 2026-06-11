@@ -1,0 +1,8 @@
+{"id":"d-chiro-inositol","name":"D-手性肌醇 D-chiro-inositol","mode":"supplement","src":["fda","amazon"],
+ "A":5,"B":5,"C":5,"D":0,"E":5,"F":6,"G":null,"kill":"dose","sellable":null,
+ "tech_moat":20,"comm":6,"supp_total":26,"band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data":{"MW":180.16,"logP":"XLogP3 ≈ -2.6（环己六醇立体异构体，极亲水）","pKa":"无可解离基团（中性多元醇），生理 pH 不带电","oral_BA":"口服吸收良好（大鼠>98% 经肠吸收，人体 1g 口服 4h 达峰、半衰期长于 myo-）；高 BA 地板，无首过缺口可救","BA_mechanism":"BA 已高地板叠剂量否决(B≈5)：口服 BA 本就高、无可救空间；极亲水中性多元醇被动透膜差→A 低；单独应用 600mg-1.2g/日有效量装不进膜，舌下无意义","dose_mg":"单独 PCOS 研究常 600mg×2(或 1.2g/日)；40:1 复方中仅 50-100mg。取主流单方有效量 >100mg → dose 一票否决，D=0","subl_evidence":"无人体舌下/buccal PK；克级/数百 mg 粉剂舌下不可行","solubility":"水中极易溶","taste":"微甜较温和，相对易掩（剂量问题盖过口感）","market":"PCOS 赛道，但高剂量 DCI 反而升睾酮/促芳香化酶——涉激素/生育疾病宣称(TikTok 红线风险)，且需教育 myo:DCI 比例，差异化弱","regulatory":"DSHEA 合法食品成分；高 DCI 升雄激素+生育宣称若做疾病 claim 触合规线"},
+ "notes":"A 低(5)：极亲水中性糖醇异构体(XLogP3≈-2.6)被动透膜差。B 低(5)：口服 BA 已高地板(>98%吸收)、无首过缺口，舌下无增益。C 低(5)：胰岛素/激素调节为慢性积累、无急性即感。D=0：主流单方有效量 600mg-1.2g/日，dose 一票否决物理装不下，封顶 40。E 中(5)：味温和可掩但剂量问题使工艺无意义。F 低(6)：PCOS 赛道但高 DCI 升睾酮+生育宣称(TikTok 红线风险)、差异化弱；本以 dose 更严封顶。总分 26 🔴 直接 Pass。",
+ "one_liner":"剂量否决型：单方 DCI 有效量 600mg-1.2g/日，膜装不下(D=0、dose 封顶)，且高 BA 地板+极亲水使舌下无意义——总分 26 🔴 直接 Pass。",
+ "sources":["https://pubchem.ncbi.nlm.nih.gov/compound/D-chiro-Inositol","https://pubmed.ncbi.nlm.nih.gov/19586572/","https://pmc.ncbi.nlm.nih.gov/articles/PMC11309080/","https://pmc.ncbi.nlm.nih.gov/articles/PMC8056130/"],
+ "confidence":"高（MW/糖醇亲水确证；>98% 肠吸收+1g 人体 PK 文献支持高 BA 地板；单方 600mg-1.2g 剂量主流，dose 否决确凿；40:1 低剂量仅作复方组分，不改单膜结论）"}

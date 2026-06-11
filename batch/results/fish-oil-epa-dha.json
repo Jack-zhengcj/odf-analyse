@@ -1,0 +1,9 @@
+{"id":"fish-oil-epa-dha","name":"鱼油 EPA/DHA","mode":"supplement","src":["fda","amazon"],
+ "A":7,"B":6,"C":4,"D":0,"E":4,"F":8,"G":null,"kill":"dose","sellable":null,
+ "tech_moat":21,"comm":8,"supp_total":29,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data":{"MW":"EPA 302.45（C20H30O2，PubChem CID 5282847）/ DHA 328.49（C22H32O2，CID 45934466）——单分子<500，但成药形式是甘油三酯/乙酯/游离脂肪酸的克级油","logP":"XLogP≈6.9(EPA)/~6.1–7(DHA)，极亲脂长链PUFA(远超舌下理想1.6–3.3)；油状、需膳食脂肪+胆汁乳化","pKa":"游离脂肪酸羧基pKa≈4.8(EPA/DHA)，口腔中性pH大部分解离为羧酸根；酯型不电离","oral_BA":"口服BA已偏高(无可救缺口)：随餐吸收，TG型≈90%(随高脂餐)、相对BA约124%；乙酯型空腹仅~20%、随高脂餐升至~60%。EPA/DHA入血后增血浆/磷脂含量确切","BA_mechanism":"BA已高地板+路线非首过(伪需求)：长链脂肪酸经小肠吸收→重组甘油三酯→乳糜微粒经淋巴入血，天然绕过肝首过(无肝首过缺口可救)；低/中BA来自需膳食脂肪+胆汁乳化(脂溶性溶出/分散瓶颈)，属溶解/分散型非膜渗透首过型，舌下成倍救回不成立。B低6。真正死因=克级有效剂量装不进膜→dose一票否决","dose_mg":"有效剂量克级：常规1–4 g EPA+DHA/日(降甘油三酯2–4g)；1000mg鱼油常仅含180mg EPA+120mg DHA→要达标须数g油。远超单膜≤100mg→D=0，kill=dose封顶≤40","subl_evidence":"无人体舌下/buccal PK；克级油本质须吞服随餐，舌下黏膜无法承载g级油相，厂商无舌下宣称(降权亦不适用)"},
+ "notes":"A=7：EPA/DHA是干净小分子(MW302/328<500)，但XLogP~7极亲脂、成药是克级油相，理化上舌下不友好，A中低。B=6：BA已高地板+路线非肝首过(伪需求)——长链脂肪酸经淋巴乳糜微粒入血天然绕首过、随餐BA达60–90%，缺口是膳食脂肪/胆汁乳化(溶出分散型)非膜渗透首过，舌下救不动。C=4：心血管/降甘油三酯/抗炎是数周慢性积累、非急性即感。D=0：有效剂量1–4g EPA+DHA(且油本身更重)远超单膜≤100mg→dose一票否决。E=4：鱼腥+鱼嗝(回味)中等偏难，须微囊/调味。F=8：omega-3心脑/孕产主流大市场、非TikTok草本红线，但作ODF物理不可行；市场体量给8。kill=dose封顶≤40，实得29。",
+ "one_liner":"教科书剂量否决：有效EPA+DHA为克级、且经淋巴乳糜微粒天然绕肝首过(BA已60–90%无缺口可救)，舌下既装不下也救不动 → kill=dose 29 🔴 直接Pass。",
+ "sources":["https://pubchem.ncbi.nlm.nih.gov/compound/Eicosapentaenoic-Acid (EPA MW302, CID5282847)","https://pubchem.ncbi.nlm.nih.gov/compound/45934466 (DHA MW328)","https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/ (剂量/含量/吸收)","https://www.nature.com/articles/s41430-020-00767-4 (omega-3型态PK随餐吸收)","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4557744/ (鱼油vs磷虾油同剂量BA)"],
+ "confidence":"high：EPA/DHA理化(MW302/328、XLogP~7)与克级有效剂量、随餐淋巴吸收BA60–90%(无肝首过缺口)均多源确证；dose一票否决与舌下不可行确定。落档29合理。"}
