@@ -1,0 +1,9 @@
+{"id":"nattokinase","name":"纳豆激酶 Nattokinase","mode":"supplement","src":["fda","amazon"],
+ "A":2,"B":4,"C":6,"D":10,"E":3,"F":8,"G":null,"kill":"permeation","sellable":null,
+ "tech_moat":25,"comm":8,"supp_total":33,
+ "band":"🔴 直接Pass","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"概念错配/渗透不可能型（分子根本透不过，或靶点不在血液）",
+ "key_data":{"MW":"约 27.7 kDa（27728 Da），单链 275 个氨基酸的丝氨酸蛋白酶(subtilisin 家族, 催化三联体 Asp32/His64/Ser221)；远 >800 渗透死局","logP":"亲水球状蛋白，无固定 logP；表面带大量可解离侧链，被动跨膜不可能","pKa":"多电荷蛋白(多个酸/碱性残基)，等电点附近也带净电；非被动扩散","oral_BA":"绝对 BA 未精确定量；人体口服后可见 D-二聚体/纤维蛋白原/优球蛋白溶解时间(ELT)等纤溶指标变化，提示『有足量活性酶入血』——但这是天然口服途径既已工作，并无『被首过破坏、需绕过』的缺口","BA_mechanism":"渗透/路线型(伪需求)：27.7kDa 蛋白被动透不过任何黏膜，舌下/口腔膜对大分子救不动；且其溶栓作用要求活性酶完整入血到达血液靶点，舌下绕不过『大分子无法跨膜』这一根本物理障碍。口服已能工作=无首过缺口可救 → A=2、B=4","dose_mg":"常规 100-200 mg / 2000 FU(纤溶单位)，质量克数小、单膜物理装得下 → D=10(非剂量否决)","subl_evidence":"无任何人体舌下/buccal PK；无口溶膜临床；活性蛋白酶含水成膜常温即失活，无法做成稳定膜剂","taste":"纳豆来源略有发酵味/微苦，但根本障碍是活性失活而非口感","market":"心血管/血液黏度/『清微血栓』(long-COVID/spike detox)话题热、复购潜力有；但溶栓/抗凝偏疾病 claim 易触合规与平台审核，给中(F=8)","regulatory":"DSHEA 下作酶补剂存在；溶栓/抗凝功效宣称偏药品红线需谨慎；舌下=新摄入途径理论上属另议，但本品根障是物理渗透不是监管"},
+ "notes":"A=2：27.7kDa 丝氨酸蛋白酶大分子，远超 800，黏膜被动渗透物理不可能→渗透死局封顶≤50。B=4：渗透/路线型伪需求——溶栓需活性酶完整入血达血液靶点，但大分子舌下救不动；且口服已是天然工作途径(纤溶指标可变)、不存在『被首过破坏需绕过』的缺口，舌下无意义。C=6：抗凝/防栓属半急性-慢性预防，非急性即感。D=10：100-200mg/2000FU 质量小，单膜装得下，非剂量否决。E=3：活性蛋白酶常温含水成膜无法存活(stability)，强制低 E。F=8：微血栓/spike detox 赛道热度高、复购可，但溶栓抗凝偏疾病 claim 限流/合规风险压分。kill=permeation cap50，实得 33。",
+ "one_liner":"27.7kDa 丝氨酸蛋白酶大分子，黏膜物理透不过(渗透死局)、活性酶成膜即失活(stability)、且口服已是天然工作途径无首过缺口可救——舌下纯噱头，33 🔴。",
+ "sources":["https://en.wikipedia.org/wiki/Nattokinase","https://www.targetmol.com/compound/nattokinase","https://drstanfield.com/blogs/articles/nattokinase-benefits-forms-dosing-and-side-effects","https://www.rthm.com/resources/blogs/nsk-sd-nattokinase-supplement-guide"],
+ "confidence":"high：MW 27.7kDa(275 aa 丝氨酸蛋白酶)、口服可见纤溶指标变化、常规 100-200mg/2000FU 剂量均有来源支撑；渗透死局(MW>>800)与活性酶 stability 双重技术封死确定。绝对口服 BA% 未被精确定量(标待证)，但不改渗透不可能判定。"}
