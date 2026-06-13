@@ -1,0 +1,60 @@
+{
+ "id": "calcium-d-glucarate",
+ "name": "D-葡萄糖二酸钙 CDG",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 3,
+ "B": 3,
+ "C": 3,
+ "D": 0,
+ "E": 5,
+ "F": 4,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 14,
+ "comm": 4,
+ "supp_total": 18,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（克级用量装不进膜；且为带电二价金属盐+肠腔局部靶点，渗透与路线双不成立）",
+ "key_data": {
+  "MW": "无水盐≈210；四水合物≈320.3 (C6H8O8·Ca·4H2O)",
+  "logP": "强负(葡萄糖二酸为高极性糖二酸，logP约-3至-4)，二价钙盐带电、极亲水",
+  "pKa": "二羧酸(两个羧基均解离)，与Ca2+成盐",
+  "oral_BA": "游离葡萄糖二酸口服吸收差；钙盐在肠道部分解离/水解释放,系统暴露低且非高血药浓度依赖",
+  "BA_mechanism": "渗透型+路线错误 — 既因带电二价盐+强亲水透不过黏膜(渗透型)，作用又主要在肠腔局部抑制β-葡萄糖醛酸酶(减少雌激素肝肠再循环)+支持肝II相葡萄糖醛酸化,非血药浓度场景；舌下救不动",
+  "dose_mg": "克级,常规500–1500mg/日(分2–3次),雌激素优势/防癌研究用1500–3000mg→远超100mg→dose一票否决,D=0",
+  "subl_evidence": "无人体舌下PK;靶点在肠腔/肝,舌下无意义"
+ },
+ "notes": "A=3：带电二价钙盐+强亲水糖二酸,经典渗透型透不过黏膜。B=3：双重路线错误——既渗透不能,功效又主要靠肠腔局部抑β-葡萄糖醛酸酶+肝葡萄糖醛酸化,非入血场景,舌下救不动。C=3：解毒/雌激素平衡属慢性,无急性。D=0：克级(500–3000mg)单膜装不下→dose封顶40,总分18。E=5：钙盐微溶、口感平淡但量大需载体。F=4：触限流红线(雌激素/解毒/激素平衡claim属tiktok灰区,herbal邻域),且人体RCT证据弱,商业薄。kill选dose(物理硬否决,封40,比tiktok的45更紧),雌激素claim的tiktok风险在notes标注。结论：渗透死局+克级+局部靶点,膜剂化不成立,Pass。",
+ "one_liner": "带电二价钙糖二酸盐、克级用量、靶点在肠腔——渗透+路线+剂量三重不成立,膜剂化纯噱头,Pass。",
+ "sources": [
+  "https://www.chemspider.com/Chemical-Structure.136477.html (Calcium D-glucarate C6H8CaO8)",
+  "https://www.biomol.com/products/chemicals/biochemicals/calcium-d-glucarate-hydrate-cay31490-25 (四水合物MW≈320.3,微溶)",
+  "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calcium-glucarate (β-葡萄糖醛酸酶抑制/吸收差/证据弱)",
+  "https://pubmed.ncbi.nlm.nih.gov/12197785/ (Calcium-D-glucarate综述)",
+  "https://www.optmzd.app/blog/calcium-d-glucarate-estrogen (剂量500–1500mg,雌激素claim)"
+ ],
+ "confidence": "high — 带电二价盐渗透死局+肠腔局部机制+克级剂量清晰;dose否决无疑义,tiktok(雌激素claim)亦命中,取更紧的dose封顶",
+ "m_demand": 13,
+ "m_story": 14,
+ "m_format": 5,
+ "m_claim": 6,
+ "m_econ": 6,
+ "commercial": 44,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "纯叙事",
+ "redline": "none",
+ "risk_flags": [
+  "FTC-claim",
+  "平台封号",
+  "高退款无体感"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🔴 放弃",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "雌激素/排毒叙事在女性wellness圈有小众热度但证据极弱、克级盐装不下膜、靶点在肠腔+claim踩TikTok灰区；best=胶囊，商业44⚫双低，纯故事盘风险高。"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "greens-superfood-blend",
+ "name": "绿超级食物粉 Greens blend",
+ "mode": "supplement",
+ "src": [
+  "amazon"
+ ],
+ "A": 2,
+ "B": 2,
+ "C": 3,
+ "D": 0,
+ "E": 3,
+ "F": 5,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 10,
+ "comm": 5,
+ "supp_total": 15,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（克级混合粉，物理装不进膜；且为概念混合非单一可吸收分子）",
+ "key_data": {
+  "MW": "不适用 — 75–80+种成分的概念混合物(螺旋藻/小球藻/麦草/苜蓿/果蔬粉/益生元/草本提取)，无单一分子量",
+  "logP": "不适用(混合物)",
+  "pKa": "不适用",
+  "oral_BA": "不适用 — 营养素来源型整食概念，靠总量铺货而非单分子血药浓度",
+  "BA_mechanism": "路线错误/概念错配 — 卖点是『一勺补齐果蔬营养』的整食叙事，根本不是某分子的BA可救场景；舌下无意义",
+  "dose_mg": "克级，单勺≈13g(如AG1)，远超100mg→dose一票否决，D=0",
+  "subl_evidence": "无；本品类无舌下意义"
+ },
+ "notes": "A=2/B=2：克级多组分混合物，没有单一可透膜分子，舌下吸收与BA提升概念上不成立。C=3：纯慢性『日常营养补充』叙事，无急性。D=0：单勺13g克级，物理上单膜装不下→dose封顶40，实际总分仅15。E=3：草腥味重、多组分难掩味与成膜。F=5：赛道虽热(greens/AG1)但配方含草本/适应原/海带提取并触限流灰区、且高度同质化需自费教育。结论：概念混合+克级剂量，膜剂化纯属伪命题，直接Pass。",
+ "one_liner": "克级果蔬混合『概念粉』，无单一可吸收分子且物理装不进膜——剂量与概念双重否决，直接Pass。",
+ "sources": [
+  "https://drinkag1.com/about-ag1/ingredients/ctr (AG1: 75+成分/13g单勺)",
+  "https://letsliveitup.com/blogs/supergreens/ag1-ingredients (成分含螺旋藻/小球藻/草本/海带)",
+  "https://lifehackerguy.com/ingredients-in-athletic-greens-ag1/ (单勺约13g/一大勺)"
+ ],
+ "confidence": "high — 品类本质(克级多组分概念粉)清晰，dose否决无疑义",
+ "m_demand": 22,
+ "m_story": 22,
+ "m_format": 14,
+ "m_claim": 10,
+ "m_econ": 9,
+ "commercial": 77,
+ "best_format": "powder/stick(非ODF)",
+ "efficacy_basis": "纯叙事",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "FTC-claim",
+  "平台封号",
+  "品牌扒皮"
+ ],
+ "quadrant2": "🟣 营销驱动型爆品（卖叙事不卖科学，附风险面板）",
+ "go_tier": "🟣 营销驱动旗舰·可做(睁眼下注)",
+ "comm_archetype": "营销驱动型·纯叙事爆品（全靠故事，最高退款/扒皮风险）",
+ "commercial_one_liner": "AG1模型验证了绿粉叙事巨大变现力（100美元+/月订阅），全场景万能营养叙事+KOL驱动是主引擎；但克级粉不可ODF化、纯叙事无科学护城河易被扒皮，入局门槛是品牌/KOL资源而非配方"
+}

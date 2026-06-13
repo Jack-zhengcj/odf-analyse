@@ -1,0 +1,63 @@
+{
+ "id": "choline-bitartrate",
+ "name": "酒石酸胆碱 Choline",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 4,
+ "B": 4,
+ "C": 6,
+ "D": 0,
+ "E": 3,
+ "F": 6,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 17,
+ "comm": 6,
+ "supp_total": 23,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": "253.25（酒石酸盐 1:1）；胆碱阳离子本身 104.17",
+  "logP": "XLogP3 ≈ -3 至 -4（胆碱为季铵阳离子，永久带正电、极强亲水）",
+  "pKa": "季铵 N 永久带电（无可质子化/去质子化窗口）；酒石酸 pKa1≈3.0/pKa2≈4.4",
+  "oral_BA": "游离胆碱口服吸收尚可经肠道转运体入血，但相当部分被肠道菌群代谢为 TMA→肝转化致动脉粥样硬化性 TMAO，并产生鱼腥味；入脑受 BBB 胆碱转运体限速",
+  "BA_mechanism": "渗透/路线错误混合型(B≈4)：胆碱是永久带电季铵+极亲水，无法被动透过口腔黏膜脂膜→A 低；口服 BA 并非首过破坏型，舌下绕过首过救不动这类带电分子；且 g 级剂量根本装不进膜，BA 讨论被剂量否决盖过",
+  "dose_mg": "酒石酸胆碱常规单次 ~500-1000mg、日剂量常达 1-2g（酒石酸盐稀释后胆碱当量更需加量）→ 远超单膜 100mg 上限 → dose 一票否决，D=0",
+  "subl_evidence": "无人体舌下/buccal PK 证据；带电季铵舌下也透不过",
+  "solubility": "水中极易溶（强亲水盐）",
+  "taste": "酸涩（酒石酸）+ 偏鱼腥（TMA 相关），强且难掩",
+  "market": "益智/肝健康赛道，竞品多且便宜（散粉），无差异化；胞磷胆碱/α-GPC 为更优胆碱源对手",
+  "regulatory": "DSHEA 下合法膳食成分，无草本/减肥红线"
+ },
+ "notes": "A 低(4)：胆碱为永久带电季铵阳离子+XLogP3≈-3 极亲水，被动透膜不可能。B 低(4)：非首过破坏型，舌下绕过首过对带电分子无益，且 g 级剂量使 BA 讨论失去意义。C 中低(6)：益智/肝用途为慢性积累、无急性即感。D=0：单次 0.5-2g 远超 100mg，dose 一票否决物理装不下，封顶 40。E 低(3)：酸涩+鱼腥(TMA)味强难掩，需重度掩味。F 低(6)：益智胆碱源红海、有更优竞品(α-GPC/胞磷胆碱)、无 TikTok 限流但也无搭车赛道。总分 23 🔴 直接 Pass，剂量否决型。",
+ "one_liner": "剂量否决型：胆碱是 g 级带电季铵盐，膜装不下(D=0、dose 封顶)，且永久带电极亲水舌下透不过，叠加酸腥味——总分 23 🔴 直接 Pass。",
+ "sources": [
+  "https://pubchem.ncbi.nlm.nih.gov/compound/Choline-Bitartrate",
+  "https://en.wikipedia.org/wiki/Choline_bitartrate",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7468900/",
+  "https://journals.asm.org/doi/10.1128/mbio.02481-14"
+ ],
+ "confidence": "高（MW/季铵带电/强亲水 PubChem 确证；g 级剂量与 TMA-鱼腥味文献一致；dose 否决与 A 低判定确凿）",
+ "m_demand": 14,
+ "m_story": 10,
+ "m_format": 8,
+ "m_claim": 10,
+ "m_econ": 7,
+ "commercial": 49,
+ "best_format": "capsule/powder(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "价格锚碾压",
+  "高退款无体感",
+  "品牌扒皮"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "胆碱益智赛道有真实需求但故事平淡，被α-GPC/胞磷胆碱碾压；g级带电季铵盐ODF装不下，粉/胶囊才是本格式，COGS极低但价格也极低被白牌杀穿；适合作为stack配方成分而非明星单品。"
+}

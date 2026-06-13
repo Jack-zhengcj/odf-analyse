@@ -1,0 +1,30 @@
+【ODFanalyse 评估：司来吉兰 Selegiline】  语境：药物（口腔黏膜/舌下可行性）
+
+## 一、查证数据（带来源）
+
+| 维度 | 数据 |
+|---|---|
+| 分子量 MW | 187.28 |
+| logP/logD | ≈2.7（亲脂小分子） |
+| pKa/解离 | 叔胺≈7.5 |
+| 口服绝对BA% | ≈10%（4–10%） |
+| BA低/高的机制(首过 vs 渗透) | 首过型（教科书级、分子能透膜）：口服>90%经肝P450单加氧酶首过代谢（主产物为左旋甲基苯丙胺/苯丙胺），故口服绝对BA仅~10%。Zelapar(Zydis冻干口崩片)经舌面/颊黏膜『预胃吸收』绕过首过——1.25mg Zelapar 的母药暴露≈10mg吞咽片，代谢物更低；且Emsam透皮贴BA~75%进一步佐证『一旦绕过首过该分子入血很充分』。属舌下/口腔黏膜真能救extent的明星类型，B给高17 |
+| 有效剂量 mg | Zelapar舌面1.25/2.5mg qd（极小剂量）；口服Eldepryl 5–10mg |
+| 舌下/口腔黏膜人体证据 | 金标准人体实锤：Zelapar(selegiline ODT)已上市，FDA标签明确『pre-gastric absorption + avoidance of first-pass』，Tmax 10–15min(对比吞咽片40–90min)、母药暴露↑/代谢物↓；吸收主要经颊黏膜 |
+
+**来源**：FDA Zelapar(selegiline HCl ODT)标签 021479 / DailyMed — pre-gastric absorption+avoidance of first-pass、舌面1.25/2.5mg、Tmax10–15min、1.25mg母药暴露≈10mg吞咽片；Wikipedia Pharmacology of selegiline & ScienceDirect — 口服绝对BA≈10%、>90%肝P450首过、代谢为左旋甲基苯丙胺(59%)/左旋苯丙胺(26%)；Emsam(selegiline transdermal)资料 — 透皮BA~75% vs 口服4–10%（佐证分子绕首过后入血充分）；PMID 17931095 Zydis selegiline in management of Parkinson's disease — Zelapar 1.25mg BA≈标准口服10mg；PubChem CID 26757 Selegiline (C13H17N, MW 187.28)；DrugBank logP≈2.7、叔胺pKa~7.5
+
+**置信度**：high（口服BA~10%/首过机制/Zelapar预胃绕首过/Emsam透皮~75%均FDA标签与权威源直证多源一致；logP/pKa为计算/文献值中置信；G为帕金森+抑郁仿制市场定性判断中置信）
+
+## 二、六维打分
+
+- A 舌下吸收 16/20 · B 生物利用度提升 17/20 · C 快起效 8/15 · D 载药 15/15 · E 口感成本 7/10 · F 市场 0/20
+- → **技术护城河 63/80** ｜ 药物商业价值 **G 12/20** ｜ 补剂总分：不适用（药物语境看技术分）
+- → 档位 **中技：有真实优势但带短板** ｜ 四象限 **① 高技×高商** ｜ 原型 **真护城河型（小分子+首过型低BA+口腔黏膜成倍救回）但处方药合规封顶**
+- → 一票否决：**none** ｜ 可售性：**rx**
+
+## 三、产品评估
+
+**六维打分依据**：A16：MW187极小+亲脂logP~2.7+已上市Zelapar人体颊黏膜PK直证→高A，仅因苯丙胺类代谢物与口腔部分质子化未给满。B17：最干净的首过型之一——口服BA~10%纯因肝P450>90%首过，Zelapar预胃吸收把母药救到≈10mg吞咽片水平、Emsam透皮~75%佐证molecule本身透膜好，属『舌下绕首过真能救extent』，B给高（区别于曲普坦那种ODT只是吞咽型）。C8：帕金森辅助/抑郁为慢性维持用药，非急救即感，虽Zelapar起效快但临床价值非acute；半急性给8。D15：1.25–2.5mg极小，载药满级。E7：Zelapar为葡萄柚味Zydis冻干、可成膜，需常规掩味无需特殊包埋。G12：帕金森MAO-B辅助+抑郁中等市场，但仿制红海且Zelapar+Emsam已在售、可替代性高→中等偏上，非blockbuster。F=0（药物语境）。tech63高技近asenapine/ondansetron；落①高技×高商但处方药合规封顶。
+
+**结论**：selegiline是『口服BA仅10%、Zelapar预胃吸收绕首过真把extent救回』的教科书首过型——MW187亲脂小分子+>90%肝P450首过+Emsam透皮~75%佐证透膜佳+1.25mg极小剂量，技术63高技；但帕金森/抑郁为仿制红海、Zelapar+Emsam已在售，G12，落①高技×高商，处方药合规封顶。

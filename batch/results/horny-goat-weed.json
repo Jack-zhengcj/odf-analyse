@@ -1,0 +1,63 @@
+{
+ "id": "horny-goat-weed",
+ "name": "淫羊藿 Epimedium",
+ "mode": "supplement",
+ "src": [
+  "amazon"
+ ],
+ "A": 6,
+ "B": 6,
+ "C": 6,
+ "D": 4,
+ "E": 5,
+ "F": 0,
+ "G": null,
+ "kill": "tiktok",
+ "sellable": null,
+ "tech_moat": 27,
+ "comm": 0,
+ "supp_total": 27,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data": {
+  "MW": "标志活性 icariin(淫羊藿苷)为异戊烯基黄酮醇糖苷 C33H40O15，MW 676.67(CAS 489-32-7，含 C-3 葡糖基+C-7 鼠李糖基)；提取物另含 icariside/epimedin 等系列糖苷——整品为黄酮糖苷混合物",
+  "logP": "icariin XLogP3-AA≈1.7(中等亲脂)——logP 数值看似在窗内，但双糖基(676 大分子)+P-gp 外排使被动透膜与净吸收差",
+  "pKa": "icariin 黄酮糖苷为中性(酚羟基弱酸 pKa~7-9，体 pH 多不解离)",
+  "oral_BA": "icariin 口服 BA 极低——人体安全性/PK 随机对照试验中各剂量血药浓度极低或测不到、无法定出 PK 参数；机制：双糖苷水溶性极差、且为 P-糖蛋白(P-gp)外排底物(被泵回肠腔)；活性更强的去糖代谢物 icariside II 在肠道生成；icariin PDE5 抑制效力比西地那非弱约 80 倍(摩尔基)",
+  "BA_mechanism": "渗透/溶解度型 +(外排)+ 混合物伪需求(B 6)：icariin(MW676 双糖苷)水溶性差、被动透膜差且受 P-gp 主动外排，瓶颈是透膜/外排而非肝首过——人体口服血药测不到即证；舌下绕首过救不动一个 676 大分子糖苷(还要在肠道去糖才更有效)；整品又是黄酮糖苷混合物，无干净首过小分子；A 同步偏低(6)",
+  "dose_mg": "标准化提取物常 500-1000 mg/次(标准化至 icariin 10-60%)，纯 icariin 因效力弱(比西地那非弱 80×)需更高→ 单膜物理装不下，载药 D 低(4)；封顶主因 tiktok",
+  "subl_evidence": "无任何人体舌下/buccal PK；连口服 PK 都因血浓测不到无法定出，更无舌下对照",
+  "solubility": "icariin 水中极难溶(双糖苷但结晶亲脂/溶出极差)——溶出受限",
+  "taste": "淫羊藿提取物苦涩(草本苦)，掩味中下(E=5)",
+  "market": "性功能/勃起(ED)/睾酮‘天然伟哥’草本红海(亚马逊海量，常与玛卡/东革阿里同配)；性功能+睾酮 claim 双重踩 TikTok 红线",
+  "regulatory": "草本(botanical/herbal Epimedium)+ED/性功能宣称→ 命中 TikTok『所有草本+性功能/睾酮』红线；‘舌下=新摄入途径’亦可能触 NDIN(主封顶记 tiktok)"
+ },
+ "notes": "A=6：标志活性 icariin 虽 XLogP3≈1.7 看似在窗内，但 MW676 双糖苷水溶性极差、被动透膜差且受 P-gp 外排，人体口服血药测不到→实际渗透差，偏低。B=6：渗透/溶解度型+主动外排+混合物，瓶颈是透膜/P-gp 外排非肝首过(人体口服测不到血浓即证)，舌下救不动一个 676 糖苷(还需肠道去糖成 icariside II 才更活)。C=6：PDE5 机制理论上半急性，但效力比西地那非弱~80×、需高剂量/积累，且血浓测不到——比纯适应原略偏‘起效’向给 6。D=4：标准化提取物 500-1000mg(效力弱需更高)，单膜装不下。E=5：草本苦涩掩味中下。F=0：草本+性功能/ED+睾酮三重踩 TikTok 红线，kill=tiktok 封顶≤45，实得 27(对齐东革阿里 26 性功能草本锚)。",
+ "one_liner": "草本‘天然伟哥’，标志活性 icariin(MW676 双糖苷)水溶性极差+P-gp 外排、人体口服血药测不到、PDE5 还比西地那非弱 80×——渗透型舌下救不动，剂量克级装不下，叠草本+性功能 TikTok 红线 → 27 🔴 直接Pass。",
+ "sources": [
+  "https://pubchem.ncbi.nlm.nih.gov/compound/Icariin",
+  "https://journals.sagepub.com/doi/full/10.1177/1934578X19856789",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5702950/",
+  "https://examine.com/supplements/horny-goat-weed/research/"
+ ],
+ "confidence": "高（icariin C33H40O15/MW676.67/XLogP3≈1.7 为公认值；人体 PK 试验口服血浓极低/测不到、P-gp 外排底物、比西地那非弱~80× 有 RCT 与综述支撑；草本+性功能 tiktok 封顶确定，渗透型/外排判定稳健；PubChem 数值因沙箱封域未直接拉取页面但为标准库值）",
+ "m_demand": 18,
+ "m_story": 14,
+ "m_format": 6,
+ "m_claim": 5,
+ "m_econ": 7,
+ "commercial": 50,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "平台封号",
+  "FTC-claim",
+  "品牌扒皮"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "性功能赛道大盘真实(ED/男性健康)但'天然伟哥'叙事被TikTok草本+性功能双重封号、疾病claim风险极高；icariin(MW676)P-gp外排口服测不到血浓(比西地那非弱80倍)证据薄；Amazon白牌价格战激烈，无叙事差异化，双红线下典型受限成分。"
+}

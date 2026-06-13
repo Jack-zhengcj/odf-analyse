@@ -1,0 +1,62 @@
+{
+ "id": "ergothioneine",
+ "name": "麦角硫因 Ergothioneine",
+ "mode": "supplement",
+ "src": [
+  "fda"
+ ],
+ "A": 7,
+ "B": 6,
+ "C": 4,
+ "D": 14,
+ "E": 8,
+ "F": 11,
+ "G": null,
+ "kill": "none",
+ "sellable": null,
+ "tech_moat": 39,
+ "comm": 11,
+ "supp_total": 50,
+ "band": "🟠 不推荐(伪需求)",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data": {
+  "MW": "229.30 (C9H15N3O2S)；2-巯基组氨酸三甲基甜菜碱(L-组氨酸衍生物)",
+  "logP": "强亲水；生理 pH 下为两性离子(betaine)+硫酮，无可用亲脂性，被动透膜差",
+  "pKa": "两性离子型(季铵正电+羧基负电)，pH7.4 以硫酮型为主、稳定",
+  "oral_BA": "口服迅速吸收且高度保留：5/25mg×7d 人体试验血浆 ET 大幅上升、尿排<4%；1h 内被红细胞摄取；停药后血浓持续升至 D35 → 吸收靠肠上皮 OCTN1(SLC22A4)专一高亲和转运体主动转运，非被动",
+  "BA_mechanism": "BA已高地板/转运体型(伪需求)：口服经 OCTN1 高效主动吸收且体内强保留，本就没有可救的 BA 缺口；且口腔黏膜不表达 OCTN1，两性离子被动透不过黏膜→舌下既无转运体也救不动，B 低(6)、A 低(7)；非首过型，舌下绕首过无意义",
+  "dose_mg": "典型有效/研究剂量 5-25 mg/日，mg 级 → 远在单膜物理装载内，不触 dose；D=14",
+  "subl_evidence": "无任何人体舌下/buccal PK；机制依赖肠上皮 OCTN1 转运体，口腔黏膜无此转运体，舌下化无药代学依据",
+  "solubility": "高水溶、极稳定(可耐受加工/储存)",
+  "taste": "无明显苦腥报道，无需包埋",
+  "market": "长寿/抗氧化『长寿维生素』叙事新兴；氨基酸衍生物非草本/非激素/非减肥→不触 TikTok 红线；但认知度低、需自费教育，niche"
+ },
+ "notes": "A=7：MW229<500 虽小，但生理 pH 为强亲水两性离子(甜菜碱+硫酮)、被动透膜差，且其吸收本质靠 OCTN1 转运体而口腔黏膜不表达该转运体→舌下吸收受限，给中低。B=6：口服经肠上皮 OCTN1 高亲和主动转运已高效吸收并强保留(尿排<4%)，属『BA 已高地板/转运体型』无可救缺口；非首过型，舌下既无 OCTN1 也救不动两性离子→伪需求。C=4：纯慢性抗氧化积累(长寿)，血浆数日累积、停药后仍升，无急性即感。D=14：有效量 5-25mg mg 级，单膜装得下，不触 dose。E=8：高水溶、极稳定、无腥苦，无需包埋，成本低。F=11：长寿抗氧化赛道、非草本非激素非减肥不触红线，但认知低需自费教育、niche。kill=none，实得 50(39+11)落『伪需求』。",
+ "one_liner": "小分子(MW229)但两性离子+吸收靠 OCTN1 转运体、口服已高效吸收强保留无可救缺口、口腔黏膜无 OCTN1 故舌下救不动 → 转运体型伪需求 50 🟠。",
+ "sources": [
+  "https://www.liebertpub.com/doi/10.1089/ars.2016.6778 (纯 ET 5/25mg 人体 PK，迅速吸收强保留、尿排<4%)",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC9816654/ (ET 综述：OCTN1/SLC22A4 高亲和转运体决定 PK 与组织分布)",
+  "https://www.sciencedirect.com/science/article/abs/pii/S1347436715000178 (OCTN1 介导肠道 ET 摄取)",
+  "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB8460398.htm (MW 229.30, C9H15N3O2S, 2-巯基组氨酸三甲基甜菜碱)"
+ ],
+ "confidence": "高：MW229.30、两性离子结构、OCTN1 主动转运决定吸收、人体口服迅速吸收强保留(尿排<4%)、5-25mg 剂量均有文献支撑。A/B 低源于『转运体型+口腔黏膜无 OCTN1』判定明确；XLogP3 因两性离子无标准值，按结构判强亲水。",
+ "m_demand": 10,
+ "m_story": 11,
+ "m_format": 6,
+ "m_claim": 9,
+ "m_econ": 7,
+ "commercial": 43,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "品牌扒皮",
+  "价格锚碾压"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🔴 放弃",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "长寿维生素叙事新兴但认知度极低、需自费教育；OCTN1转运机制科学有趣但无大众共鸣；原料成本高、无TikTok爆款场景——胶囊小众精众品牌可做,规模受限,对齐锚点~40🔵。"
+}

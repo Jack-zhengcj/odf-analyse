@@ -1,0 +1,9 @@
+{"id":"dexmedetomidine","name":"右美托咪定 Dexmedetomidine","mode":"drug","src":["drug"],
+ "A":17,"B":18,"C":14,"D":15,"E":8,"F":0,"G":14,"kill":"none","sellable":"rx",
+ "tech_moat":72,"comm":14,"supp_total":null,
+ "band":"高技：舌下/口溶膜真值得做","quadrant":"① 高技×高商 → 立项首选(如褪黑素)","archetype":"真护城河型（小分子+首过型低BA+舌下成倍救回）",
+ "key_data":{"MW":236.7,"logP":2.89,"pKa":7.1,"oral_BA":"口服低（强首过，吞服远低于舌下）","BA_mechanism":"首过型：分子小(MW237)、中等亲脂(logP2.89@pH7.4)、易透黏膜；舌下绕过肝首过真能救回，Igalmi舌下膜BA实锤高于吞服","dose_mg":"120–180mcg/膜（极微剂量，载药无压力）","subl_evidence":"Igalmi舌下膜FDA已批（精神分裂/双相激越急性），人体PK实锤：给药后5–20min入血、t½ 2–3h——金标准舌下证据","solubility":"盐酸盐易溶于水","taste":"微量无口感问题","market":"急性激越急救场景，新品类","regulatory":"α2激动剂，处方Rx，非管制"},
+ "notes":"A=17：MW237小、logP2.89正落甜区、口腔黏膜易透、剂量微克级——近满分。B=18：典型首过型且能透膜，舌下绕首过真把BA抬起来，Igalmi实锤；非渗透型伪需求。C=14：急性激越5–20min起效、急救即感。D=15：120–180mcg一票无压力。E=8：水溶盐、无口感、无需脂质体包埋。G=14：急性激越是中高刚需新市场、Igalmi已商业验证但适应症偏窄、有竞品但护城河清晰；处方Rx不可作补剂。整体真护城河型药物典范。",
+ "one_liner":"真护城河型：小分子+首过型+舌下绕首过+急性起效，Igalmi舌下膜实锤，剂型科学上该做（但Rx）。",
+ "sources":["https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/215390s002lbl.pdf","https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99476e8c-2527-4cb0-9d67-9f9cd91343c6","https://ir.bioxceltherapeutics.com/news-releases/news-release-details/bioxcel-therapeutics-announces-fda-approval-igalmitm","https://pubchem.ncbi.nlm.nih.gov/compound/Dexmedetomidine"],
+ "confidence":"high + Igalmi舌下膜人体PK与适应症为FDA标签实锤，理化数据(MW/logP/pKa)来自标签与PubChem"}

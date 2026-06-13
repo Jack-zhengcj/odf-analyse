@@ -1,0 +1,63 @@
+{
+ "id": "calcium-akg",
+ "name": "钙-AKG Ca-AKG",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 5,
+ "B": 5,
+ "C": 4,
+ "D": 0,
+ "E": 6,
+ "F": 10,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 20,
+ "comm": 10,
+ "supp_total": 30,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": "钙-α-酮戊二酸盐：无水 ~190(C5H4CaO5)，一水合 ~202(CAS 402726-78-7)；α-酮戊二酸(AKG, MW146)的钙盐",
+  "logP": "强亲水离子型(钙盐+羧酸盐)，无亲脂性，被动透膜差",
+  "pKa": "AKG 二羧酸(pKa≈1.9/4.4)生理 pH 全去质子化为二价阴离子，与 Ca²⁺ 成盐→带电",
+  "oral_BA": "AKG 游离酸在胃酸中不稳定、快速降解；成钙盐后更稳定、改善肠道吸收；人体多以 g 级口服，作为 TCA 循环中间体经代谢利用",
+  "BA_mechanism": "剂量否决+渗透/带电型：核心障碍是有效量 g 级 单膜物理装不下(dose 一票否决)；分子为强亲水带电二价阴离子钙盐、被动透不过黏膜；AKG 胃酸不稳虽似首过缺口，但克级带电盐舌下既装不下也透不过→救不动",
+  "dose_mg": "长寿常规 1000 mg/日，能量代谢 1000-2000 mg，最高耐受 3-4.5 g/日 → 克级，远超单膜装载，触 dose 一票否决，D=0 cap40",
+  "subl_evidence": "无人体舌下/buccal PK；克级粉无法成舌下膜；带电钙盐无被动黏膜透过依据",
+  "solubility": "水溶性钙盐，pH 5-8 白色粉/颗粒",
+  "taste": "微酸/矿物感(钙盐+酮酸)，可香精掩味，中等(E=6)",
+  "market": "长寿/抗衰(生物年龄)赛道，非草本非激素非减肥→不触 TikTok 红线；但人体证据弱(小样本)、需自费教育，且克级用量本身不适合膜剂"
+ },
+ "notes": "A=5：强亲水离子型(钙盐+二价羧酸阴离子)、被动透膜差，给低。B=5：AKG 游离酸胃酸不稳似有首过缺口,但有效量 g 级带电钙盐舌下既装不下也透不过→渗透/剂量型救不动，伪需求。C=4：慢性长寿(生物年龄需数月),非急性即感。D=0：常规 1000mg、上限 3-4.5g 克级,单膜物理装不下,dose 一票否决封顶40。E=6：水溶钙盐、微酸矿物感可掩味,无需脂质体,中等。F=10：长寿赛道非红线,但人体证据弱+需自费教育,且克级不宜膜剂,给中。kill=dose cap40,实得 30。",
+ "one_liner": "克级(1-4.5g)强亲水带电钙盐:单膜装不下(dose 否决)+二价阴离子透不过黏膜 → 剂量否决型 30 🔴。",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Calcium_alpha-ketoglutarate (钙-AKG 化学/MW)",
+  "https://pubchem.ncbi.nlm.nih.gov/compound/Calcium-alpha-ketoglutarate-Monohydrate (一水合 C5H6CaO6, MW~202)",
+  "https://www.aging-us.com/article/203736/text (Rejuvant Ca-AKG 人体降生物年龄,1g/日,小样本)",
+  "https://www.miduty.in/pages/calcium-alpha-ketoglutarate (剂量 1000-2500mg/日,上限耐受)"
+ ],
+ "confidence": "高：MW~190-202、钙盐带电二价阴离子、AKG 胃酸不稳、有效量 g 级(1000mg 常规/3-4.5g 上限)均有来源。dose 一票否决与 A/B 低明确;人体长寿证据为小样本(置信中等但不影响 dose 否决与各维拆分)。",
+ "m_demand": 18,
+ "m_story": 19,
+ "m_format": 7,
+ "m_claim": 9,
+ "m_econ": 9,
+ "commercial": 62,
+ "best_format": "capsule/powder(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "FTC-claim",
+  "品牌扒皮"
+ ],
+ "quadrant2": "🟣 营销驱动型爆品（卖叙事不卖科学，附风险面板）",
+ "go_tier": "🟣 营销驱动·可做",
+ "comm_archetype": "营销驱动型·弱证据故事盘（叙事强证据弱，管好claim）",
+ "commercial_one_liner": "生物年龄/长寿叙事高趋势可病毒，Rejuvant已验证高溢价；但克级带电盐只能做胶囊/粉包+人体证据极弱，best=capsule，商业62🟣营销驱动，睁眼下注卖抗衰叙事。"
+}

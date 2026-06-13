@@ -1,0 +1,9 @@
+{"id":"methyltestosterone","name":"甲基睾酮 Methyltestosterone","mode":"drug","src":["drug"],
+ "A":14,"B":14,"C":7,"D":14,"E":7,"F":0,"G":5,"kill":"none","sellable":"controlled",
+ "tech_moat":56,"comm":5,"supp_total":null,
+ "band":"中技：有真实优势但带短板","quadrant":"② 高技×低商 → 剂型完美但变现受限(药物/管制/红海，如硝酸甘油/丁丙诺啡)","archetype":"技术可行但合规封顶（剂型科学上该做，但管制/处方/草本，作补剂卖不了）",
+ "key_data":{"MW":302.5,"logP":"XLogP3≈3.4","pKa":"无可电离基团（中性，17β-OH）","oral_BA":"口服~50–70%（17α-甲基阻断首过使其口服活性，但仍部分肝代谢）","BA_mechanism":"首过型：17α-烷基化让分子能口服活性但仍有肝首过缺口；舌下/含颊给药实证可~翻倍BA并提前达峰(PMID 4487164)——绕首过真能救，且历史确有含颊片上市","dose_mg":"口服~10–25mg/日；含颊/舌下因BA翻倍剂量减半（~5–12mg，载药无压力）","subl_evidence":"PMID 4487164 人体对照：舌下/含颊给药使BA约翻倍、峰值由~2h提前至~1h；历史上确有methyltestosterone含颊片(buccal tablet)上市——金标准+商业先例","solubility":"水中微溶（亲脂甾体）","taste":"轻微甾体味，可掩","market":"雄激素替代/性腺功能低下——但已被更安全T酯/透皮基本淘汰","regulatory":"17α-烷基化雄激素，CSA Schedule III 管制(controlled)；肝毒(胆汁淤积/紫癜性肝病)限制使用"},
+ "notes":"A=14：MW302小、XLogP3≈3.4(略高于1.6-3.3甜区但接近)、中性甾体、剂量小——黏膜透过良好。B=14：典型首过型，17α-甲基使口服活性但仍有肝首过缺口，PMID 4487164实锤舌下/含颊BA约翻倍且达峰提前，历史确有含颊片——绕首过真能救；但口服本身已50-70%工作，缺口非desperate故落上中区非满分。C=7：雄激素替代为慢性给药、非急救即感。D=14：~10-25mg(含颊减半)无压力。E=7：亲脂甾体微溶、轻微味可掩、无需重包埋。G=5：肝毒17α-烷基化老药、已被更安全睾酮酯/透皮淘汰、CIII管制——低商业价值。整体高技×低商：剂型科学上成立(且有先例)但药物本身过时+管制变现受限。",
+ "one_liner":"技术可行但合规/过时封顶：首过型+含颊翻倍BA有实锤与先例，但肝毒老药+CIII管制——剂型对但卖不动。",
+ "sources":["https://pubmed.ncbi.nlm.nih.gov/4487164/","https://pubchem.ncbi.nlm.nih.gov/compound/Methyltestosterone","https://en.wikipedia.org/wiki/Methyltestosterone","https://reference.medscape.com/drug/android-methitest-methyltestosterone-342784"],
+ "confidence":"high + 含颊/舌下BA翻倍与达峰提前为PMID 4487164人体对照实锤、历史含颊片有先例；MW302.5/XLogP3≈3.4来自PubChem；肝毒与CIII管制为标签与文献确证"}

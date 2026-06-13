@@ -1,0 +1,9 @@
+{"id":"empagliflozin","name":"恩格列净 Empagliflozin","mode":"drug","src":["drug"],
+ "A":13,"B":6,"C":4,"D":14,"E":6,"F":0,"G":18,"kill":"none","sellable":"rx",
+ "tech_moat":43,"comm":18,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"BA已高地板型（口服BA~78%无可救首过缺口、SGLT2作用于肾近端小管慢性降糖无急性舌下理由，剂型科学上无增益；但Jardiance是糖尿/心衰/肾保护blockbuster，价值全在G）",
+ "key_data":{"MW":450.91,"logP":"XLogP3≈0.9-1.8(C23H27ClO7，含氯C-葡萄糖苷，中等亲脂/水中略溶)","pKa":"无强可电离基团(糖苷+酚，近中性)，口腔pH下中性","oral_BA":"绝对BA~78%；快速吸收Tmax~1.5h；无活性代谢物、药物相互作用少；终末半衰期~12h支持每日一次","BA_mechanism":"BA已高地板——口服绝对BA~78%已高，无明显肝/肠首过缺口可供舌下成倍救回；分子能透膜且口服已充分工作，舌下化提升空间小(B~6)；主要经肾排泄","dose_mg":"常规10mg起、可增至25mg每日一次，随餐或空腹——远<100mg单膜可装(D高)","subl_evidence":"未见FDA批准的舌下/口腔膜剂、无人体舌下/buccal PK对照证据；作用靶点SGLT2在肾近端小管，纯慢性给药无急速起效需求"},
+ "notes":"A=13：MW451<500、中等亲脂(logP~1-1.8)、近中性、剂量毫克级——透膜与载药条件尚可(但含氯C-葡萄糖苷水中略溶、需溶解辅助，未到高分)。B=6：核心限制——口服BA~78%已是高地板、无首过缺口可救、舌下救不动，按'BA已高地板'给6(略低于finasteride的7，因无任何已知舌下增益且靶点在肾)。C=4：SGLT2慢性降糖/心肾保护、数周月获益、无急性即感，舌下快起效优势=0。D=14：10-25mg单膜轻松装。E=6：略溶水、无强苦腥但含氯糖苷需增溶，中等成本。G=18：Jardiance是2型糖尿病+心衰(HFrEF/HFpEF)+CKD三大适应症的全球blockbuster(年销百亿美元级、SGLT2类强战略)，brief标G=18(drug语境F=0不计TikTok)。整体③象限：分子是代谢/心肾金矿，但舌下/口溶膜对它无技术增益，价值全在商业端。",
+ "one_liner":"BA已高地板型：口服78%无首过缺口可救、SGLT2慢性心肾保护无急性理由，舌下化是噱头；但Jardiance是糖尿/心衰/肾blockbuster使G极高(③低技×高商，价值在商业不在剂型)",
+ "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC4450666/ (empagliflozin综述: 绝对BA~78%, 选择性SGLT2i, 无活性代谢物)","https://pmc.ncbi.nlm.nih.gov/articles/PMC3927118/ (PK: Tmax~1.5h, 半衰期5.6-18.8h, 主要肾排)","https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204629s023lbl.pdf (Jardiance label: 10mg起可增25mg QD)","PubChem CID 11949646 (empagliflozin MW450.91, C23H27ClO7)"],
+ "confidence":"high：绝对BA~78%/Tmax1.5h/剂量10-25mg/MW450.91/主要肾排均FDA label与多源(PMC)确认；无舌下PK证据故B为高地板判定、舌下增益近零可信"}

@@ -1,0 +1,62 @@
+{
+ "id": "panax-ginseng",
+ "name": "人参 Panax ginseng",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 4,
+ "B": 6,
+ "C": 5,
+ "D": 8,
+ "E": 5,
+ "F": 6,
+ "G": null,
+ "kill": "tiktok",
+ "sellable": null,
+ "tech_moat": 28,
+ "comm": 6,
+ "supp_total": 34,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）",
+ "key_data": {
+  "MW": "活性皂苷大：人参皂苷Rb1≈1109、Rg1≈801(三萜皂苷,多糖基)",
+  "logP": "皂苷两亲/强亲水，整体不利透膜",
+  "pKa": "非离子型皂苷(糖苷)",
+  "oral_BA": "极低：Rb1≈4.35%，Rg1≈18.4%(范围0.2-48%随结构/水溶性)",
+  "BA_mechanism": "渗透/溶解度型：人参皂苷为大分子糖基化三萜(MW800-1100+)，太大太亲水透不过黏膜，低BA源于跨膜屏障而非首过→舌下救不动(伪需求)，B只给6；正解是脂质/环糊精增溶配方",
+  "dose_mg": "标准化提取物200-400mg/日(总皂苷计)，可装但意义有限",
+  "subl_evidence": "无人体舌下PK；存在颊黏附片(notoginseng)但属缓释黏附非真舌下增效",
+  "market": "草本/适应原，TikTok限流红线"
+ },
+ "notes": "A=4：活性皂苷MW800-1100的大分子糖苷，强亲水，黏膜渗透死局。B=6：低BA是渗透/溶解度型(分子太大透不过)而非首过型，舌下救不动→伪需求区6-9取低。C=5：适应原慢性积累，无急性即感。D=8：提取物200-400mg勉强装，但所谓有效成分是混合皂苷。E=5：需增溶/微囊改善吸收。F=6：人参=草本/adaptogen直接命中tiktok红线。kill=tiktok cap45，但技术分本就低(28)，叠F=6总分仅34，封顶未实际生效——草本+渗透双输，对标醉茄24~30一档。",
+ "one_liner": "草本适应原(tiktok红线)叠加人参皂苷大分子渗透死局——舌下既救不动BA又触限流，技术与合规双输，直接Pass。",
+ "sources": [
+  "https://pubmed.ncbi.nlm.nih.gov/12648814/",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6606970/",
+  "https://link.springer.com/article/10.1186/1749-8546-5-20",
+  "PubChem CID 9898279 (Ginsenoside Rb1)"
+ ],
+ "confidence": "high + 说明：皂苷低BA(Rb1 4.35%/Rg1 18.4%)与大分子渗透型机制文献高置信；草本tiktok红线判定确定；具体配方提取物剂量随产品浮动。",
+ "m_demand": 20,
+ "m_story": 18,
+ "m_format": 8,
+ "m_claim": 8,
+ "m_econ": 10,
+ "commercial": 64,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "平台封号",
+  "FTC-claim",
+  "高退款无体感",
+  "品牌扒皮"
+ ],
+ "quadrant2": "🟣 营销驱动型爆品（卖叙事不卖科学，附风险面板）",
+ "go_tier": "🟣 营销驱动·可做",
+ "comm_archetype": "营销驱动型·弱证据故事盘（叙事强证据弱，管好claim）",
+ "commercial_one_liner": "人参百年能量/性功能叙事有大众认知基础，TikTok有东方草本适应原热潮但命中免疫草本限流；皂苷大分子口服BA仅4-18%、无ODF路线；胶囊主流白牌密集价格锚，整体中等偏低，对标适应原赛道中游。"
+}

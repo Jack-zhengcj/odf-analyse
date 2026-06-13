@@ -1,0 +1,9 @@
+{"id":"adalimumab","name":"阿达木单抗 Humira","mode":"drug","src":["drug"],
+ "A":1,"B":1,"C":2,"D":3,"E":2,"F":0,"G":20,"kill":"permeation","sellable":"rx",
+ "tech_moat":9,"comm":20,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"技术死局但商业重磅（分子透不过，但成分本身是金矿，走皮下/换剂型）",
+ "key_data":{"MW":"~148000 (148 kDa, 重组人源 IgG1 单抗, 1330个氨基酸)","logP":"N/A(大分子蛋白)","pKa":"N/A(蛋白)","oral_BA":"≈0(口服胃肠蛋白酶降解;现行唯一途径皮下注射 SC, SC 绝对 BA~64%)","BA_mechanism":"渗透死局(permeation)——MW~148000 比口腔黏膜被动透过上限(~800Da)大约2个数量级,跨黏膜入血物理不可能,A/B≈1;靶点 TNF-α(可溶+膜结合)需全身分布,正解皮下注射,舌下/口溶膜绕首过毫无意义","dose_mg":"40mg q2w(蛋白量);剂量与载药上限相比已偏大,且 macromolecule 本质无法成膜溶出","subl_evidence":"无任何舌下/buccal 单抗人体 PK,理论亦不可能;抗体经黏膜不吸收为公认事实,现行给药为皮下自注射笔"},
+ "notes":"A=1/B=1:单抗 MW~148000(1330 aa),超黏膜透过上限约2个数量级,渗透绝对死局,口服/舌下≈0(A/B≈1),命中 permeation 否决。C=2:慢性自免治疗无急性即感。D=3:40mg蛋白量+macromolecule无法成膜装载/黏膜溶出。E=2:需冷链与蛋白制剂。F=0(药物语境)。G=20:Humira 累计销售近2000亿美元、史上最畅销药物、自免治疗支柱,商业价值满格,但与剂型可行性解耦(biosimilar已上市但不改其作为分子的金矿地位与战略价值)。综合③低技×高商——口溶膜不可行,成分是金矿,正解皮下注射。",
+ "one_liner":"单抗MW~148000(1330aa)渗透绝对死局(口服/舌下≈0),口溶膜物理不可能;但Humira是史上最畅销药(累计近2000亿美元)→③低技×高商,正解皮下注射。",
+ "sources":["EyeWiki/DailyMed Humira label(重组人 IgG1 单抗, MW148 kDa, 1330氨基酸, 皮下注射)","https://www.rxlist.com/humira-drug.htm","AJMC/PubMed PMID36811981 'Humira: the first $20 billion drug'(2021年全球净收入207亿美元)","NPR/BioPharma Dive(累计近2000亿美元, 史上最畅销, 20年专利垄断)"],
+ "confidence":"high — MW~148kDa/1330aa单抗、皮下给药、口服不吸收为定论;G=20有累计销售多源佐证;舌下不可行为理论必然"}

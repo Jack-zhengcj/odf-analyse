@@ -1,0 +1,7 @@
+{"id":"clonazepam","name":"氯硝西泮 Clonazepam","mode":"drug","src":["drug"],
+ "A":16,"B":7,"C":10,"D":14,"E":6,"F":0,"G":11,"kill":"none","sellable":"controlled",
+ "tech_moat":53,"comm":11,"supp_total":null,"band":"中技：有真实优势但带短板","quadrant":"② 高技×低商 → 剂型完美但变现受限(管制/红海)","archetype":"BA已高地板型(口溶膜给吞咽便利,非透黏膜救援)",
+ "key_data":{"MW":315.72,"logP":"~2.4","pKa":"1.5/10.5(生理pH近中性)","oral_BA":"~90%","BA_mechanism":"BA已高地板(口服绝对BA~90%,无首过缺口;Klonopin口崩片ODT是『吞咽型』——崩解后随唾液吞下走胃肠吸收,非口腔黏膜透膜,故extent与起效均无提升,只解决吞咽便利)","dose_mg":"0.5-2mg(单次)","subl_evidence":"半实锤(吞咽型ODT):Klonopin Wafers/Clonazepam ODT(FDA已上市)是口崩吞咽片,非舌下透黏膜;Cmax达峰1-4h与普通片相当→无onset优势,价值仅在便携/吞咽困难者依从性"},
+ "notes":"A16:MW316小分子+logP~2.4理想区+剂量0.5-2mg易装,理化优。B7:地板型——口服BA已~90%无首过缺口,且ODT为吞咽型(崩解后吞下走胃肠),extent零提升,按地板给7。C10:Klonopin ODT达峰仍1-4h(与普通片同),无快起效优势;临床多用于慢性惊恐/癫痫维持,非急救,故C只给中(半急性/依从性仪式感),低于lorazepam/midazolam的真急救onset。D14:剂量极小易装。E6:中等掩苦。G11:惊恐障碍/癫痫刚需但成熟仿制+ODT已上市,中等商业;controlled管制封死,落②高技×低商但实为『便利型口崩』而非舌下救援。",
+ "one_liner":"口服BA90%地板+Klonopin口崩片是『吞咽型ODT走胃肠』而非透黏膜→extent零救援(B7)、达峰仍1-4h无快起效(C10),价值只在吞咽便利;MW316理化优(A16)但综合技术53,管制红海(G11),②高技×低商。",
+ "sources":["DailyMed Clonazepam ODT label(绝对BA~90%,Cmax 1-4h,ODT崩解吞咽)","Klonopin FDA label accessdata 017533s045/020813s005","Drugs.com clonazepam ODT package insert","PubChem CID 2802(MW315.72)"],"confidence":"high"}

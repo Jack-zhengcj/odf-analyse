@@ -1,0 +1,8 @@
+{"id":"loperamide","name":"洛哌丁胺 Loperamide","mode":"drug","src":["drug"],
+ "A":9,"B":2,"C":2,"D":13,"E":6,"F":0,"G":6,"kill":"permeation","sellable":"otc",
+ "tech_moat":32,"comm":6,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"概念错配/路线错误型（BA<1%是P-gp把药故意挡在肠腔/CNS外的设计特性，作用靶点就在肠腔；舌下入血既脱离作用部位又解除CNS保护=危险，绝非可救的值钱首过）",
+ "key_data":{"MW":477.04,"logP":"约5.0(高亲脂)","pKa":"叔胺约8.6","oral_BA":"<1%(约0.3%)","BA_mechanism":"路线错误/概念错配：BA<1%并非可救首过，而是P-gp主动外排将药保留在肠腔并阻挡入CNS的有意设计特性；止泻作用靶点(肠μ阿片受体)就在肠腔局部；舌下绕过肠道入血→脱离作用部位且解除CNS阿片保护(滥用致心脏毒性/CNS抑制)=危险","dose_mg":"2-4mg(单次低，物理可装但无意义)","subl_evidence":"无合理舌下/颊PK研究——把loperamide系统化恰是禁忌(P-gp抑制剂合用即致血药升高与CNS/心脏风险)，证明系统暴露是要避免而非追求的","solubility":"水溶性差(高亲脂)","market":"OTC止泻(Imodium)有品牌但舌下版概念错误，无合理产品空间"},
+ "notes":"A=9：MW477<500且高亲脂理化上能透黏膜，但这恰是问题不是优点(不想要它入血)。B=2：决定性——BA<1%是P-gp故意把药挡在肠腔/CNS外的设计特性，作用靶点在肠腔局部，舌下入血既脱离靶点又解除CNS保护→路线错误0-4，非首过型(舌下入血反而危险)。C=2：止泻靠肠腔局部作用，舌下给药反使起效更差/无效。D=13：2-4mg物理可装(但无意义)。E=6：成膜技术低无需包埋，但产品本身无意义。G=6：Imodium OTC有市场，但舌下剂型概念错配无合理产品，战略价值中低；otc。kill=permeation(概念错配/技术性死局)。判定路线错误/概念错配型。",
+ "one_liner":"概念错配/路线错误：BA<1%是P-gp有意把药挡在肠腔的设计，舌下入血既离靶又解除CNS保护=危险，非值钱首过(otc)。",
+ "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC4243906/","https://onlinelibrary.wiley.com/doi/full/10.1211/jpp.62.04.0001","https://missouripoisoncenter.org/loperamide-an-unexpected-drug-of-abuse/","https://www.pharmacytimes.com/view/loperamide-danger-of-elevated-plasma-concentrations"],"confidence":"high：BA<0.3%、P-gp介导CNS/肠腔外排设计、系统暴露致心脏/CNS毒性均有多篇PMC/期刊+毒控中心证据"}

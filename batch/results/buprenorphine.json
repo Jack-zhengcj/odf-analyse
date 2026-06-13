@@ -1,0 +1,8 @@
+{"id":"buprenorphine","name":"丁丙诺啡 Buprenorphine","mode":"drug","src":["drug"],
+ "A":16,"B":17,"C":12,"D":15,"E":9,"F":0,"G":17,"kill":"none","sellable":"controlled",
+ "tech_moat":69,"comm":17,"supp_total":null,"band":"高技：舌下/口溶膜真值得做","quadrant":"① 高技×高商","archetype":"技术可行但合规封顶（剂型科学上该做，但管制/处方/草本，作补剂卖不了）",
+ "key_data":{"MW":467.64,"logP":4.98,"pKa":"叔胺~8.5 / 酚羟基~9.6（生理pH部分质子化）","oral_BA":"约10%（10–15%）","BA_mechanism":"首过型：分子能透膜但口服经肝CYP3A4大量首过(及肠代谢)，口服BA仅~10%；舌下绕过门静脉首过→绝对BA升至~30%(21%范围12–33%)乃至文献报50–60%，相对IV约60–70%。舌下成倍救回extent→B高17","dose_mg":"舌下2–24mg（Subutex/Suboxone膜2/4/8/12mg档）","subl_evidence":"人体舌下PK直证=金标准实锤：上市舌下膜/片Suboxone、Subutex数十年，舌下绝对BA~30%(救回约3倍)；阿片成瘾治疗与镇痛双适应症"},
+ "notes":"A：MW467.6偏大但仍<800、logP~4.98偏亲脂，靠实锤舌下膜证明能透黏膜→16(非满分因分子大+亲脂为唯一偏离)。B：口服BA~10%重首过、舌下~30–50%绕过首过成倍救回，教科书首过型→17。C：舌下用于OUD维持/镇痛属半急性(数十分钟达峰、非秒级救心)→12。D：2–24mg单膜可装→15。E：成熟舌下膜工艺、无需特殊包埋→9。G：OUD刚需大市场，丁丙诺啡单药2024年收入~$31.5亿、为OUD最大且增长最快药物段，强战略→17(controlled)。技术69复现锚点；G高使其落象限①高技×高商(但管制合规封死可售性)。",
+ "one_liner":"真护城河型旗舰：口服~10%重首过、舌下~30–50%成倍救回(Suboxone/Subutex实锤)，技术69锚点+OUD数十亿刚需G17，象限①高技×高商——但管制药合规封死，只能处方/管制渠道。",
+ "sources":["PubChem CID 644073 — MW 467.64, C29H41NO4, XLogP3~4.98","StatPearls NBK459126 / Springer Clin Pharmacokinet 2005(44:661) — 口服BA~10–15%(肝首过)，舌下绝对BA~30%(范围12–33%)，相对IV~60–70%","DEA Buprenorphine 药物简报 — 舌下膜/片Suboxone/Subutex/Buprenex，CYP3A4代谢","FDA Suboxone 舌下膜标签(022410) — 膜档2/4/8/12mg buprenorphine，舌下给药","市场：GlobeNewswire/Zion 2025 — OUD市场~$3.1B(2023)→$7.65–15B；丁丙诺啡段2024收入$3,151.6M、增长最快"],
+ "confidence":"high（MW/口服BA/舌下BA/上市膜剂多源一致，舌下成倍救回机制明确；logP/pKa取PubChem通用值；G为OUD市场定性高置信）"}

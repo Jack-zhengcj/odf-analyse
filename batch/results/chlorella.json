@@ -1,0 +1,60 @@
+{
+ "id": "chlorella",
+ "name": "小球藻 Chlorella",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 2,
+ "B": 2,
+ "C": 2,
+ "D": 0,
+ "E": 4,
+ "F": 0,
+ "G": null,
+ "kill": "tiktok",
+ "sellable": null,
+ "tech_moat": 10,
+ "comm": 0,
+ "supp_total": 10,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": "非单一分子——整粒单细胞绿藻全食材(蛋白~50-60%、叶绿素、多糖、核酸、矿物质混合)，‘有效成分’是整团大分子营养基质，无可锚定小分子",
+  "logP": "不适用(全细胞颗粒，非分子溶质；叶绿素亲脂、蛋白/多糖亲水的混合)",
+  "pKa": "不适用",
+  "oral_BA": "天然小球藻细胞壁为坚韧纤维素层人体不可消化，未破壁则营养几乎不吸收；商品需机械破壁才提升蛋白/维生素/矿物质生物利用度——即便如此仍是整食材消化吸收，非定义化单分子BA",
+  "BA_mechanism": "渗透型/剂量否决伪需求：产品是整粒藻细胞(纤维素壁包裹的大分子营养基质)，根本无小分子可透黏膜，舌下绝无可能整团吸收；低BA源于细胞壁屏障(需破壁)而非首过，舌下救不动 → A/B 双低(各2)",
+  "dose_mg": "常规 2-5 g/日(文献 6-10 g、安全可达 10-15 g/日)→ 克级，远超单膜≤100mg，载药 D=0 一票否决；封顶主因仍 tiktok",
+  "subl_evidence": "无任何人体舌下/buccal PK；整粒藻颗粒物理上无法经口腔黏膜吸收；厂商无舌下宣称"
+ },
+ "notes": "A=2：整粒单细胞绿藻、纤维素壁包裹的大分子营养基质，无可透黏膜的小分子，舌下吸收近零。B=2：低BA是细胞壁屏障(需机械破壁)非首过，舌下绕不过也救不动整团大分子→伪需求。C=2：作为‘绿色全食材/排毒/营养补充’纯慢性积累，无急性即感。D=0：常规 2-5 g(可达10-15 g)克级，单膜物理装不下，剂量一票否决。E=4：藻腥草青味重，需较强掩味，成本偏高但非绝对不可掩。F=0：greens/草本绿藻+常带排毒/减重叙事→命中 TikTok『所有草本(botanical)+greens』红线，kill=tiktok 封顶≤45，实得 10。",
+ "one_liner": "克级整粒绿藻(纤维素壁大分子基质)既装不进膜(D=0)又无小分子可舌下吸收，greens 草本踩 TikTok 红线 → 10 🔴 直接Pass。",
+ "sources": [
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7551956/",
+  "https://examine.com/supplements/chlorella/",
+  "https://www.sunchlorellashop.com/blogs/lifestyle/how-to-digest-chlorella"
+ ],
+ "confidence": "high（克级剂量、纤维素壁不可消化需破壁、整食材非单分子、greens+排毒 tiktok 封顶均多源确证；理化因是整颗粒非单分子故不适用单一MW/logP，结论不依赖之）",
+ "m_demand": 12,
+ "m_story": 13,
+ "m_format": 8,
+ "m_claim": 6,
+ "m_econ": 7,
+ "commercial": 46,
+ "best_format": "powder/tablet(非ODF)",
+ "efficacy_basis": "纯叙事",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "平台封号",
+  "价格锚碾压",
+  "品牌扒皮"
+ ],
+ "quadrant2": "⚫ 放弃（既不真又不好卖）",
+ "go_tier": "🟡 边缘/有条件",
+ "comm_archetype": "双低弃子型",
+ "commercial_one_liner": "绿粉/排毒赛道极度红海+TikTok草本封号，克级剂量ODF装不下，叙事同质化，比spirulina更小众，价格锚碾压严重。"
+}

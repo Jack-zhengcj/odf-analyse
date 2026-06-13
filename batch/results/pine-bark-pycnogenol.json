@@ -1,0 +1,61 @@
+{
+ "id": "pine-bark-pycnogenol",
+ "name": "松树皮 Pycnogenol",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 5,
+ "B": 8,
+ "C": 5,
+ "D": 8,
+ "E": 5,
+ "F": 0,
+ "G": null,
+ "kill": "tiktok",
+ "sellable": null,
+ "tech_moat": 31,
+ "comm": 0,
+ "supp_total": 31,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "渗透型伪需求（透不过黏膜，舌下救不动，正解换剂型）——OPC原花青素低聚物大分子多酚渗透型B低、慢性无急性,且草本提取触TikTok限流封顶",
+ "key_data": {
+  "MW": "混合物:单体儿茶素~290到二聚体~578、三聚体~866,直到7+黄烷醇亚基的低聚/多聚原花青素(标化65-75%procyanidins);多羟基大分子",
+  "logP": "低聚/多聚体强亲水多羟基(多个-OH),被动透膜差;单体儿茶素XLogP3~0.4",
+  "pKa": "多个酚羟基弱酸(pKa~8-10),生理pH部分解离",
+  "oral_BA": "分子量依赖:低分子(儿茶素/咖啡酸/阿魏酸/紫杉叶素taxifolin)小肠可吸收、0.5-2h入血;低聚/多聚procyanidins原形几乎不吸收,需结肠菌降解为小代谢物(如5-(3',4'-二羟苯基)-γ-戊内酯)、8-10h后才入血",
+  "BA_mechanism": "渗透/溶解度型(伪需求,舌下救不动):活性主体是低聚/多聚原花青素(OPC),分子大+多羟基强亲水,被动透黏膜根本透不过;口服『低BA』非可被舌下绕过的肝首过,而是分子太大透不过膜+依赖结肠菌降解(慢、8-10h)。舌下含服既无法让大分子OPC透膜、又不可能等结肠菌→B给渗透型档8,非首过型16-20",
+  "dose_mg": "常规 100-200 mg/日（临床常用150-200mg）→落50-100mg+段,标化提取可装但溶出/掩味需处理,D给8",
+  "subl_evidence": "无人体舌下/buccal PK;吸收瓶颈在大分子OPC透膜+结肠菌依赖,舌下机制上救不动;正解是降解为小代谢物或用单体级"
+ },
+ "notes": "kill=tiktok：松树皮提取物属草本/botanical,触TikTok限流红线→封顶≤45(此处raw31<45故cap非约束但合规已定性,F=0)。A5：活性主体OPC低聚/多聚原花青素(二聚~578/三聚~866到7+亚基)大分子+多羟基强亲水,被动透黏膜差,渗透型低档5。B8：渗透型伪需求——口服低BA因OPC分子太大透不过膜+依赖结肠菌降解(慢8-10h),非肝首过缺口,舌下既不能让大分子透膜又等不来结肠菌→救不动,落渗透型档8(非首过16-20)。C5：抗氧化/血管/认知慢性积累,无急性即感。D8：100-200mg落50-100mg+段,标化提取可装,给8。E5：多酚涩味+需增溶/掩味,微囊档5。F0：草本红线封死商业(TikTok限流),F=0。综合31,与草本多酚伪需求(姜黄素33同族)一致,🔴Pass。",
+ "one_liner": "OPC大分子多酚渗透型:活性主体低聚/多聚原花青素透不过黏膜、依赖结肠菌降解(慢),舌下救不动+慢性无急性,且草本触TikTok限流封死商业,落31🔴Pass。",
+ "sources": [
+  "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1389422/full (Pycnogenol人体PK综述:低分子小肠吸收、低聚/多聚需结肠菌降解8-10h)",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11096517/ (同综述PMC:分子量依赖吸收、微生物代谢物γ-戊内酯)",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC5452173/ (Pycnogenol成分/代谢物入血清/血细胞/滑液RCT)",
+  "https://pubmed.ncbi.nlm.nih.gov/11996210/ (法国海岸松皮提取物综述:标化65-75%procyanidins,草本药理)",
+  "常用剂量150-200mg/日(临床)"
+ ],
+ "confidence": "high：成分(标化65-75%原花青素低聚/多聚体)+分子量依赖吸收机制(低分子小肠吸收、OPC需结肠菌降解8-10h)有人体PK综述明确支撑；草本属性触TikTok限流确定。B按机制(渗透型,大分子透不过)判,非编数。",
+ "m_demand": 19,
+ "m_story": 19,
+ "m_format": 9,
+ "m_claim": 9,
+ "m_econ": 9,
+ "commercial": 65,
+ "best_format": "capsule/gummy(非ODF)",
+ "efficacy_basis": "弱证据",
+ "redline": "none",
+ "risk_flags": [
+  "FTC-claim",
+  "平台封号",
+  "品牌扒皮"
+ ],
+ "quadrant2": "🟣 营销驱动型爆品（卖叙事不卖科学，附风险面板）",
+ "go_tier": "🟣 营销驱动·可做",
+ "comm_archetype": "营销驱动型·弱证据故事盘（叙事强证据弱，管好claim）",
+ "commercial_one_liner": "Pycnogenol专利原料背书美容/皮肤/循环叙事，Amazon美容赛道强，TikTok草本限流→转Meta/YouTube KOL；弱证据但美容故事耐久，溢价靠专利原料区分白牌"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "probiotics",
+ "name": "益生菌 Probiotics",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 1,
+ "B": 2,
+ "C": 2,
+ "D": 3,
+ "E": 3,
+ "F": 5,
+ "G": null,
+ "kill": "stability",
+ "sellable": null,
+ "tech_moat": 11,
+ "comm": 5,
+ "supp_total": 16,
+ "band": "🔴 直接Pass",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "概念错配/渗透不可能型（分子根本透不过，或靶点不在血液）",
+ "key_data": {
+  "MW": "活菌非分子——单个细菌细胞 ~1-5 μm、皮克级质量，根本不是可跨黏膜的『分子』；剂量以 CFU(菌落形成单位)而非 mg 计",
+  "logP": "不适用（活体微生物，非小分子，无 logP）",
+  "pKa": "不适用",
+  "oral_BA": "作为活菌『入血 BA』≈0 且无意义——益生菌的作用机制是在肠道定植/竞争/产 SCFA，靶点在肠腔与肠黏膜表面，并非吸收进血液发挥系统作用",
+  "BA_mechanism": "路线错误/概念错配：靶点在肠道(定植、产短链脂肪酸、调节菌群)，不是血药浓度；舌下/buccal 让活菌『入血』既不可能(细胞太大、会被免疫清除/致菌血症风险)也无治疗意义，故 A/B 极低；CFU≠mg，整套『舌下吸收』框架对活菌不成立",
+  "dose_mg": "有效剂量按 CFU 计：常规 10-20 亿~200 亿 CFU/日(部分适应症 250-1000 亿)；以 CFU 论而非 mg，单膜可装少量菌粉但活性维持是真问题",
+  "subl_evidence": "有 ODF/buccal 膜研究但均为口腔局部(口腔健康/局部定植 L. brevis 等)，非舌下系统吸收——恰恰印证『入血』无意义；常温(25°C)含水成膜 28 天活菌损失高(~2.9 log CFU)，ODF 本质吸湿，活菌存活差",
+  "taste": "菌粉本身近乎无味，但活性维持(非口感)是限制",
+  "market": "益生菌/肠道健康赛道庞大且非 TikTok 红线(非草本/非减肥/非激素)，可搭便车，但膜剂活菌存活差、CFU 标注难、同质化，给中低 F=5",
+  "stability": "核心死穴：活菌在常温含水成膜中无法长期存活——ODF 吸湿、需避水避乙醇，25°C 28天 ~2.9 log CFU 损失 vs 4°C 仅 0.5 log；触 stability，E≤3"
+ },
+ "notes": "校准锚点，精确复现 16(tech_moat 11 + F 5)。A=1：益生菌是活体微生物(μm 级细胞、CFU 计量)，根本不是可跨黏膜的分子，舌下吸收概念不成立→极低。B=2：路线错误/概念错配——靶点在肠道(定植/产SCFA/调菌群)而非血药浓度，让活菌入血既不可能(细胞太大、菌血症风险)也无治疗意义。C=2：益生菌起效靠肠道定植与菌群调节，需数日至数周累积，纯慢性。D=3：以 CFU 计而非 mg，单膜能装少量菌粉但非主要矛盾。E=3：触 stability——活菌在常温含水成膜无法长期存活(ODF 吸湿、25°C 28天 ~2.9 log CFU 损失)，封 E≤3。F=5：肠道健康赛道大且非红线，可搭便车，但膜剂活菌存活差/同质化给中低。kill=stability(不封总分，仅 E≤3)，实得 16。",
+ "one_liner": "活菌不是分子(μm 级、CFU 计量)、靶点在肠道而非入血(概念错配)、常温含水成膜活不了(stability)——舌下框架整体不成立，16 🔴（校准锚点）。",
+ "sources": [
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10688816/ (VSL#3 口服后肠道定植动力学，靶点在肠道)",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150759/ (Lactobacillus brevis buccal 膜为口腔局部递送，非舌下入血)",
+  "https://www.sciencedirect.com/science/article/pii/S0927776525003935 (益生菌成膜：常温/含水活菌存活差、ODF 吸湿、25°C vs 4°C CFU 损失对比)",
+  "https://www.optmzd.app/blog/probiotic-dosage-cfu (有效剂量 10-200亿 CFU，以 CFU 非 mg 计)"
+ ],
+ "confidence": "高：活菌为 μm 级细胞/CFU 计量、靶点在肠道而非入血、常温含水成膜活菌存活差(2.9 log CFU 损失/28天@25°C)均有文献支撑；stability 阻断与各维拆分确定；校准锚 16 精确复现(11+5)。",
+ "m_demand": 22,
+ "m_story": 20,
+ "m_format": 8,
+ "m_claim": 11,
+ "m_econ": 9,
+ "commercial": 70,
+ "best_format": "capsule(非ODF)",
+ "efficacy_basis": "真实证据",
+ "redline": "none",
+ "risk_flags": [
+  "高退款无体感",
+  "价格锚碾压",
+  "平台封号"
+ ],
+ "quadrant2": "🟣 营销驱动型爆品（卖叙事不卖科学，附风险面板）",
+ "go_tier": "🟣 营销驱动·可做",
+ "comm_archetype": "营销驱动型·真效力错格式（效力是真的，ODF不对→换最佳剂型）",
+ "commercial_one_liner": "肠道健康大盘真实证据(肠脑轴)，本就肠道起效→capsule才是正解；活菌在常温ODF存不了，做胶囊走Amazon订阅是主战场，70亿美元赛道稳健复购"
+}

@@ -1,0 +1,9 @@
+{"id":"liraglutide","name":"利拉鲁肽 Liraglutide","mode":"drug","src":["drug"],
+ "A":1,"B":2,"C":3,"D":12,"E":5,"F":0,"G":18,"kill":"permeation","sellable":"rx",
+ "tech_moat":23,"comm":18,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"技术死局但商业重磅（分子透不过，但成分本身是金矿，走皮下/换剂型）",
+ "key_data":{"MW":"3751.2 (C172H265N43O51)","logP":"不适用(脂肪酸酰化肽，两亲但带电、强血浆蛋白结合>98%)","pKa":"多解离肽","oral_BA":"无口服剂型；同类口服肽(口服司美)BA≈1%佐证肽口服死局","BA_mechanism":"渗透型(死局)：31肽MW3751>>800，带电亲水、>98%血浆蛋白结合，舌下黏膜透不过，舌下救不动；皮下绝对BA≈55%","dose_mg":"0.6-3.0 mg/日(皮下)，剂量可装下","subl_evidence":"无人体舌下/buccal PK证据；肽经口腔黏膜透过率极低，需注射","market":"Saxenda(减重)/Victoza(糖尿) 数十亿级，GLP-1赛道","regulatory":"处方药"},
+ "notes":"A=1：MW3751肽，带电亲水+>98%血浆蛋白结合，舌下黏膜透不过(渗透死局)。B=2：渗透型非首过型，舌下绕过首过也救不动(皮下BA才~55%)，无可救缺口。C=3：日制剂慢性病，无急性即感。D=12：日剂量0.6-3mg能装下，非剂量否决。E=5：肽成膜需稳定化+促渗，成本中高。F=0(药物语境)。G=18：减重/糖尿GLP-1 blockbuster(Saxenda/Victoza)，刚需大市场强战略，略低于司美G20。kill=permeation：MW>800渗透型无促渗方案，技术封顶。",
+ "one_liner":"③低技×高商：3751Da肽渗透死局，舌下/口溶膜救不动，但GLP-1本身是金矿，正解走注射/口服肽促渗平台。",
+ "sources":["https://en.wikipedia.org/wiki/Liraglutide","https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/206321s016lbl.pdf"],
+ "confidence":"high：MW3751.2与皮下BA~55%来自FDA label/PubChem，肽舌下透过死局为机制必然"}

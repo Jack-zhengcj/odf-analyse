@@ -1,0 +1,9 @@
+{"id":"loratadine","name":"氯雷他定 Loratadine","mode":"drug","src":["drug"],
+ "A":12,"B":6,"C":7,"D":14,"E":8,"F":0,"G":11,"kill":"none","sellable":"otc",
+ "tech_moat":47,"comm":11,"supp_total":null,
+ "band":"中技：有真实优势但带短板","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"前药首过活化型（口服经肝首过转地氯雷他定才起效，舌下绕过首过反而损失活性代谢物，ODF属吞咽型ODT噱头）",
+ "key_data":{"MW":382.9,"logP":"XLogP3≈5.2(亲脂偏高)","pKa":"≈5.0(叔胺/酯)","oral_BA":"母药well-absorbed但首过广泛；ODT vs 普通片AUC仅高约6-11%，地氯雷他定生物等效","BA_mechanism":"前药/首过活化型——口服经CYP(2D6/3A4)首过生成活性代谢物地氯雷他定；舌下绕过首过=绕过活化步骤，活性代谢物不增反损，无可救缺口","dose_mg":"10mg(≤20mg，载药无压力)","subl_evidence":"Claritin RediTabs为吞咽型ODT(置舌上数秒崩解后吞下)，非真舌下含服；ODT与普通片对地氯雷他定生物等效，无舌下PK提升证据"},
+ "notes":"A=12：MW383<500、亲脂可透膜，但RediTabs设计为吞咽非舌下含服，作舌下候选仅中等。B=6：关键诚实判定——loratadine是前药，须经肝首过CYP活化为地氯雷他定才有抗组胺活性；舌下绕过首过=绕过活化，活性代谢物AUC不增甚至下降(ODT数据示desloratadine生物等效)，属无缺口/救不动型。C=7：慢性过敏，半急性最多，非急性即感。D=14：10mg载药无压力。E=8：无需包埋、ODT成熟、口感温和。G=11：过敏OTC是真实市场但loratadine已仿制红海、RediTabs早存在、舌下化无差异化。F=0(drug语境)。",
+ "one_liner":"前药首过活化型：舌下绕过首过反损活性代谢物，ODF纯吞咽噱头，技术不成立而OTC商业平淡(④象限)",
+ "sources":["https://www.medcentral.com/drugs/monograph/73-397038/loratadine-oral","https://en.wikipedia.org/wiki/Loratadine","https://clinicaltrials.gov/study/NCT00776282","PubChem CID 3957"],
+ "confidence":"high：MW/前药首过机制/ODT≈普通片生物等效均多源确认；舌下化对活性代谢物无增益的判定基于活化机制，置信高"}

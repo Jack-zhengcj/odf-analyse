@@ -1,0 +1,9 @@
+{"id":"oxytocin","name":"催产素 Oxytocin","mode":"drug","src":["drug"],
+ "A":3,"B":4,"C":9,"D":13,"E":5,"F":0,"G":11,"kill":"permeation","sellable":"rx",
+ "tech_moat":34,"comm":11,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"概念错配/渗透不可能型（分子根本透不过，或靶点不在血液）",
+ "key_data":{"MW":"1007.19 (9肽,含1个二硫桥)","logP":"约 -4-(-3)(极亲水带电肽,跨膜极差)","pKa":"多解离基团(肽);生理pH带净电荷","oral_BA":"<1%(口服胃肠蛋白酶+酸完全降解);静脉/肌注为标准产科途径","BA_mechanism":"渗透型/肽死局(permeation)——MW1007>800,极亲水肽,被动跨黏膜透过极差;舌下人体PK绝对BA仅 0.007-0.07%(10倍变异),即舌下救不动 extent(系统吸收<0.1%),属渗透型伪需求而非首过型;社交认知效应多走鼻腔 nose-to-brain(非血液途径,且仍是鼻喷非口溶膜),靶点不在外周血","dose_mg":"催产 IV 微克级-数 IU;鼻喷/含服社交研究 ~24 IU(数百微克级,约0.7mg)。剂量本身极小(D高),但吸收近零使载药优势无意义","subl_evidence":"有舌下/含服历史制剂与研究(Syntocinon 鼻喷; PMC9144145 热稳定舌下速溶片做产后出血; PMID8568623 男性舌下PK)——但舌下人体绝对BA仅0.007-0.07%,厂商'舌下吸收'宣称须大幅降权;onset 对社交/中枢效应或经鼻有信号,extent(系统)近零"},
+ "notes":"A=3:MW1007>800、极亲水带电9肽,黏膜被动透过极差,理化近死局。B=4:关键短板——舌下人体PK绝对BA仅0.007-0.07%(PMID8568623),属渗透型伪需求,舌下救不动 extent,非可被绕首过救回的首过型;社交认知信号多依赖鼻腔 nose-to-brain(非血液、且非口溶膜途径),压低近地板。C=9:急性场景(产科/社交仪式感)有半急性感,给中。D=13:活性剂量微克-mg级,物理装得下(理化上唯一亮点),但吸收近零使其无意义。E=5:肽需稳定化/防降解,热稳定配方有进展。F=0(药物语境)。G=11:催产素本体为廉价仿制(产科 IV 红海薄利),系统给药商业空间有限;社交/自闭症方向仍investigational未转化,故中。综合④低技×低商:渗透不可能型,口溶膜救不动,正解仍鼻喷或注射。",
+ "one_liner":"9肽MW1007渗透死局,舌下人体BA仅0.007-0.07%(救不动extent),社交效应靠鼻腔非口溶膜;本体又是廉价产科仿制→④低技×低商,渗透不可能型。",
+ "sources":["PubChem(Oxytocin, 9肽 MW1007.19, 含二硫桥)","PubMed PMID8568623 'Bioavailability and pharmacokinetics of sublingual oxytocin'(舌下绝对BA 0.007-0.07%, 10倍变异)","https://pmc.ncbi.nlm.nih.gov/articles/PMC9144145/(热稳定舌下速溶片, 产后出血)","https://biologyinsights.com/oral-oxytocin-effects-stability-and-receptor-action/(口服<1%, 蛋白酶降解; 社交多走鼻腔nose-to-brain)"],
+ "confidence":"high — MW1007肽/口服<1%/舌下BA0.007-0.07%均有PMID与PubChem佐证;社交鼻腔途径与产科仿制定位明确;舌下extent近零为定论"}

@@ -1,0 +1,9 @@
+{"id":"sildenafil","name":"西地那非 Sildenafil","mode":"drug","src":["drug"],
+ "A":12,"B":16,"C":11,"D":5,"E":5,"F":0,"G":17,"kill":"none","sellable":"rx",
+ "tech_moat":49,"comm":17,"supp_total":null,
+ "band":"中技：有真实优势但带短板","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"首过可救但剂量顶天型（BA~40%首过、舌下使血药升314-361%本可成倍救回，但旗舰100mg正处膜剂载药物理极限，D紧把技术分拖下、商业仍是ED金矿）",
+ "key_data":{"MW":474.6,"logP":"XLogP3≈1.5-2.0","pKa":"碱性≈6.5(哌嗪)","oral_BA":"约38-41%(吸收~92%但首过损耗)；舌下给药血药较口服升约314-361%","BA_mechanism":"首过型——~92%被吸收但肝首过致绝对BA仅约40%，分子本身能透膜；舌下/口腔黏膜绕过首过使血药升314-361%、代谢比上升=首过被部分绕过，真能救","dose_mg":"25/50/100mg；旗舰100mg正处单层口溶膜载药物理极限(>100mg即dose否决，100mg为专利级极限案例，故D紧)","subl_evidence":"有人体/动物舌下及ODF PK证据(Frontiers 2018 sildenafil ODF舌下新PK/耐受性曲线；先心病患儿舌下BA大幅提升个案；多篇快速崩解舌下系统)，起效与extent均可改善"},
+ "notes":"A=12：MW474<500但偏大(brief标A中)、可透膜中等。B=16：口服BA~40%、首过型、舌下使血药升314-361%(代谢比升=首过真绕过)——首过型能透膜的强缺口可成倍救回，B高。C=11：ED按需、舌下加快起效(口服30-45min)、半急性偏强。D=5：核心硬伤——标准剂量25/50/100mg，旗舰100mg正处单膜载药物理极限(>100mg即一票否决，100mg为‘膜剂载药专利级极限案例’，落50-100mg带的5-8低端且紧)；低剂量25-50mg可行但旗舰顶天。E=5：苦+高载药拉伸膜基，需掩味与增溶。G=17：ED超大市场、sildenafil为标志性blockbuster(现仿制但hims等DTC巨量)，brief标G高(drug语境F=0不受TikTok)。F=0。整体落③象限：分子是金矿但旗舰剂量使该剂型对100mg不可行，正解低剂量化或换途径。",
+ "one_liner":"首过可救但剂量顶天：舌下成倍救回BA的好故事被旗舰100mg载药极限掐死，分子是ED金矿但该剂型对100mg不可行(③象限)",
+ "sources":["https://pmc.ncbi.nlm.nih.gov/articles/PMC1874255/","https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2018.00059/full","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4077237/","PubChem CID 135398744"],
+ "confidence":"high：BA~40%/首过、舌下血药升314-361%、MW474、剂量25-100mg均多源确认；100mg载药极限为膜剂工程常识判定"}

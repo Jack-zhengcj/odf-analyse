@@ -1,0 +1,10 @@
+{"id":"apomorphine","name":"阿扑吗啡 Apomorphine","mode":"drug","src":["drug"],
+ "A":16,"B":17,"C":14,"D":11,"E":6,"F":0,"G":12,"kill":"none","sellable":"rx",
+ "tech_moat":64,"comm":12,"supp_total":null,
+ "band":"中技：有真实优势但带短板",
+ "quadrant":"① 高技×高商",
+ "archetype":"真护城河型（小分子+首过型低BA+口腔黏膜成倍救回，且已有上市舌下膜实证）",
+ "key_data":{"MW":267.32,"logP":2.6,"pKa":"邻苯二酚OH pKa≈8.9 + 叔胺 pKa≈8.9（生理pH下部分质子化）","oral_BA":"口服<4%（几乎完全代谢）；皮下注射为常规路径；舌下膜Kynmobi已上市","BA_mechanism":"首过型：分子小(267)、能透膜（皮下+舌下+鼻均奏效、且能过血脑屏障到靶点），但口服胃肠吸收差+广泛首过（自氧化/O-葡糖醛酸化/O-甲基化/N-脱甲基，CYP仅次要）→口服BA<4%；舌下膜绕过首过黏膜入血→真能救","dose_mg":"Kynmobi舌下膜10–30mg/次(按需滴定)，每日最多5次","subl_evidence":"实锤+人体PK金标准：FDA 2020批准Kynmobi(apomorphine HCl)舌下膜治帕金森OFF发作；有舌下膜 vs 皮下三向交叉人体比较BA研究(PMC8571442/ScienceDirect S0731708520313790)，起效15min、30min显著改善"},
+ "notes":"A：MW仅267、logP~2.6落理想窗、能过血脑屏障与口腔黏膜，且有上市舌下膜实证，给16高。B：口服BA<4%、皮下/舌下/鼻均有效证明分子能透膜、是被广泛首过(自氧化+葡糖醛酸化+甲基化)吃掉的典型首过型，舌下绕首过真救，给17。C：帕金森OFF按需急救、起效15-30min、急性即感，给14。D：Kynmobi单次10-30mg、上限30mg落20-50mg档（需较大面积膜+pH调控），给11。E：阿扑吗啡刺激性/苦、邻苯二酚易氧化，Kynmobi为双层pH调控膜需配方工程，给6中。G(商业)：帕金森OFF按需急救中等刚需市场、已有上市膜产品但OFF细分非数十亿级blockbuster、有皮下笔/泵竞争，给12中。落象限①高技×高商：剂型可行且变现可观，立项首选类。","one_liner":"阿扑吗啡=高技舌下膜实锤：MW267小分子、能过BBB、口服BA<4%广泛首过型、舌下膜Kynmobi绕首过真救并有人体PK金标准，技术64(A16/B17)；帕金森OFF按需急救中等市场G12→象限①高技×高商。",
+ "sources":["PubChem CID 6005 Apomorphine — C17H17NO2, MW 267.32","Wikipedia Apomorphine — 口服BA<4%、肠吸收差+广泛首过(自氧化/O-葡糖醛酸/O-甲基/N-脱甲基，CYP次要)、能过血脑屏障、半衰期30-60min","FDA/Sunovion 2020 KYNMOBI(apomorphine HCl)舌下膜获批 治帕金森OFF；剂量10-30mg、每日≤5次、起效15min","PMC8571442 — 舌下膜 vs 皮下 apomorphine 三向交叉人体比较BA(帕金森OFF患者)","ScienceDirect S0731708520313790 — LC-MS/MS定量舌下膜与皮下临床比较BA"],
+ "confidence":"high（MW/口服BA/首过机制/上市舌下膜/人体比较PK均多源高置信；logP/pKa取文献近似；G为定性判断中置信）"}

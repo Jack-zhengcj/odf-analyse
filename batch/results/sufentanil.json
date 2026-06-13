@@ -1,0 +1,7 @@
+{"id":"sufentanil","name":"舒芬太尼 Sufentanil","mode":"drug","src":["drug"],
+ "A":18,"B":17,"C":14,"D":15,"E":6,"F":0,"G":11,"kill":"none","sellable":"controlled",
+ "tech_moat":70,"comm":11,"supp_total":null,
+ "band":"高技：舌下/口溶膜真值得做","quadrant":"② 高技×低商","archetype":"真护城河型（超亲脂小分子+首过型低BA+舌下成倍救回）,管制药合规封顶",
+ "key_data":{"MW":386.55,"logP":3.95,"pKa":"≈8.0","oral_BA":"口服很低(广泛首过),舌下~52-59%","BA_mechanism":"首过型+超高脂溶性：sufentanil油水分配1778:1(比fentanyl 816:1更亲脂),极易透黏膜;口服经胃酸/肝肠首过BA很低,舌下绕过首过把BA救回~52-59%(Dsuvia枢纽)→B17","dose_mg":"舌下30mcg/片(Dsuvia);微克级","subl_evidence":"金标准人体实锤：Dsuvia(30mcg舌下片,CII)FDA获批,生物黏附微片限制唾液产生减少吞咽,~5min溶解;另有Zalviso(舌下15mcg按需镇痛)欧盟上市;人体PK示舌下绝对BA~52-59%"},
+ "notes":"A18：MW386<500+logP3.95超亲脂(略超最优窗上沿)+微克级剂量,黏膜透过极快(分钟级入脑),A接近满分。B17：首过型——口服经胃酸降解+肝肠广泛首过BA很低,但分子超亲脂能透膜,舌下绕过首过把BA救回~52-59%,是真能救的成倍提升,B高。C14：超强效阿片用于急性痛/术后,起效快(分钟级),急性即感场景,C接近顶。D15：30mcg微克级,膜剂载药毫无压力,满分。E6：阿片需味掩+严格剂量精度,生物黏附片工艺成熟但管制下成本/合规负担,E中。G11：急性痛市场存在但Dsuvia定位极窄(仅认证医疗监督场所如医院/急诊/战场),DEA CII严管+REMS,可商用面窄,战略价值中等偏低。F=0。","one_liner":"超亲脂(1778:1)小分子MW386+首过型口服低BA、舌下救回~52-59%+微克级满载,技术70分顶级护城河(Dsuvia/Zalviso人体实锤)；但超强效阿片CII管制+仅限医疗监督场所使商用面窄G11,落②高技×低商合规封顶。",
+ "sources":["PubChem/DrugBank Sufentanil (自由碱MW 386.55;logP 3.95;pKa~8.0)","FDA Dsuvia label NDA 209128 (舌下30mcg,CII,~5min溶解)","dsuvia.com/pharmacology (脂溶性高,分钟级透黏膜入脑,绕过首过)","Wikipedia Sufentanil (油水分配1778:1 vs fentanyl 816:1)","Zalviso(舌下15mcg)欧盟PK资料"],"confidence":"high（理化logP3.95/pKa/MW与首过型机制、Dsuvia舌下人体BA多源一致；舌下BA区间52-59%为文献值；G为定性判断中置信）"}

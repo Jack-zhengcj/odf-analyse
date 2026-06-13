@@ -1,0 +1,9 @@
+{"id":"dapagliflozin","name":"达格列净 Dapagliflozin","mode":"drug","src":["drug"],
+ "A":14,"B":6,"C":4,"D":14,"E":6,"F":0,"G":17,"kill":"none","sellable":"rx",
+ "tech_moat":44,"comm":17,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"③ 低技×高商 → 该剂型不可行，但成分本身是金矿，换给药途径(如司美格鲁肽)","archetype":"BA已高地板型（口服BA~78%无可救首过缺口、SGLT2慢性降糖/心肾保护无急性舌下理由，剂型科学上无增益；但Farxiga是糖尿/心衰/CKD blockbuster，价值全在G）",
+ "key_data":{"MW":408.87,"logP":"XLogP3≈2.3-2.7(C21H25ClO6游离碱，中等亲脂、水中略溶)；Farxiga为丙二醇水合物盐MW502.98","pKa":"无强可电离基团(C-葡萄糖苷+酚，近中性)，口腔pH下中性","oral_BA":"绝对BA~78%(10mg)；Cmax约2h(空腹)；终末半衰期~12.9h；主要经UGT1A9代谢，CYP为次要途径；肾排为主","BA_mechanism":"BA已高地板——口服绝对BA~78%已高，无明显首过缺口可供舌下成倍救回；分子能透膜且口服已充分工作，舌下化提升空间小(B~6)","dose_mg":"常规10mg每日一次(5mg亦有)，随餐或空腹——远<100mg单膜可装(D高)","subl_evidence":"未见FDA批准的舌下/口腔膜剂、无人体舌下/buccal PK对照证据；靶点SGLT2在肾近端小管，纯慢性给药无急速起效需求"},
+ "notes":"A=14：MW409(游离碱)<500、中等亲脂(logP~2.5落较理想窗)、近中性、剂量毫克级——透膜与载药条件好(略优于empa因logP更落窗，但C-糖苷略溶水仍需溶解辅助)。B=6：核心限制——口服BA~78%已是高地板、无首过缺口可救、舌下救不动，按'BA已高地板'给6。C=4：SGLT2慢性降糖/心肾保护、数周月获益、无急性即感，舌下快起效优势=0。D=14：10mg单膜轻松装。E=6：略溶水、无强苦腥但C-糖苷需增溶，中等成本。G=17：Farxiga是2型糖尿病+心衰(HFrEF/HFpEF)+CKD的全球blockbuster(年销百亿美元级、与Jardiance并列SGLT2双雄、有专利悬崖但市场仍巨大)，brief标G高(drug语境F=0不计TikTok)。整体③象限：分子是代谢/心肾金矿，但舌下/口溶膜对它无技术增益，价值全在商业端。",
+ "one_liner":"BA已高地板型：口服78%无首过缺口可救、SGLT2慢性心肾保护无急性理由，舌下化是噱头；但Farxiga是糖尿/心衰/CKD blockbuster使G高(③低技×高商，价值在商业不在剂型)",
+ "sources":["https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/202293s031lbl.pdf (Farxiga label: 绝对BA~78%(10mg), 半衰期~12.9h, UGT1A9主代谢, 肾排为主, 5/10mg)","https://clinicaltrials.gov/study/NCT00908271 (绝对口服BA研究)","PubChem CID 9887712 (dapagliflozin游离碱 MW408.87, C21H25ClO6; 丙二醇水合物盐502.98)"],
+ "confidence":"high：绝对BA~78%/半衰期12.9h/剂量5-10mg/MW408.87(游离碱)/UGT1A9主代谢均FDA label与PubChem确认；无舌下PK证据故B为高地板判定、舌下增益近零可信"}

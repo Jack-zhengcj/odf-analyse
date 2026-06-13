@@ -1,0 +1,8 @@
+{"id":"prednisolone","name":"泼尼松龙 Prednisolone","mode":"drug","src":["drug"],
+ "A":10,"B":6,"C":6,"D":10,"E":5,"F":0,"G":9,"kill":"permeation","sellable":"rx",
+ "tech_moat":37,"comm":9,"supp_total":null,
+ "band":"低技：舌下救不动/装不下，多为噱头","quadrant":"④ 低技×低商 → 放弃(如二甲双胍/益生菌)","archetype":"高地板伪需求型（泼尼松龙本身口服吸收良好、BA高地板，无可救首过缺口；糖皮质激素颊/舌下透黏膜本就差——舌下化无增益，技术性渗透死局）",
+ "key_data":{"MW":360.44,"logP":1.62,"pKa":"无显著解离(中性糖皮质激素)","oral_BA":"高地板(泼尼松龙本身吸收良好，约80-100%；泼尼松→泼尼松龙为前药活化非可救损失)","BA_mechanism":"BA已高地板：泼尼松龙口服吸收充分无首过缺口；舌下绕过首过无增益(非首过型)；糖皮质激素透黏膜差→功能渗透死局","dose_mg":"10-60mg/日(单次常15-40mg)；已上市Orapred ODT为10/15/30mg base","subl_evidence":"已有Orapred ODT(口腔崩解后吞咽，GI吸收，非透黏膜证据)；无人体舌下/颊PK证实透黏膜吸收提升","solubility":"水溶性差(亲脂结晶)","market":"仿制薄利；儿科哮喘/克罗恩/自免/抗炎广泛但商品化红海"},
+ "notes":"A=10：MW360<500、logP1.62本应利于透膜，但同属糖皮质激素，颊/舌下透黏膜吸收差(参照dex实测失败)，给中分。B=6：泼尼松龙本身口服BA高地板，泼尼松→泼尼松龙是前药活化(非舌下可救的首过损失)，舌下无BA增益。C=6：抗炎半慢性，非急性即感。D=10：单次常15-40mg落在20-50mg中段。E=5：小分子但需促渗，成本中。G=9：仿制红海薄利但适应症广(儿科/哮喘/自免)，中等；rx不可作补剂。已有ODT但为吞咽型，不证明透黏膜。判定高地板伪需求型。",
+ "one_liner":"高地板伪需求型：口服BA已充分、糖皮质激素透黏膜差，舌下救不动，ODT只是吞咽型噱头(rx)。",
+ "sources":["https://www.fip.org/files/fip/BPS/BCS/Monographs/Prednisolone.pdf","https://pubmed.ncbi.nlm.nih.gov/8011967/","https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021959lbl.pdf","https://www.drugs.com/pro/prednisolone-odt.html"],"confidence":"high：MW/BA来自BCS专论+PubMed；Orapred ODT剂量来自FDA label；透黏膜吸收无人体PK证据(按糖皮质激素类比dex判低)"}

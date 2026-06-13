@@ -1,0 +1,62 @@
+{
+ "id": "citrulline-malate",
+ "name": "苹果酸瓜氨酸 Citrulline malate",
+ "mode": "supplement",
+ "src": [
+  "fda",
+  "amazon"
+ ],
+ "A": 9,
+ "B": 6,
+ "C": 11,
+ "D": 0,
+ "E": 7,
+ "F": 9,
+ "G": null,
+ "kill": "dose",
+ "sellable": null,
+ "tech_moat": 33,
+ "comm": 9,
+ "supp_total": 40,
+ "band": "🟠 不推荐(伪需求)",
+ "quadrant": "④ 低技×低商 → 放弃(如二甲双胍/益生菌)",
+ "archetype": "剂量否决型（有效剂量>100mg，物理装不进膜）",
+ "key_data": {
+  "MW": "复盐(2:1)：L-瓜氨酸 175.2 g/mol(PubChem CID 9750)+苹果酸 134.1 g/mol；瓜氨酸单体 <500 但两性带电",
+  "logP": "L-瓜氨酸 XLogP3 ≈ -4.0(强亲水)；苹果酸 ≈ -1.3；整体强亲水、远离 1.6-3.3 最优窗",
+  "pKa": "瓜氨酸 α-羧基~2.4/α-氨基~9.4(两性离子)，苹果酸双羧基 pKa~3.4/5.1 → 口腔/生理 pH 全程离子化，被动黏膜渗透差",
+  "oral_BA": "L-瓜氨酸口服吸收较好(优于直接补精氨酸、不经肠/肝精氨酸酶首过破坏)，经肾近端把瓜氨酸转化为精氨酸→升 NO；但属高剂量饱和型，靠『量』堆出血流效应",
+  "BA_mechanism": "高剂量饱和/转运体型(路线靠量非靠膜)：瓜氨酸虽是小分子，但强亲水两性离子被动跨黏膜差(A 中等偏低)；其 NO 增效是 g 级口服在肾脏经转化、剂量依赖堆出来的，舌下既救不动带电分子的被动渗透、又无法提供等效 g 级载药 → B 偏低(6)",
+  "dose_mg": "运动前有效量 6-8 g 苹果酸瓜氨酸(2:1，含纯瓜氨酸~4-5.3g)，60min 前服；远超单膜物理装载上限 → 触 dose 一票否决，D=0，封顶40",
+  "subl_evidence": "无舌下/buccal 人体 PK；市售全为 g 级粉(pre-workout)，无口溶膜竞品；克级载药决定舌下膜不可行",
+  "taste": "苹果酸带明显酸味、瓜氨酸微涩，但可酸甜调味掩盖(若剂量允许)，E 中等偏好 7",
+  "market": "pre-workout 泵感/耐力赛道大、可搭便车，体感钩子(力竭次数↑/酸痛↓)适合短视频；非草本/非激素/非减肥红线，但克级粉天然不适合膜剂，给中(F=9)",
+  "regulatory": "DSHEA 下合法常见运动补剂；非红线品类；TikTok 不直接限流"
+ },
+ "notes": "A=9：瓜氨酸单体 MW<500 但强亲水(XLogP3~-4)两性离子+苹果酸双羧基，口腔 pH 全程离子化、被动黏膜渗透差，给中偏低(MW 达标但 logP/电荷双偏离)。B=6：高剂量饱和型——NO 增效靠 g 级口服在肾脏经瓜氨酸→精氨酸转化、剂量依赖堆出来，舌下救不动带电分子被动渗透、更提供不了等效 g 级载药，非首过缺口。C=11：运动前急性泵感/耐力(60min 起、力竭次数与酸痛有即时-亚急性体感)，半急性偏好。D=0：有效量 6-8g 苹果酸瓜氨酸，远超单膜装载，dose 一票否决封顶40。E=7：苹果酸酸味+微涩可酸甜调味掩盖，中等偏好。F=9：pre-workout 赛道大可搭便车、体感钩子适合短视频、非红线，但克级粉本质不适合膜剂。kill=dose cap40，实得 40。",
+ "one_liner": "瓜氨酸小分子但强亲水带电(舌下救不动渗透)，NO 增效靠 6-8g 高剂量堆出——克级有效量物理装不进膜，dose 一票否决封顶 40 🟠。",
+ "sources": [
+  "https://pubchem.ncbi.nlm.nih.gov/compound/9750",
+  "https://cms.buckedup.com/citrulline-malate-dose/",
+  "https://l-citrulline.com/clinically-dosed-nitric-oxide-supplements/",
+  "https://www.performancelab.com/blogs/nutrition/l-citrulline-dosage-for-pump"
+ ],
+ "confidence": "high：L-瓜氨酸 MW175/强亲水(PubChem)、苹果酸两羧基离子化、运动前有效量 6-8g(2:1)均有来源支撑；剂量一票否决(g 级远超单膜)确凿，封顶40。NO 机制为高剂量饱和型(肾脏瓜氨酸→精氨酸)非首过缺口，舌下无意义。",
+ "m_demand": 20,
+ "m_story": 20,
+ "m_format": 8,
+ "m_claim": 12,
+ "m_econ": 10,
+ "commercial": 70,
+ "best_format": "powder/stick(非ODF)",
+ "efficacy_basis": "真实证据",
+ "redline": "none",
+ "risk_flags": [
+  "价格锚碾压",
+  "高退款无体感"
+ ],
+ "quadrant2": "🟣 营销驱动型爆品（卖叙事不卖科学，附风险面板）",
+ "go_tier": "🟣 营销驱动·可做",
+ "comm_archetype": "营销驱动型·真效力错格式（效力是真的，ODF不对→换最佳剂型）",
+ "commercial_one_liner": "pre-workout泵感/耐力真实证据赛道，6-8g克级粉是唯一合理格式；TikTok力竭/泵感内容可拍，但被大宗白牌粉全面压价，差异化靠配方组合而非成分单打。"
+}
