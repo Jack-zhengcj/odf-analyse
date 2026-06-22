@@ -1,0 +1,62 @@
+[
+  {
+    "name": "罗立新", "name_en": "Lixin Luo", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293844/page.htm",
+    "research_areas": ["工业微生物学", "食品发酵与酿造", "分子微生态学", "食品级乳酸菌分子生物学", "发酵微生物代谢组学"],
+    "education": "华南理工大学(原华南工学院)生物工程学士(1982-1986)；发酵工程硕士(1988-1991)、博士(1993-1996)",
+    "career": "1991-1993广东省食品工业研究所工程师；1996-2004华南理工大学轻工与食品学院讲师/副教授；2003-2004英国食品研究所访学；2004年起生物科学与工程学院教授",
+    "talent_titles": ["国家级课程《工业微生物学》负责人"],
+    "representative_papers": [
+      {"title": "Comparison of microbial community and metabolites in spontaneous fermentation of two Daqu starters for Chinese vinegar", "venue": "J. of Bioscience and Bioengineering", "year": "2019"},
+      {"title": "Daqu Fermentation Selects for Heat-Resistant Enterobacteriaceae and Bacilli", "venue": "Applied and Environmental Microbiology", "year": "2018"},
+      {"title": "Bioaugmented inoculation effect on microbiota dynamics during solid-state Daqu fermentation", "venue": "(2016)", "year": "2016"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www.sciencedirect.com/author/35211332900/lixin-luo", "https://www2.scut.edu.cn/biology_en/2015/0703/c5951a93358/page.htm"],
+    "tags": {"research_field": ["食品生物", "发酵工程", "微生物生态"], "seniority": "资深教授(博导)", "industry_potential": "中-高 — 食醋/酿造发酵、食品级乳酸菌应用导向强，对接调味品/酿造产业；未确认专利", "collaboration": "高 — 酿造食品产业方向，校企合作基础好"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1107/c15457a293844/page.htm", "https://pubmed.ncbi.nlm.nih.gov/31023532/", "https://pubmed.ncbi.nlm.nih.gov/30120119/"]
+  },
+  {
+    "name": "罗剑飞", "name_en": "Jianfei Luo", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294197/page.htm",
+    "research_areas": ["微生物生态学", "氨氧化古菌/细菌(AOA/AOB)", "硫氧化菌", "元素生物地球化学循环", "难培养微生物分离/富集/培养", "环境微生物修复", "生物能源"],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院副教授；微生物生态与环境保护研究团队(林炜铁团队)成员",
+    "talent_titles": [],
+    "representative_papers": [
+      {"title": "Sealing solid agar in serum bottles for rapid isolation/preservation of chemoautotrophic ammonia-oxidizing bacteria", "venue": "Water Research", "year": "2024"},
+      {"title": "Removal of Mg2+ inhibition benefited growth/isolation of ammonia-oxidizing bacteria", "venue": "Science of the Total Environment", "year": "2022"},
+      {"title": "A Two-Step Strategy for Rapid Enrichment of Nitrosocosmicus-Like Ammonia-Oxidizing Thaumarchaea", "venue": "Frontiers in Microbiology", "year": "2019"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www2.scut.edu.cn/biology/15444/list.htm"],
+    "tags": {"research_field": ["微生物生态学", "环境微生物", "氨氧化古菌/硝化", "硫氧化菌"], "seniority": "副教授", "industry_potential": "中 — 硝化/水产养殖与废水处理微生物有环境工程应用，但偏基础生态，未确认专利", "collaboration": "中 — 与林炜铁团队合作，环境/水处理方向有跨学科空间，偏学术导向"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1108/c15458a294197/page.htm", "https://pubmed.ncbi.nlm.nih.gov/35577082/"]
+  },
+  {
+    "name": "罗晓春", "name_en": "Xiaochun Luo", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15457a294187/page.htm",
+    "research_areas": ["含氮低值生物质高值化", "羽毛/虾蟹壳酶法绿色转化", "几丁质酶/角蛋白酶工程", "几丁寡糖/壳寡糖制备", "合成生物学菌株改造(Streptomyces SCUT-3)"],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院教授、博/硕导；民建华工副主委",
+    "talent_titles": ["2022广东省农业微生物重大科技/转化成果奖"],
+    "representative_papers": [
+      {"title": "One-step processing of shrimp shell waste with a chitinase fused to a carbohydrate-binding module", "venue": "Green Chemistry", "year": "2020"},
+      {"title": "Promotion of feather waste recycling by enhancing keratinase activity of Streptomyces sp. SCUT-3", "venue": "Green Chemistry", "year": "2021"},
+      {"title": "A sustainable recycling of feather waste into keratin peptides with antimicrobial activity", "venue": "Waste Management", "year": "2022"},
+      {"title": "High Degree of Polymerization Chitin Oligosaccharides from Shrimp Shell Waste", "venue": "Marine Drugs", "year": "2024"}
+    ],
+    "patents": [
+      {"title": "酶法绿色制备壳寡糖/虾青素/蛋白/钙粉的工艺", "patent_no": "ZL201910893308.6", "year": "2021"}
+    ],
+    "metrics": {"google_scholar_citations": "约1367", "h_index": "", "paper_count_est": "SCI 80+；授权发明专利9件(官方页)"},
+    "external_links": ["https://scholar.google.com.hk/citations?user=ih4x81cAAAAJ"],
+    "tags": {"research_field": ["生物制造", "食品生物", "海洋/农业生物资源高值化", "酶工程"], "seniority": "资深教授(博导)", "industry_potential": "高 — 羽毛粉(鱼粉替代)中试、虾壳几丁寡糖一步法、9项授权发明专利，转化导向明确", "collaboration": "高 — 应用导向、有产业化记录与多项专利，适合农业/海洋生物资源企业合作"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1108/c15457a294187/page.htm", "https://pubs.rsc.org/en/content/articlelanding/2021/gc/d1gc00677k", "http://www2.scut.edu.cn/tzb/2023/1208/c4713a528802/page.htm"]
+  }
+]

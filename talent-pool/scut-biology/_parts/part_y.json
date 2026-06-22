@@ -1,0 +1,90 @@
+[
+  {
+    "name": "杨博", "name_en": "Bo Yang", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1106/c15457a293800/page.htm",
+    "research_areas": ["脂质生物技术/油脂酶法改性", "脂肪酶催化", "甘油二酯(DAG)/共轭亚油酸(CLA)结构脂质", "生物化工", "发酵工程"],
+    "education": "齐齐哈尔轻工学院本科(1992-1996)；大连轻工业学院硕士(1996-1999)；华南理工大学博士(1999-2002)",
+    "career": "2002年起华南理工大学；2005年副教授、硕导；2011年晋升教授",
+    "talent_titles": [],
+    "representative_papers": [
+      {"title": "Enzymatic Synthesis of Diacylglycerols Enriched with CLA by a Novel Lipase from Malassezia globosa", "venue": "JAOCS", "year": "2012"},
+      {"title": "Enzymatic Synthesis of Extremely Pure Triacylglycerols Enriched in CLA", "venue": "Molecules", "year": "2013"}
+    ],
+    "patents": [{"title": "一种合成甘油二酯的方法", "patent_no": "WO2021088319A1 / CN110777170B", "year": "2021"}],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www.sciencedirect.com/author/55675331300/bo-yang"],
+    "tags": {"research_field": ["脂质生物技术", "酶工程", "生物化工"], "seniority": "资深教授(2011晋升，博/硕导)", "industry_potential": "高 — 油脂酶法改性/功能性结构脂质应用导向，已有甘油二酯合成授权专利并与企业(广东粤膳特医)联合申请", "collaboration": "中 — 与企业及校内油脂团队(王永华等)合作，对接食品营养产业"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1106/c15457a293800/page.htm", "https://patents.google.com/patent/WO2021088319A1/zh"]
+  },
+  {
+    "name": "杨小蓉", "name_en": "Xiaorong Yang", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293936/page.htm",
+    "research_areas": ["生物大分子结构-运动-功能关系", "生物大分子与小分子相互作用", "物理化学/分析化学", "生物药剂学"],
+    "education": "重庆大学精细化工本科(1992-1996)；中科院北京化学所分析化学硕士(2000-2003)；德国Stuttgart大学物理化学博士(2003-2007)",
+    "career": "美国Penn State博士后(2008-2014)；2014年10月起华南理工大学生物科学与工程学院副教授",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": [],
+    "tags": {"research_field": ["生物物理化学", "生物大分子相互作用"], "seniority": "中级副教授(2014起，教学为主)", "industry_potential": "低 — 偏基础的生物大分子结构与相互作用研究，未检索到专利或应用转化", "collaboration": "低 — 公开学术产出/合作信息有限，以本科教学为主"},
+    "confidence": "medium",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1107/c15458a293936/page.htm"]
+  },
+  {
+    "name": "杨晓锋", "name_en": "Xiaofeng Yang", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293957/page.htm",
+    "research_areas": ["合成生物学", "蛋白质智能设计(AI for protein)", "蛋白与多肽药物", "噬菌体裂解酶挖掘", "蛋白表达与纯化(自聚集标签)"],
+    "education": "合成生物学/自聚集标签方向背景",
+    "career": "华南理工大学生物科学与工程学院副教授，硕/博导；领导AI蛋白设计/合成生物学课题组(与林章凛团队渊源)",
+    "talent_titles": [],
+    "representative_papers": [
+      {"title": "DeepMineLys: Deep mining of phage lysins from human microbiome", "venue": "Cell Reports", "year": "2024"},
+      {"title": "Cleavable Self-Aggregating Tags (cSAT) for Therapeutic Peptide Expression and Purification", "venue": "(自聚集标签研究)", "year": "2022"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www.researchgate.net/profile/Xiaofeng-Yang-4"],
+    "tags": {"research_field": ["合成生物学", "AI蛋白质设计", "多肽/蛋白药物"], "seniority": "中级偏上副教授(硕/博导，发Cell Reports等)", "industry_potential": "高 — AI驱动蛋白/多肽药物设计、噬菌体裂解酶(抗耐药菌)及无柱层析蛋白纯化技术，转化潜力大(未检索到授权专利)", "collaboration": "高 — 与广东工业大学林章凛团队等合作发表(Cell Reports)，跨机构合成生物学合作活跃"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1107/c15458a293957/page.htm", "https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00912-4"]
+  },
+  {
+    "name": "叶健文", "name_en": "Jian-Wen Ye", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2021/0707/c15457a435350/page.htm",
+    "research_areas": ["合成生物学", "细胞工厂设计与改造", "代谢工程", "生物过程优化与放大", "生物材料(PHA)", "下一代工业生物技术", "盐单胞菌(Halomonas)底盘", "CO2升值再造"],
+    "education": "华南理工大学化学工程本科(2009-2013)；清华大学生命学院博士(2013-2018)",
+    "career": "清华大学博士后(2018-2020)；中科院深圳先进技术研究院副研究员(2020-2021)；2021年4月起华南理工大学生物科学与工程学院副教授",
+    "talent_titles": ["国家优秀青年科学基金(国家优青)"],
+    "representative_papers": [
+      {"title": "Stimulus response-based fine-tuning of polyhydroxyalkanoate pathway in Halomonas", "venue": "Metabolic Engineering", "year": "2020"},
+      {"title": "Engineering Halomonas bluephagenesis for L-threonine production", "venue": "Metabolic Engineering", "year": "2020"},
+      {"title": "An Efficient CO2-Upcycling Platform Based on Engineered Halomonas TD", "venue": "Advanced Science", "year": "2025"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www.x-mol.com/university/faculty/319283"],
+    "tags": {"research_field": ["合成生物学", "代谢工程", "生物材料/PHA", "工业生物技术"], "seniority": "中级偏上(副教授但为国家优青，高产青年骨干)", "industry_potential": "高 — 盐单胞菌底盘细胞工厂、PHA生物材料、CO2再利用强应用导向，多项产学研突破(未列具体专利号)", "collaboration": "高 — 师承陈国强团队(Halomonas体系)，多机构合作并在Adv Sci/CEJ等发文，产学研活跃"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2021/0707/c15457a435350/page.htm", "https://www.sciencedirect.com/science/article/abs/pii/S1096717620300732"]
+  },
+  {
+    "name": "叶燕锐", "name_en": "Yanrui Ye", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294202/page.htm",
+    "research_areas": ["合成生物学", "微生物基因组编辑与人工进化", "抗生素替代分子(抗菌肽)挖掘", "定向固定化(高效菌种与固定化酶)", "谷氨酸棒杆菌基因组工程"],
+    "education": "合成生物学/基因组工程背景",
+    "career": "华南理工大学生物科学与工程学院副教授；林章凛教授课题组成员；指导iGEM团队获金奖(2016/2020)",
+    "talent_titles": [],
+    "representative_papers": [
+      {"title": "Genomic Iterative Replacements of Large Synthetic DNA Fragments in Corynebacterium glutamicum", "venue": "ACS Synthetic Biology", "year": "2022"},
+      {"title": "CRISPR-Cpf1 assisted genome editing of Corynebacterium glutamicum", "venue": "Nature Communications", "year": "2017"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://scholar.google.com/citations?user=UR4EoMsAAAAJ"],
+    "tags": {"research_field": ["合成生物学", "微生物基因组编辑", "酶工程"], "seniority": "中级副教授(林章凛团队骨干，iGEM金牌指导)", "industry_potential": "中 — 基因组编辑工具与工业菌株(谷氨酸棒杆菌)、固定化酶及抗菌肽兼具基础与应用，工具/菌株具转化潜力(未列授权专利)", "collaboration": "高 — 林章凛课题组核心成员，长期合作发表，深度参与iGEM指导"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1108/c15458a294202/page.htm", "https://scholar.google.com/citations?user=UR4EoMsAAAAJ"]
+  }
+]

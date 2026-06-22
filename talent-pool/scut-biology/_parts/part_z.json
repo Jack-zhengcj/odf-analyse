@@ -1,0 +1,108 @@
+[
+  {
+    "name": "郑穗平", "name_en": "Suiping Zheng", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293924/page.htm",
+    "research_areas": ["发酵工程", "酶工程", "微生物基因组学/代谢调控", "毕赤酵母外源蛋白高效表达", "细胞表面展示"],
+    "education": "华南理工大学生物化工学士(1989-1993)；发酵工程硕博连读博士(1993-1998，导师郭勇)；2003-2004意大利博洛尼亚大学访学",
+    "career": "1998年至今华南理工大学生物科学与工程学院；2003年副教授，现教授；微生物学教研团队负责人，曾/现任学院副院长",
+    "talent_titles": ["国家级精品课程《酶工程》负责人", "广东省发酵与酶工程重点实验室固定研究人员"],
+    "representative_papers": [
+      {"title": "Accurate analysis of fusion expression of Pichia pastoris GPI-modified cell wall proteins", "venue": "Journal of Industrial Microbiology and Biotechnology", "year": "2017"},
+      {"title": "Comprehensive structural annotation of Pichia pastoris transcriptome (deep paired-end RNA-seq)", "venue": "BMC Genomics", "year": "2012"},
+      {"title": "High-Level Expression of A Thermo-Alkaline Pectate Lyase in Pichia pastoris for Ramie Degumming", "venue": "Frontiers in Bioengineering and Biotechnology", "year": "2020"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://academic.oup.com/jimb/article/44/9/1355/5995760"],
+    "tags": {"research_field": ["发酵工程", "酶工程", "蛋白表达/合成生物学"], "seniority": "资深教授(学院副院长)", "industry_potential": "中 — 应用导向(毕赤酵母蛋白表达、果胶裂解酶苎麻脱胶)，未确认具体专利", "collaboration": "高 — 团队负责人兼副院长，主持国家级课程，合作网络广"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1107/c15457a293924/page.htm", "https://academic.oup.com/jimb/article/44/9/1355/5995760"]
+  },
+  {
+    "name": "朱伟", "name_en": "Wei Zhu", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2019/0902/c15457a332082/page.htm",
+    "research_areas": ["生物保存", "生物材料/生物仿生", "超分子功能材料", "新型酶固定化(生物硅化)", "纳米生物技术"],
+    "education": "清华大学化学系博士(2008-2014，导师李广涛)；2013墨尔本大学访学(Frank Caruso)；2015-2019美国新墨西哥大学/桑迪亚国家实验室博士后(C. Jeffrey Brinker)",
+    "career": "2019年4月起华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": ["国家级海外高层次青年人才(中组部第15批)"],
+    "representative_papers": [
+      {"title": "Robust Immobilization and Activity Preservation of Enzymes by Silica-Based 'Inorganic Glue'", "venue": "Advanced Materials", "year": "2026"},
+      {"title": "深度硅化实现跨物种结构保护与基因组信息长效存储", "venue": "PNAS", "year": "2024"},
+      {"title": "液-固复合体——选择性分子传输与动态重构", "venue": "Nature Communications", "year": "2025"},
+      {"title": "多组元硅化增强单酶结构(硅酶)", "venue": "Angewandte Chemie", "year": "2024"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407831"],
+    "tags": {"research_field": ["生物材料", "生物硅化/酶固定化", "纳米生物技术"], "seniority": "中青年领军(国家级青年人才)", "industry_potential": "高 — 酶固定化、生物保存、基因组信息存储等强应用，硅化酶可规模化低成本(未确认专利号)", "collaboration": "高 — 高产高影响力(PNAS/Nat Commun/Adv Mater/Angew)，跨团队合作"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2019/0902/c15457a332082/page.htm", "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407831"]
+  },
+  {
+    "name": "朱明军", "name_en": "Mingjun Zhu", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology_en/2015/0703/c5951a93364/page.htm",
+    "research_areas": ["生物质资源综合利用", "木质纤维素生物炼制", "纤维素酶/酶解", "燃料乙醇与生物基化学品", "运动发酵单胞菌(Zymomonas mobilis)代谢工程"],
+    "education": "博士(发酵工程/生物化工方向)",
+    "career": "华南理工大学生物科学与工程学院教授、博导；生物质资源综合利用研究团队负责人(成员含李爽、罗晓春、周婷、卓敏)",
+    "talent_titles": ["团队负责人"],
+    "representative_papers": [
+      {"title": "Cold plasma pretreatment reinforces aldehyde inhibitor tolerance and bioethanol fermentability for Zymomonas mobilis", "venue": "Biotechnology for Biofuels and Bioproducts", "year": "2023"},
+      {"title": "Transcriptome analysis of Z. mobilis ZM4 reveals tolerance/detoxification of phenolic aldehyde inhibitors", "venue": "Biotechnology for Biofuels", "year": "2015"},
+      {"title": "Tn5-based transposon system for cost-effective Z. mobilis ethanol production from lignocelluloses", "venue": "Microbial Cell Factories", "year": "2013"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273749/"],
+    "tags": {"research_field": ["生物质能源", "代谢工程", "工业生物技术"], "seniority": "资深教授，团队负责人", "industry_potential": "高 — 燃料乙醇/生物基化学品/木质纤维素生物炼制强应用产业化方向", "collaboration": "高 — 团队负责人，团队规模较大"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/15444/list.htm", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273749/"]
+  },
+  {
+    "name": "朱心红", "name_en": "Xinhong Zhu", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2023/0329/c15457a495775/page.htm",
+    "research_areas": ["精神疾病发病机制与防治(抑郁症)", "阿尔茨海默病防治", "脑铁代谢", "星形胶质细胞", "自闭症/精神分裂症"],
+    "education": "河南中医学院中医本科(1986-1991)；第一军医大学中西医结合硕士(1999-2002)、神经生物学博士(2002-2005)",
+    "career": "2023年3月起华南理工大学生物科学与工程学院二级教授、博导；办公于琶洲实验室",
+    "talent_titles": ["国家杰出青年科学基金(国家杰青)", "万人计划领军人才", "科技创新2030'脑科学'重大项目首席科学家", "国家自然科学二等奖(2019，排名第四)"],
+    "representative_papers": [
+      {"title": "Quantitative Susceptibility Mapping Reveals Association between Brain Iron Load and Depression Severity", "venue": "Frontiers in Human Neuroscience", "year": "2017"},
+      {"title": "QSM of Brain Iron Deposition in Patients With Recurrent Depression", "venue": "neuroimaging study", "year": "2022"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www.pazhoulab.com/2020/09/1054/"],
+    "tags": {"research_field": ["神经科学", "精神疾病机制", "脑铁代谢"], "seniority": "资深杰出教授(二级教授/国家杰青/重大项目首席)", "industry_potential": "中 — 偏基础神经机制，涉抗抑郁新靶点有转化医学前景，未确认专利", "collaboration": "高 — 国家杰青、脑计划首席、学会常务理事，跨机构(琶洲实验室)资源强"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2023/0329/c15457a495775/page.htm", "https://www.pazhoulab.com/2020/09/1054/"]
+  },
+  {
+    "name": "周婷", "name_en": "Ting Zhou", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293940/page.htm",
+    "research_areas": ["分析化学/质谱分析", "代谢组学", "脂质分析", "生物质资源综合利用(团队成员)"],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院副教授；朱明军'生物质资源综合利用'团队成员",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": [],
+    "tags": {"research_field": ["分析化学", "代谢组学", "质谱"], "seniority": "副教授", "industry_potential": "中 — 质谱/代谢组学方法学有诊断与生物质分析潜力，专利号未确认", "collaboration": "中 — 隶属朱明军团队，独立合作证据有限"},
+    "confidence": "medium",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1107/c15458a293940/page.htm", "https://www2.scut.edu.cn/biology/15444/list.htm"]
+  },
+  {
+    "name": "卓敏", "name_en": "Min Zhuo", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293943/page.psp",
+    "research_areas": ["非编码RNA(ncRNA)挖掘与应用", "启动子等调控元件挖掘", "分子生物学", "生物质资源综合利用(团队成员)"],
+    "education": "湖南科技大学本科(1994-1998)；湖南农业大学生化与分子生物学硕士(1998-2001)；中山大学生化与分子生物学博士(2001-2004)",
+    "career": "2004讲师→2011副教授，华南理工大学生物科学与工程学院；2014-2015美国UNC教堂山访学",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": [],
+    "tags": {"research_field": ["分子生物学", "非编码RNA", "基因调控元件"], "seniority": "副教授", "industry_potential": "低 — 偏基础(ncRNA与调控元件挖掘)，无专利证据", "collaboration": "中 — 隶属朱明军团队，有海外访学经历"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1107/c15458a293943/page.psp", "https://www2.scut.edu.cn/biology/15444/list.htm"]
+  }
+]

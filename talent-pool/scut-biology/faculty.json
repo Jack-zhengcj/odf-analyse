@@ -1,0 +1,3394 @@
+[
+  {
+    "name": "凌飞",
+    "name_en": "Fei Ling",
+    "title": "教授",
+    "email": "fling@scut.edu.cn",
+    "office": "B6-302",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293930/page.htm",
+    "research_areas": [
+      "AI+生物技术",
+      "肿瘤与免疫",
+      "肿瘤免疫微环境单细胞测序(scRNA-seq)",
+      "动态网络标志物(DNB)疾病早期预警",
+      "进化基因组学与基因组编辑"
+    ],
+    "education": "(完整学位履历待官网确认)",
+    "career": "2011年3月起华南理工大学生物科学与工程学院；讲授分子生物学、科技论文写作，获校级教学奖",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Low expression of dynamic network markers FOS/JUN in pre-deteriorated epithelial cells in colorectal adenoma→carcinoma",
+        "venue": "Journal of Translational Medicine",
+        "year": "2023"
+      },
+      {
+        "title": "Dynamic Network Biomarker of Pre-Exhausted CD8+ T Cells in Colorectal Cancer",
+        "venue": "Frontiers",
+        "year": "2021"
+      },
+      {
+        "title": "Early Warning Signals at Critical Transition of Colorectal Cancer via Dynamic Network Analysis",
+        "venue": "Frontiers in Bioengineering and Biotechnology",
+        "year": "2020"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293930/page.htm"
+    ],
+    "tags": {
+      "research_field": [
+        "单细胞测序",
+        "肿瘤免疫",
+        "计算生物学",
+        "动态网络标志物",
+        "AI+生物"
+      ],
+      "seniority": "中坚教授(2011入职)",
+      "industry_potential": "中 — AI+单细胞肿瘤早期预警/标志物有诊断转化潜力，未见授权专利，偏方法与基础",
+      "collaboration": "高 — 计算+实验交叉，与肿瘤、免疫、临床团队合作密集"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293930/page.htm",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9875500/"
+    ],
+    "research_official": "AI+生物技术、肿瘤与免疫",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "叶健文",
+    "name_en": "Jian-Wen Ye",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2021/0707/c15457a435350/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "细胞工厂设计与改造",
+      "代谢工程",
+      "生物过程优化与放大",
+      "生物材料(PHA)",
+      "下一代工业生物技术",
+      "盐单胞菌(Halomonas)底盘",
+      "CO2升值再造"
+    ],
+    "education": "华南理工大学化学工程本科(2009-2013)；清华大学生命学院博士(2013-2018)",
+    "career": "清华大学博士后(2018-2020)；中科院深圳先进技术研究院副研究员(2020-2021)；2021年4月起华南理工大学生物科学与工程学院副教授",
+    "talent_titles": [
+      "国家优秀青年科学基金(国家优青)"
+    ],
+    "representative_papers": [
+      {
+        "title": "Stimulus response-based fine-tuning of polyhydroxyalkanoate pathway in Halomonas",
+        "venue": "Metabolic Engineering",
+        "year": "2020"
+      },
+      {
+        "title": "Engineering Halomonas bluephagenesis for L-threonine production",
+        "venue": "Metabolic Engineering",
+        "year": "2020"
+      },
+      {
+        "title": "An Efficient CO2-Upcycling Platform Based on Engineered Halomonas TD",
+        "venue": "Advanced Science",
+        "year": "2025"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/319283"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "代谢工程",
+        "生物材料/PHA",
+        "工业生物技术"
+      ],
+      "seniority": "中级偏上(副教授但为国家优青，高产青年骨干)",
+      "industry_potential": "高 — 盐单胞菌底盘细胞工厂、PHA生物材料、CO2再利用强应用导向，多项产学研突破(未列具体专利号)",
+      "collaboration": "高 — 师承陈国强团队(Halomonas体系)，多机构合作并在Adv Sci/CEJ等发文，产学研活跃"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2021/0707/c15457a435350/page.htm",
+      "https://www.sciencedirect.com/science/article/abs/pii/S1096717620300732"
+    ],
+    "email": "yejianwen@scut.edu.cn",
+    "office": "B6-310",
+    "research_official": "合成生物学、微生物代谢工程、生物聚酯与蛋白材料设计与合成、生物过程控制",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "吴振强",
+    "name_en": "Wu Zhenqiang",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293839/page.htm",
+    "research_areas": [
+      "发酵工程",
+      "微生物代谢",
+      "发酵产物应用",
+      "微生物有机肥/发酵饲料蛋白",
+      "他克莫司分离纯化"
+    ],
+    "education": "博士(发酵工程方向)",
+    "career": "华南理工大学生物科学与工程学院教授、博导；曾任学院副院长",
+    "talent_titles": [
+      "曾任学院副院长"
+    ],
+    "representative_papers": [],
+    "patents": [
+      {
+        "title": "一种复合发酵菌剂及其在制备柑橘果肉生物有机肥中的应用",
+        "patent_no": "",
+        "year": ""
+      },
+      {
+        "title": "一种发酵饲料蛋白及其制备方法与应用",
+        "patent_no": "",
+        "year": ""
+      },
+      {
+        "title": "从菌丝体中分离纯化高纯度他克莫司的方法及装置",
+        "patent_no": "",
+        "year": ""
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76147"
+    ],
+    "tags": {
+      "research_field": [
+        "发酵工程",
+        "微生物代谢",
+        "生物制造"
+      ],
+      "seniority": "资深教授(博导/原副院长)",
+      "industry_potential": "高 — 生物有机肥、发酵饲料蛋白、他克莫司提取等均有明确专利与产业应用",
+      "collaboration": "高 — 原学院副院长，发酵工程产学研对接强"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293839/page.htm",
+      "https://www.x-mol.com/university/faculty/76147"
+    ],
+    "email": "btzhqwu@scut.edu.cn",
+    "office": "B6-314",
+    "research_official": "发酵工程、生物工程、绿色生物制造、药食同源健康元素转化理论与应用",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "吴海珍",
+    "name_en": "Wu Haizhen",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2023/0313/c15457a493574/page.htm",
+    "research_areas": [
+      "环境生物技术",
+      "微生物学",
+      "发酵工程",
+      "生物反应器设计及工程运行",
+      "污染物降解途径调控",
+      "微生物群落分析"
+    ],
+    "education": "华南理工大学轻化工程学士(1988-1992)；发酵工程硕士(2002-2004)、博士(2004-2008)",
+    "career": "讲师(2011)→副教授(2012)→教授(2019)，华南理工大学生物科学与工程学院；美国罗格斯大学访问学者(2016-2017)",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.scholarmate.com/P/EFNRZj"
+    ],
+    "tags": {
+      "research_field": [
+        "环境微生物",
+        "污染物降解",
+        "发酵工程"
+      ],
+      "seniority": "中坚教授(硕导)",
+      "industry_potential": "中 — 污染物降解/生物反应器有环保工程前景，未核实专利",
+      "collaboration": "中 — 环境生物技术可对接环保企业，公开指标较低"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2023/0313/c15457a493574/page.htm"
+    ],
+    "email": "hzhwu2@scut.edu.cn",
+    "office": "B6-407",
+    "research_official": "环境生物技术及应用微生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "崔堂兵",
+    "name_en": "Tangbing Cui",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293841/page.htm",
+    "research_areas": [
+      "工业微生物学",
+      "功能酶基因表达与分子改造",
+      "发酵工程",
+      "代谢工程与基因工程(番茄红素等)",
+      "微生物生态",
+      "环境生物修复(苯并芘污染土壤)"
+    ],
+    "education": "华南农业大学农学学士(1987-1991)、硕士(1994-1997)；华南理工大学工学博士(1999-2002)",
+    "career": "2002年7月起华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Gene editing + response surface optimization to improve lycopene synthesis in Pantoea dispersa MSC14",
+        "venue": "Journal of Applied Microbiology",
+        "year": "2024"
+      },
+      {
+        "title": "Microbial fermentation product as biostimulant in bioremediation of benzo[a]pyrene-contaminated soil",
+        "venue": "Fermentation (MDPI)",
+        "year": "2025"
+      },
+      {
+        "title": "A Novel M17 Family Leucyl-Aminopeptidase from Bacillus cereus CZ",
+        "venue": "International Journal of Molecular Sciences",
+        "year": "2023"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://academic.oup.com/jambio/article-abstract/135/11/lxae272/7853138"
+    ],
+    "tags": {
+      "research_field": [
+        "生物制造",
+        "环境生物",
+        "食品生物"
+      ],
+      "seniority": "资深教授(博导，2002入职)",
+      "industry_potential": "高 — 高度应用(发酵工程/酶改造/代谢产物合成/生物修复)；未检索到可核实专利但应用属性强",
+      "collaboration": "高 — 适合发酵工程、功能酶、代谢工程、环境生物修复的产学研合作"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293841/page.htm",
+      "https://academic.oup.com/jambio/article-abstract/135/11/lxae272/7853138"
+    ],
+    "email": "fetbcui@scut.edu.cn",
+    "office": "B6-311",
+    "research_official": "发酵工程、微生物学、微生物生态学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "张雷",
+    "name_en": "Lei Zhang",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2013/0411/c3441a69453/page.htm",
+    "research_areas": [
+      "新药研究与开发(药物结构改造/前药)",
+      "天然产物发酵液活性物质分离(四氢普伐他汀)",
+      "药物多晶型与晶型质量控制(非布索坦/氯吡格雷/他汀类)",
+      "药物共晶/盐型与溶解度改善"
+    ],
+    "education": "药学/工学背景；2008年12月晋升教授，2010年评聘博导",
+    "career": "华南理工大学生物科学与工程学院教授、博导；2010年起生物制药系主任；与丽珠集团、广药集团、东阳光药业等企业合作",
+    "talent_titles": [
+      "生物制药系主任"
+    ],
+    "representative_papers": [
+      {
+        "title": "Simultaneous enhancements of solubility and dissolution rate of poorly water-soluble febuxostat via salts",
+        "venue": "Journal of Molecular Structure",
+        "year": "2017"
+      },
+      {
+        "title": "Febuxostat-Minoxidil Salt Solvates: Crystal Structures, Characterization, Solubility",
+        "venue": "Crystals (MDPI)",
+        "year": "2018"
+      },
+      {
+        "title": "Ethinyl estradiol cocrystals: improvement in stability and solubility",
+        "venue": "New Journal of Chemistry",
+        "year": "2019"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "60"
+    },
+    "external_links": [
+      "https://www.researchgate.net/profile/Lei-Zhang-453"
+    ],
+    "tags": {
+      "research_field": [
+        "生物制药",
+        "药物晶型/共晶",
+        "药物化学"
+      ],
+      "seniority": "资深教授(系主任/博导)",
+      "industry_potential": "高 — 高度应用导向(仿制药晶型、溶解度改善、前药)，已申请药物专利并与多家药企合作产业化",
+      "collaboration": "高 — 已与丽珠、广药、东阳光等多家药企合作，晶型/共晶平台适合企业联合开发"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2013/0411/c3441a69453/page.htm",
+      "https://www.researchgate.net/profile/Lei-Zhang-453"
+    ],
+    "email": "lzhangce@scut.edu.cn",
+    "office": "B6-505",
+    "research_official": "药学、医药生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "朱伟",
+    "name_en": "Wei Zhu",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2019/0902/c15457a332082/page.htm",
+    "research_areas": [
+      "生物保存",
+      "生物材料/生物仿生",
+      "超分子功能材料",
+      "新型酶固定化(生物硅化)",
+      "纳米生物技术"
+    ],
+    "education": "清华大学化学系博士(2008-2014，导师李广涛)；2013墨尔本大学访学(Frank Caruso)；2015-2019美国新墨西哥大学/桑迪亚国家实验室博士后(C. Jeffrey Brinker)",
+    "career": "2019年4月起华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": [
+      "国家级海外高层次青年人才(中组部第15批)"
+    ],
+    "representative_papers": [
+      {
+        "title": "Robust Immobilization and Activity Preservation of Enzymes by Silica-Based 'Inorganic Glue'",
+        "venue": "Advanced Materials",
+        "year": "2026"
+      },
+      {
+        "title": "深度硅化实现跨物种结构保护与基因组信息长效存储",
+        "venue": "PNAS",
+        "year": "2024"
+      },
+      {
+        "title": "液-固复合体——选择性分子传输与动态重构",
+        "venue": "Nature Communications",
+        "year": "2025"
+      },
+      {
+        "title": "多组元硅化增强单酶结构(硅酶)",
+        "venue": "Angewandte Chemie",
+        "year": "2024"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407831"
+    ],
+    "tags": {
+      "research_field": [
+        "生物材料",
+        "生物硅化/酶固定化",
+        "纳米生物技术"
+      ],
+      "seniority": "中青年领军(国家级青年人才)",
+      "industry_potential": "高 — 酶固定化、生物保存、基因组信息存储等强应用，硅化酶可规模化低成本(未确认专利号)",
+      "collaboration": "高 — 高产高影响力(PNAS/Nat Commun/Adv Mater/Angew)，跨团队合作"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2019/0902/c15457a332082/page.htm",
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407831"
+    ],
+    "email": "zhuwei86@scut.edu.cn",
+    "office": "B6-202",
+    "research_official": "生物材料、生物医药",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "朱心红",
+    "name_en": "Xinhong Zhu",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2023/0329/c15457a495775/page.htm",
+    "research_areas": [
+      "精神疾病发病机制与防治(抑郁症)",
+      "阿尔茨海默病防治",
+      "脑铁代谢",
+      "星形胶质细胞",
+      "自闭症/精神分裂症"
+    ],
+    "education": "河南中医学院中医本科(1986-1991)；第一军医大学中西医结合硕士(1999-2002)、神经生物学博士(2002-2005)",
+    "career": "2023年3月起华南理工大学生物科学与工程学院二级教授、博导；办公于琶洲实验室",
+    "talent_titles": [
+      "国家杰出青年科学基金(国家杰青)",
+      "万人计划领军人才",
+      "科技创新2030'脑科学'重大项目首席科学家",
+      "国家自然科学二等奖(2019，排名第四)"
+    ],
+    "representative_papers": [
+      {
+        "title": "Quantitative Susceptibility Mapping Reveals Association between Brain Iron Load and Depression Severity",
+        "venue": "Frontiers in Human Neuroscience",
+        "year": "2017"
+      },
+      {
+        "title": "QSM of Brain Iron Deposition in Patients With Recurrent Depression",
+        "venue": "neuroimaging study",
+        "year": "2022"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.pazhoulab.com/2020/09/1054/"
+    ],
+    "tags": {
+      "research_field": [
+        "神经科学",
+        "精神疾病机制",
+        "脑铁代谢"
+      ],
+      "seniority": "资深杰出教授(二级教授/国家杰青/重大项目首席)",
+      "industry_potential": "中 — 偏基础神经机制，涉抗抑郁新靶点有转化医学前景，未确认专利",
+      "collaboration": "高 — 国家杰青、脑计划首席、学会常务理事，跨机构(琶洲实验室)资源强"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2023/0329/c15457a495775/page.htm",
+      "https://www.pazhoulab.com/2020/09/1054/"
+    ],
+    "email": "zhuxh527@scut.edu.cn",
+    "office": "琶洲实验室(人工智能与数字经济广东省实验室)",
+    "research_official": "精神疾病发病机制与防治、老年痴呆症防治新策略、脑铁代谢机理",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "朱明军",
+    "name_en": "Mingjun Zhu",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology_en/2015/0703/c5951a93364/page.htm",
+    "research_areas": [
+      "生物质资源综合利用",
+      "木质纤维素生物炼制",
+      "纤维素酶/酶解",
+      "燃料乙醇与生物基化学品",
+      "运动发酵单胞菌(Zymomonas mobilis)代谢工程"
+    ],
+    "education": "博士(发酵工程/生物化工方向)",
+    "career": "华南理工大学生物科学与工程学院教授、博导；生物质资源综合利用研究团队负责人(成员含李爽、罗晓春、周婷、卓敏)",
+    "talent_titles": [
+      "团队负责人"
+    ],
+    "representative_papers": [
+      {
+        "title": "Cold plasma pretreatment reinforces aldehyde inhibitor tolerance and bioethanol fermentability for Zymomonas mobilis",
+        "venue": "Biotechnology for Biofuels and Bioproducts",
+        "year": "2023"
+      },
+      {
+        "title": "Transcriptome analysis of Z. mobilis ZM4 reveals tolerance/detoxification of phenolic aldehyde inhibitors",
+        "venue": "Biotechnology for Biofuels",
+        "year": "2015"
+      },
+      {
+        "title": "Tn5-based transposon system for cost-effective Z. mobilis ethanol production from lignocelluloses",
+        "venue": "Microbial Cell Factories",
+        "year": "2013"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273749/"
+    ],
+    "tags": {
+      "research_field": [
+        "生物质能源",
+        "代谢工程",
+        "工业生物技术"
+      ],
+      "seniority": "资深教授，团队负责人",
+      "industry_potential": "高 — 燃料乙醇/生物基化学品/木质纤维素生物炼制强应用产业化方向",
+      "collaboration": "高 — 团队负责人，团队规模较大"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/15444/list.htm",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10273749/"
+    ],
+    "email": "mjzhu@scut.edu.cn",
+    "office": "",
+    "research_official": "发酵工程、微生物学、环境生物技术、药学、生物化工、纳米生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "李杉",
+    "name_en": "Li Shan",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293861/page.htm",
+    "research_areas": [
+      "生物化学与分子生物学",
+      "病原微生物与有毒有害物质快速检测",
+      "功能蛋白质改造(蛋白质工程)",
+      "蛋白质药物与抗体偶联药物(ADC)",
+      "抗生素耐药与肠道菌群检测"
+    ],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院教授、博/硕导；2008-2018副教授，2018至今教授",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [
+      {
+        "title": "通过点突变提高Taq DNA聚合酶活性的方法及应用",
+        "patent_no": "",
+        "year": ""
+      },
+      {
+        "title": "一种人糖化血红蛋白的制备方法",
+        "patent_no": "",
+        "year": ""
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://hysttc.com/experts/detail?id=29d71b5cfe2343e79a990a334992d1d1"
+    ],
+    "tags": {
+      "research_field": [
+        "蛋白质工程",
+        "病原快速检测",
+        "蛋白质药物/ADC",
+        "分子生物学"
+      ],
+      "seniority": "资深教授(博导)",
+      "industry_potential": "高 — 方向高度应用化(Taq聚合酶改造、糖化血红蛋白、病原快检、蛋白药物/ADC)，持有授权发明专利，IVD与生物药转化潜力大",
+      "collaboration": "高 — 检测试剂/IVD/抗体药物天然适合与诊断与制药企业合作"
+    },
+    "confidence": "low",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293861/page.htm",
+      "https://hysttc.com/experts/detail?id=29d71b5cfe2343e79a990a334992d1d1"
+    ],
+    "email": "lishan@scut.edu.cn",
+    "office": "B6-512",
+    "research_official": "生物化学与分子生物学、医药生物学、药学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "李爽",
+    "name_en": "Li Shuang",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2013/0411/c3441a69461/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "代谢工程",
+      "酶工程",
+      "微生物细胞工厂",
+      "萜类化合物生物合成(缬草烯/诺卡酮)"
+    ],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院教授、博士生导师；招生：微生物学(博)、发酵工程(硕)",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "High production of valencene in Saccharomyces cerevisiae through metabolic engineering",
+        "venue": "Microbial Cell Factories",
+        "year": "2019"
+      },
+      {
+        "title": "Metabolic engineering Saccharomyces cerevisiae for de novo production of (+)-nootkatone",
+        "venue": "Microbial Cell Factories",
+        "year": "2020"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://link.springer.com/article/10.1186/s12934-019-1246-2"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "代谢工程",
+        "酶工程",
+        "细胞工厂"
+      ],
+      "seniority": "资深教授(博导)",
+      "industry_potential": "高 — 面向高附加值香料/萜类(缬草烯、诺卡酮)的微生物细胞工厂，应用导向强",
+      "collaboration": "中 — 应用型代谢工程易与香精香料/生物制造企业合作，但未见明确合作专利"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2013/0411/c3441a69461/page.htm",
+      "https://pubmed.ncbi.nlm.nih.gov/31699116/"
+    ],
+    "email": "shuangli@scut.edu.cn",
+    "office": "B6-319",
+    "research_official": "AI+合成生物学、酶分子工程、智能代谢工程",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "杜红丽",
+    "name_en": "Hongli Du",
+    "title": "教授",
+    "email": "hldu@scut.edu.cn",
+    "office": "B6-413",
+    "profile_url": "https://www2.scut.edu.cn/biology/2019/0121/c15457a304169/page.htm",
+    "research_areas": [
+      "遗传与生物信息学",
+      "多组学整合技术",
+      "泛肿瘤分子机制",
+      "肿瘤和传染病药物研发",
+      "2型糖尿病早期发病机制",
+      "比较基因组学(人与猪)"
+    ],
+    "education": "华南农业大学畜牧学本科(1995-1999)；动物遗传育种硕士(1999-2002)、博士(2002-2005)",
+    "career": "华南理工大学讲师(2006)→副教授(2009)→教授(2015至今)；国内较早从事基因组学研究的学者之一",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Integrative Analysis of Genome and Expression Profile Reveals Diabetic Pathogenesis in GK Rats",
+        "venue": "Frontiers in Genetics",
+        "year": "2019"
+      },
+      {
+        "title": "Single-Cell Transcriptome Reveals RGS1 as Marker/Promoting Factor for T-Cell Exhaustion in Multiple Cancers",
+        "venue": "Frontiers in Immunology",
+        "year": "2021"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www2.scut.edu.cn/biology/2019/0121/c15457a304169/page.htm"
+    ],
+    "tags": {
+      "research_field": [
+        "生物信息学",
+        "多组学",
+        "肿瘤基因组学",
+        "比较基因组学"
+      ],
+      "seniority": "资深教授(2015起，博导)",
+      "industry_potential": "中 — 涉肿瘤/传染病药物研发与诊断标志物有转化面，但未见授权专利，偏数据/算法",
+      "collaboration": "高 — 多组学/生物信息方法学普适，与临床、肿瘤、单细胞团队合作多"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2019/0121/c15457a304169/page.htm",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9304890/"
+    ],
+    "research_official": "遗传与生物信息学、多组学整合技术、泛肿瘤分子机制、肿瘤和传染病药物研发",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "杨博",
+    "name_en": "Bo Yang",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1106/c15457a293800/page.htm",
+    "research_areas": [
+      "脂质生物技术/油脂酶法改性",
+      "脂肪酶催化",
+      "甘油二酯(DAG)/共轭亚油酸(CLA)结构脂质",
+      "生物化工",
+      "发酵工程"
+    ],
+    "education": "齐齐哈尔轻工学院本科(1992-1996)；大连轻工业学院硕士(1996-1999)；华南理工大学博士(1999-2002)",
+    "career": "2002年起华南理工大学；2005年副教授、硕导；2011年晋升教授",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Enzymatic Synthesis of Diacylglycerols Enriched with CLA by a Novel Lipase from Malassezia globosa",
+        "venue": "JAOCS",
+        "year": "2012"
+      },
+      {
+        "title": "Enzymatic Synthesis of Extremely Pure Triacylglycerols Enriched in CLA",
+        "venue": "Molecules",
+        "year": "2013"
+      }
+    ],
+    "patents": [
+      {
+        "title": "一种合成甘油二酯的方法",
+        "patent_no": "WO2021088319A1 / CN110777170B",
+        "year": "2021"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.sciencedirect.com/author/55675331300/bo-yang"
+    ],
+    "tags": {
+      "research_field": [
+        "脂质生物技术",
+        "酶工程",
+        "生物化工"
+      ],
+      "seniority": "资深教授(2011晋升，博/硕导)",
+      "industry_potential": "高 — 油脂酶法改性/功能性结构脂质应用导向，已有甘油二酯合成授权专利并与企业(广东粤膳特医)联合申请",
+      "collaboration": "中 — 与企业及校内油脂团队(王永华等)合作，对接食品营养产业"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1106/c15457a293800/page.htm",
+      "https://patents.google.com/patent/WO2021088319A1/zh"
+    ],
+    "email": "yangbo@scut.edu.cn",
+    "office": "B6-411",
+    "research_official": "生化与分子生物学、发酵工程、生物化工",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "林影",
+    "name_en": "Lin Ying",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293916/page.htm",
+    "research_areas": [
+      "酶学与酶工程",
+      "合成生物学",
+      "微生物组学",
+      "发酵工程",
+      "毕赤酵母(Pichia pastoris)外源蛋白表达",
+      "酶分子定向进化"
+    ],
+    "education": "华南理工大学微生物工程学士(1983)、发酵工程硕士(1986)、发酵工程博士(1997)",
+    "career": "华南理工大学生物科学与工程学院教授、博导；微生物学科团队负责人，曾任学院常务副院长；现任广东省发酵与酶工程重点实验室主任；国家级精品课程《酶工程》负责人",
+    "talent_titles": [
+      "广东省发酵与酶工程重点实验室主任",
+      "国家级精品课程《酶工程》负责人",
+      "中国专利优秀奖"
+    ],
+    "representative_papers": [
+      {
+        "title": "Surface display of active lipase in Pichia pastoris using Sed1 as an anchor protein",
+        "venue": "Biotechnology Letters",
+        "year": "2010"
+      },
+      {
+        "title": "Construction of efficient xylose utilizing Pichia pastoris for industrial enzyme production",
+        "venue": "Microbial Cell Factories",
+        "year": "2015"
+      },
+      {
+        "title": "Production of lycopene by metabolically engineered Pichia pastoris",
+        "venue": "Bioscience, Biotechnology, and Biochemistry",
+        "year": "2019"
+      }
+    ],
+    "patents": [
+      {
+        "title": "非甲醇诱导型毕赤酵母蛋白表达系统及其用途",
+        "patent_no": "CN101104859A",
+        "year": "2008"
+      },
+      {
+        "title": "一种重组毕赤酵母工程菌及其在合成莱鲍迪苷A中的应用",
+        "patent_no": "ZL201410477408.8",
+        "year": "2017"
+      },
+      {
+        "title": "一种新型碱性脂肪酶基因及产脂肪酶菌株",
+        "patent_no": "ZL201210388055.5",
+        "year": "2014"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "100+(含SCI约62篇)"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76148",
+      "https://baike.baidu.com/item/林影/1472082"
+    ],
+    "tags": {
+      "research_field": [
+        "酶工程",
+        "毕赤酵母表达系统",
+        "合成生物学",
+        "发酵工程"
+      ],
+      "seniority": "资深学术带头人(教授/博导，省重点实验室主任)",
+      "industry_potential": "高 — 毕赤酵母表达平台、工业酶(脂肪酶/漆酶)、天然产物(莱鲍迪苷A/番茄红素)强应用导向，多项授权专利并获中国专利优秀奖",
+      "collaboration": "高 — 省发酵与酶工程重点实验室平台，团队庞大(梁书利等)，产业转化潜力大"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293916/page.htm",
+      "https://patents.google.com/patent/CN101104859A/zh",
+      "https://www.x-mol.com/university/faculty/76148"
+    ],
+    "email": "feylin@scut.edu.cn",
+    "office": "",
+    "research_official": "微生物组学、发酵工程、生物催化及酶工程",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "林炜铁",
+    "name_en": "Lin Weitie",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15457a294195/page.htm",
+    "research_areas": [
+      "微生物学",
+      "环境/水产养殖微生物学",
+      "微生物生态学",
+      "氨氧化古菌/细菌",
+      "硝化与硫氧化微生物",
+      "元素生物地球化学循环"
+    ],
+    "education": "华南理工大学生物化工学士(1982-1986)；发酵工程博士(1986-1991)",
+    "career": "华南理工大学生物科学与工程学院教授(2011起)、博导；领衔学院微生物生态与环境保护研究团队",
+    "talent_titles": [
+      "微生物生态与环境保护团队负责人"
+    ],
+    "representative_papers": [
+      {
+        "title": "Production and Excretion of Polyamines To Tolerate High Ammonia in soil AOA Candidatus Nitrosocosmicus agrestis",
+        "venue": "mSystems",
+        "year": "2021"
+      },
+      {
+        "title": "Parasulfuritortus cantonensis gen. nov., sp. nov., a microaerophilic sulfur-oxidizing bacterium",
+        "venue": "Int. J. of Systematic and Evolutionary Microbiology",
+        "year": "2021"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www2.scut.edu.cn/biology/15444/list.htm"
+    ],
+    "tags": {
+      "research_field": [
+        "微生物生态学",
+        "环境微生物",
+        "氨氧化古菌/硝化",
+        "硫氧化菌"
+      ],
+      "seniority": "资深教授(博导)",
+      "industry_potential": "中 — 硝化/反硝化、水产养殖与废水处理微生物有环境工程应用，但偏基础生态，未检索到本人专利",
+      "collaboration": "中 — 与团队成员(罗剑飞等)合作发文，环境/水处理有跨学科空间，偏学术导向"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15457a294195/page.htm",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8573960/"
+    ],
+    "email": "lfwtlin@scut.edu.cn",
+    "office": "B6-501",
+    "research_official": "微生物学、微生物生态学、环境微生物技术",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "梁书利",
+    "name_en": "Liang Shuli",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15457a294179/page.htm",
+    "research_areas": [
+      "发酵工程",
+      "合成生物学",
+      "微生物学",
+      "毕赤酵母高效蛋白表达",
+      "微生物代谢调控",
+      "高值天然产物生物合成"
+    ],
+    "education": "华南理工大学生物工程学士(2002-2006)；发酵工程硕博连读博士(2006-2012)",
+    "career": "2014年12月起华南理工大学生物科学与工程学院副教授、硕导；与林影团队在毕赤酵母方向密切合作；2016年指导iGEM金奖",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Recycling of a selectable marker with a self-excisable plasmid in Pichia pastoris",
+        "venue": "Scientific Reports",
+        "year": "2017"
+      },
+      {
+        "title": "Combined strategies for improving expression of Citrobacter amalonaticus phytase in Pichia pastoris",
+        "venue": "BMC Biotechnology",
+        "year": "2015"
+      }
+    ],
+    "patents": [
+      {
+        "title": "一种重组毕赤酵母工程菌及其在合成莱鲍迪苷A中的应用",
+        "patent_no": "ZL201410477408.8",
+        "year": "2017"
+      },
+      {
+        "title": "一种嗜热链霉菌漆酶及工程菌、重组漆酶与应用",
+        "patent_no": "ZL201410188145.9",
+        "year": "2017"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "10"
+    },
+    "external_links": [
+      "https://www.researchgate.net/scientific-contributions/Ying-Lin-2132866341"
+    ],
+    "tags": {
+      "research_field": [
+        "发酵工程",
+        "合成生物学",
+        "毕赤酵母表达",
+        "酶工程"
+      ],
+      "seniority": "副教授/硕导(中青年骨干)",
+      "industry_potential": "中 — 毕赤酵母蛋白表达、天然产物(莱鲍迪苷A)、漆酶等应用方向，多为共同发明人，独立成果体量有限",
+      "collaboration": "高 — 与林影团队同方向紧密合作，iGEM指导经验，工程菌/酶易对接产业"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15457a294179/page.htm"
+    ],
+    "email": "shuli@scut.edu.cn",
+    "office": "B6-514",
+    "research_official": "发酵工程、合成生物学、微生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "潘力",
+    "name_en": "Pan Li",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1106/c15457a293796/page.htm",
+    "research_areas": [
+      "发酵工程",
+      "工业微生物分子生理与菌种选育",
+      "丝状真菌(米曲霉/曲霉)异源蛋白表达系统",
+      "代谢工程",
+      "合成生物学"
+    ],
+    "education": "1988年华南理工大学生物化工学士；1994年发酵工程硕士；1999年发酵工程博士（均华南理工大学）；2007年英国Sheffield Hallam University访问学者",
+    "career": "华南理工大学生物科学与工程学院教授、博士生导师；长期从事发酵工业微生物菌种分子生理与选育",
+    "talent_titles": [
+      "广东省科技进步一等奖（获奖人）"
+    ],
+    "representative_papers": [
+      {
+        "title": "丝状真菌(米曲霉)蛋白分泌机制转录组研究",
+        "venue": "Nucleic Acids Research",
+        "year": ""
+      },
+      {
+        "title": "米曲霉异源蛋白表达系统研究进展（综述）",
+        "venue": "微生物学通报",
+        "year": "2021"
+      }
+    ],
+    "patents": [
+      {
+        "title": "一种高产糖化酶、α-淀粉酶和酸性蛋白酶的亮白曲霉及其应用",
+        "patent_no": "CN104250618B",
+        "year": ""
+      },
+      {
+        "title": "真菌来源的强启动子及其应用",
+        "patent_no": "CN115074361A",
+        "year": ""
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "60+"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76164",
+      "https://patents.google.com/patent/CN104250618B/zh"
+    ],
+    "tags": {
+      "research_field": [
+        "发酵工程",
+        "工业微生物",
+        "丝状真菌蛋白表达",
+        "代谢工程",
+        "合成生物学"
+      ],
+      "seniority": "资深教授(博导)",
+      "industry_potential": "高 — 工业发酵菌种选育、米曲霉酶制剂高产菌株与真菌强启动子表达系统，直接面向酶制剂/食品发酵产业，且有多项授权发明专利",
+      "collaboration": "中 — 应用导向且有专利与产业接口，适合产学研合作"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1106/c15457a293796/page.htm",
+      "https://www.x-mol.com/university/faculty/76164",
+      "https://patents.google.com/patent/CN104250618B/zh"
+    ],
+    "email": "btlipan@scut.edu.cn",
+    "office": "B6-315",
+    "research_official": "合成生物学、微生物学、生化与分子生物学、医药生物学、发酵工程、生物化工",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "熊伟",
+    "name_en": "Wei Xiong",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2024/0828/c15457a560367/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "生物碳中和与一碳代谢",
+      "人工智能+生物",
+      "能源生物技术",
+      "合成代谢与低碳生物设计"
+    ],
+    "education": "博士，清华大学(2010)",
+    "career": "博士后美国亚利桑那州立大学；研究员美国能源部国家可再生能源实验室(NREL)；现华南理工大学生物科学与工程学院院长、终聘教授、海外高层次人才",
+    "talent_titles": [
+      "海外高层次人才",
+      "学院院长"
+    ],
+    "representative_papers": [
+      {
+        "title": "Acetyl-CoA synthesis through a bicyclic carbon-fixing pathway in gas-fermenting bacteria",
+        "venue": "Nature Synthesis",
+        "year": "2022"
+      },
+      {
+        "title": "CO2 fixation by anaerobic non-photosynthetic mixotrophy for improved carbon conversion",
+        "venue": "Nature Communications",
+        "year": "2016"
+      },
+      {
+        "title": "Insights into CO2 Fixation Pathway of Clostridium autoethanogenum by Targeted Mutagenesis",
+        "venue": "mBio",
+        "year": "2016"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "2000+",
+      "h_index": "",
+      "paper_count_est": "50"
+    },
+    "external_links": [
+      "https://scholar.google.com/citations?user=scYzTwkAAAAJ",
+      "https://research-hub.nrel.gov/en/persons/wei-xiong"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "微生物代谢工程",
+        "一碳/CO2固定",
+        "能源生物技术",
+        "AI+生物"
+      ],
+      "seniority": "学院院长/终聘教授/海外高层次人才(Nature子刊通讯作者)",
+      "industry_potential": "高 — 气体发酵/CO2固定/低碳合成生物学强应用导向，直接对接碳中和与生物制造",
+      "collaboration": "高 — 国际背景(NREL/ASU)，AI+生物多学科交叉，团队招募活跃"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2024/0828/c15457a560367/page.htm",
+      "https://www.nature.com/articles/s44160-022-00095-4",
+      "https://scholar.google.com/citations?user=scYzTwkAAAAJ"
+    ],
+    "email": "xiongwei2024@scut.edu.cn",
+    "office": "南校区B6",
+    "research_official": "合成生物学、生物碳中和与一碳代谢、人工智能+生物学、能源生物技术",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "王斌",
+    "name_en": "Wang Bin",
+    "title": "教授",
+    "title_note": "官网c15457师资页标教授(硕/博导)；百度百科旧条目记讲师，疑信息滞后，以官网为准",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293956/page.htm",
+    "research_areas": [
+      "活性天然产物分子调控及异源合成",
+      "代谢工程",
+      "工业及医药酶生产应用",
+      "丝状真菌遗传工程与遗传生理",
+      "生物信息学"
+    ],
+    "education": "华南理工大学发酵工程硕博连读(2004-2010)，博士",
+    "career": "2010年起华南理工大学生物科学与工程学院",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "丝状真菌遗传/生物信息相关(课题组论文)",
+        "venue": "Nucleic Acids Research",
+        "year": ""
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/detail/280/department/2362"
+    ],
+    "tags": {
+      "research_field": [
+        "天然产物合成生物学",
+        "代谢工程",
+        "酶工程"
+      ],
+      "seniority": "中坚教授(相对年轻)",
+      "industry_potential": "高 — 天然产物异源合成与工业/医药酶为典型生物制造转化方向(未核实专利)",
+      "collaboration": "中 — 方向应用性强可对接合成生物学企业，公开指标较低"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293956/page.htm"
+    ],
+    "email": "btbinwang@scut.edu.cn",
+    "office": "B6-504",
+    "research_official": "合成生物技术、生物基精细化学品高效生物制造、酶蛋白通用高效高产能工业菌株设计",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "王永华",
+    "name_en": "Yonghua Wang",
+    "title": "教授",
+    "email": "yonghw@scut.edu.cn",
+    "office": "",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293922/page.htm",
+    "research_areas": [
+      "酶工程与油脂工程交叉",
+      "海洋生物工程",
+      "脂质代谢与生命健康",
+      "新颖酶发现/结构功能/催化机制",
+      "酶分子改造与酶制剂稳态化",
+      "功能性脂质(甘油二酯DAG、母乳脂替代OPO)产业化"
+    ],
+    "education": "山西大学生物学本科(1992-1996)；大连轻工业学院发酵工程硕士(1996-1999)；华南理工大学发酵工程博士(1999-2002)；中山大学博士后(2002-2005)",
+    "career": "2005年加入华南理工大学(原食品科学与工程学院，曾任副院长)，现确认在生物科学与工程学院；哈佛医学院访问学者(2009-2010)；慕尼黑工业大学访问学者(2013)",
+    "talent_titles": [
+      "国家杰出青年科学基金(国家杰青)",
+      "长江学者特聘教授(2019)",
+      "国家'万人计划'科技创新领军人才",
+      "教育部新世纪优秀人才",
+      "广东省珠江学者特聘教授",
+      "2020全国三八红旗手"
+    ],
+    "representative_papers": [
+      {
+        "title": "A 'bridge-like' structure responsible for substrate selectivity of mono-/diacylglycerol lipase from Aspergillus oryzae",
+        "venue": "Biochimie/BBRC(脂肪酶底物选择性机制)",
+        "year": "2013"
+      },
+      {
+        "title": "脂质工程进展(综述)",
+        "venue": "Progress in Lipid Research",
+        "year": ""
+      },
+      {
+        "title": "Lipase-catalyzed synthesis of structured lipids (功能性DAG/母乳脂替代)系列",
+        "venue": "Food Chemistry/Molecules 等",
+        "year": ""
+      }
+    ],
+    "patents": [
+      {
+        "title": "脂质改性/酶制剂稳态化系列发明专利(申请中国发明专利60余件，授权34件；获国家发明专利优秀奖、广东省发明专利金奖)",
+        "patent_no": "",
+        "year": ""
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "100+(国际期刊)"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/311556"
+    ],
+    "tags": {
+      "research_field": [
+        "酶工程",
+        "油脂/脂质工程",
+        "脂肪酶",
+        "功能性脂质",
+        "脂质营养与代谢",
+        "海洋生物工程"
+      ],
+      "seniority": "顶尖资深(国家杰青/长江学者/万人领军，博导，曾任副院长)",
+      "industry_potential": "高 — 油脂/酶/生物制造应用明确，发明专利60余件(授权34)，多项技术企业产业化，支撑企业累计新增产值超百亿元",
+      "collaboration": "高 — 横跨基础(酶结构机制)到产业(酶制剂、功能脂质)，产学研网络广"
+    },
+    "confidence": "high",
+    "data_caveat": "用户简报记为'男'，权威来源(全国三八红旗手等)显示该油脂酶学者王永华为女性(1973年生)；方向/头衔/履历均吻合，确认为同一人",
+    "sources": [
+      "https://www.x-mol.com/university/faculty/311556",
+      "https://www2.scut.edu.cn/gh/2022/0422/c32399a468520/page.htm"
+    ],
+    "research_official": "酶工程与油脂工程交叉科学、海洋生物工程、脂质代谢与生命健康",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "王菊芳",
+    "name_en": "Wang Jufang",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/sklppe/2017/1226/c13897a241981/page.htm",
+    "research_areas": [
+      "微生物制药",
+      "生物催化",
+      "生物安全与检测",
+      "合成生物学",
+      "发酵工程",
+      "病原微生物及有毒有害物质快速检测"
+    ],
+    "education": "长江大学学士(1990-1994)；华南农业大学硕士(1994-1997)；华南理工大学发酵工程博士(1997-2000)",
+    "career": "2000年起华南理工大学：讲师→副教授(2004)→教授(2010)；现任生物科学与工程学院副院长、博导",
+    "talent_titles": [
+      "生物科学与工程学院副院长"
+    ],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "30+"
+    },
+    "external_links": [
+      "https://scholar.google.com/citations?user=hPrW7SkAAAAJ",
+      "https://www.x-mol.com/university/faculty/76149"
+    ],
+    "tags": {
+      "research_field": [
+        "微生物制药",
+        "合成生物学",
+        "生物催化",
+        "检测技术"
+      ],
+      "seniority": "资深教授(博导/副院长)",
+      "industry_potential": "高 — 微生物制药、生物催化、病原快检均为强应用方向，对接生物制造与IVD产业",
+      "collaboration": "高 — 学院副院长，跨多领域便于牵线"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/sklppe/2017/1226/c13897a241981/page.htm",
+      "https://www.scholarmate.com/P/3qIRry"
+    ],
+    "email": "jufwang@scut.edu.cn",
+    "office": "B6-317",
+    "research_official": "生物化学与分子生物学、发酵工程、生物安全与检测、微生物学、合成生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "王鹏霞",
+    "name_en": "Pengxia Wang",
+    "title": "教授",
+    "email": "wangpengxia2025@scut.edu.cn",
+    "office": "",
+    "profile_url": "",
+    "research_areas": [
+      "合成生物学",
+      "可移动基因组/可移动遗传元件(ICE、MGI)",
+      "海洋微生物(假交替单胞菌、弧菌)",
+      "基因组编辑(CRISPR/Cas9+自然切除精准移除可移动遗传元件)",
+      "水平基因转移与基因组可塑性"
+    ],
+    "education": "中国科学院大学(UCAS)培养背景",
+    "career": "曾任职中国科学院南海海洋研究所/南方海洋科学与工程广东省实验室(广州)，海洋微生物方向；2025年新入职华南理工大学生物科学与工程学院",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Mobile genetic elements used by competing coral microbial populations increase genomic plasticity",
+        "venue": "The ISME Journal",
+        "year": "2022"
+      },
+      {
+        "title": "Combining CRISPR/Cas9 and natural excision for precise complete removal of mobile genetic elements in bacteria",
+        "venue": "Applied and Environmental Microbiology",
+        "year": "2024"
+      },
+      {
+        "title": "Genomic Island-Encoded Diguanylate Cyclase from Vibrio alginolyticus Regulates Biofilm/Motility in Pseudoalteromonas",
+        "venue": "Microorganisms",
+        "year": "2023"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://academic.oup.com/ismej/article/16/9/2220/7474340"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "海洋微生物",
+        "可移动遗传元件",
+        "基因组编辑",
+        "水平基因转移"
+      ],
+      "seniority": "年轻新锐(2025新入职教授，已有ISME J等高水平成果)",
+      "industry_potential": "中 — 基因组编辑/合成生物学工具有生物制造与底盘改造潜力，目前以海洋微生物基础机制为主，未见专利",
+      "collaboration": "高 — 海洋微生物+合成生物学+基因编辑工具，跨机构(中科院南海所/广东实验室)合作基础好"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://academic.oup.com/ismej/article/16/9/2220/7474340",
+      "https://journals.asm.org/doi/10.1128/aem.00095-24"
+    ],
+    "research_official": "合成生物学、可移动基因组、海洋微生物、基因组编辑技术",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "罗晓春",
+    "name_en": "Xiaochun Luo",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15457a294187/page.htm",
+    "research_areas": [
+      "含氮低值生物质高值化",
+      "羽毛/虾蟹壳酶法绿色转化",
+      "几丁质酶/角蛋白酶工程",
+      "几丁寡糖/壳寡糖制备",
+      "合成生物学菌株改造(Streptomyces SCUT-3)"
+    ],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院教授、博/硕导；民建华工副主委",
+    "talent_titles": [
+      "2022广东省农业微生物重大科技/转化成果奖"
+    ],
+    "representative_papers": [
+      {
+        "title": "One-step processing of shrimp shell waste with a chitinase fused to a carbohydrate-binding module",
+        "venue": "Green Chemistry",
+        "year": "2020"
+      },
+      {
+        "title": "Promotion of feather waste recycling by enhancing keratinase activity of Streptomyces sp. SCUT-3",
+        "venue": "Green Chemistry",
+        "year": "2021"
+      },
+      {
+        "title": "A sustainable recycling of feather waste into keratin peptides with antimicrobial activity",
+        "venue": "Waste Management",
+        "year": "2022"
+      },
+      {
+        "title": "High Degree of Polymerization Chitin Oligosaccharides from Shrimp Shell Waste",
+        "venue": "Marine Drugs",
+        "year": "2024"
+      }
+    ],
+    "patents": [
+      {
+        "title": "酶法绿色制备壳寡糖/虾青素/蛋白/钙粉的工艺",
+        "patent_no": "ZL201910893308.6",
+        "year": "2021"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "约1367",
+      "h_index": "",
+      "paper_count_est": "SCI 80+；授权发明专利9件(官方页)"
+    },
+    "external_links": [
+      "https://scholar.google.com.hk/citations?user=ih4x81cAAAAJ"
+    ],
+    "tags": {
+      "research_field": [
+        "生物制造",
+        "食品生物",
+        "海洋/农业生物资源高值化",
+        "酶工程"
+      ],
+      "seniority": "资深教授(博导)",
+      "industry_potential": "高 — 羽毛粉(鱼粉替代)中试、虾壳几丁寡糖一步法、9项授权发明专利，转化导向明确",
+      "collaboration": "高 — 应用导向、有产业化记录与多项专利，适合农业/海洋生物资源企业合作"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15457a294187/page.htm",
+      "https://pubs.rsc.org/en/content/articlelanding/2021/gc/d1gc00677k",
+      "http://www2.scut.edu.cn/tzb/2023/1208/c4713a528802/page.htm"
+    ],
+    "email": "xcluo@scut.edu.cn",
+    "office": "B6-201",
+    "research_official": "含氮生物质高值化利用、合成生物学、酶工程、整合组学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "罗立新",
+    "name_en": "Lixin Luo",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293844/page.htm",
+    "research_areas": [
+      "工业微生物学",
+      "食品发酵与酿造",
+      "分子微生态学",
+      "食品级乳酸菌分子生物学",
+      "发酵微生物代谢组学"
+    ],
+    "education": "华南理工大学(原华南工学院)生物工程学士(1982-1986)；发酵工程硕士(1988-1991)、博士(1993-1996)",
+    "career": "1991-1993广东省食品工业研究所工程师；1996-2004华南理工大学轻工与食品学院讲师/副教授；2003-2004英国食品研究所访学；2004年起生物科学与工程学院教授",
+    "talent_titles": [
+      "国家级课程《工业微生物学》负责人"
+    ],
+    "representative_papers": [
+      {
+        "title": "Comparison of microbial community and metabolites in spontaneous fermentation of two Daqu starters for Chinese vinegar",
+        "venue": "J. of Bioscience and Bioengineering",
+        "year": "2019"
+      },
+      {
+        "title": "Daqu Fermentation Selects for Heat-Resistant Enterobacteriaceae and Bacilli",
+        "venue": "Applied and Environmental Microbiology",
+        "year": "2018"
+      },
+      {
+        "title": "Bioaugmented inoculation effect on microbiota dynamics during solid-state Daqu fermentation",
+        "venue": "(2016)",
+        "year": "2016"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.sciencedirect.com/author/35211332900/lixin-luo",
+      "https://www2.scut.edu.cn/biology_en/2015/0703/c5951a93358/page.htm"
+    ],
+    "tags": {
+      "research_field": [
+        "食品生物",
+        "发酵工程",
+        "微生物生态"
+      ],
+      "seniority": "资深教授(博导)",
+      "industry_potential": "中-高 — 食醋/酿造发酵、食品级乳酸菌应用导向强，对接调味品/酿造产业；未确认专利",
+      "collaboration": "高 — 酿造食品产业方向，校企合作基础好"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293844/page.htm",
+      "https://pubmed.ncbi.nlm.nih.gov/31023532/",
+      "https://pubmed.ncbi.nlm.nih.gov/30120119/"
+    ],
+    "email": "btlxluo@scut.edu.cn",
+    "office": "B6-204",
+    "research_official": "发酵工程、微生物学、环境生物技术",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "谢建凌",
+    "name_en": "Jianling Xie",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2023/0208/c15457a490879/page.htm",
+    "research_areas": [
+      "蛋白质合成与折叠",
+      "mTOR/mRNA翻译调控信号通路",
+      "癌症研究",
+      "衰老",
+      "药物研发"
+    ],
+    "education": "本科墨西哥城La Salle大学生化制药；硕士、博士英国莱斯特大学细胞生理与药学",
+    "career": "博士后英国南安普顿大学；研究员澳大利亚SAHMRI、弗林德斯大学；现华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "MNKs act as a regulatory switch for eIF4E1 and eIF4E3 driven mRNA translation in DLBCL",
+        "venue": "Nature Communications",
+        "year": "2014"
+      },
+      {
+        "title": "Reciprocal signaling between mTORC1 and MNK2 controls cell growth and oncogenesis",
+        "venue": "Cellular and Molecular Life Sciences",
+        "year": "2020"
+      },
+      {
+        "title": "Signaling Pathways Involved in the Regulation of mRNA Translation",
+        "venue": "Molecular and Cellular Biology",
+        "year": "2018"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "30"
+    },
+    "external_links": [
+      "https://www.researchgate.net/profile/Jianling-Xie"
+    ],
+    "tags": {
+      "research_field": [
+        "分子生物学",
+        "细胞信号转导",
+        "肿瘤生物学",
+        "蛋白质翻译"
+      ],
+      "seniority": "资深教授(博导，海外多机构研究经历)",
+      "industry_potential": "中 — 研究偏基础(mTOR/翻译调控)，与癌症治疗、重组蛋白(CHO)生产相关有转化潜力；未发现专利",
+      "collaboration": "高 — 长期国际合作(英国莱斯特/南安普顿、澳洲SAHMRI/弗林德斯)，方向多学科交叉"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2023/0208/c15457a490879/page.htm",
+      "https://www.researchgate.net/profile/Jianling-Xie"
+    ],
+    "email": "jianlingxie@scut.edu.cn",
+    "office": "B6-402",
+    "research_official": "疾病生物学(前列腺癌/结直肠癌/乙肝)、小分子及中医药药物研发、肠道微生物、蛋白质合成与折叠信号通路、免疫系统与疾病、干细胞应用",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "邓岭",
+    "name_en": "Ling Deng",
+    "title": "教授",
+    "email": "deng@scut.edu.cn",
+    "office": "",
+    "profile_url": "",
+    "research_areas": [
+      "待确认(官网研究方向空缺，多渠道检索未能定位可靠个人主页/可确证方向)"
+    ],
+    "education": "",
+    "career": "学院曾公示拟聘'邓岭'，疑为近年引进教师；具体履历未检索到",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [],
+    "tags": {
+      "research_field": [],
+      "seniority": "未知(疑似新引进)",
+      "industry_potential": "待核实 — 信息不足",
+      "collaboration": "待核实 — 信息不足"
+    },
+    "confidence": "low",
+    "data_caveat": "官网研究方向空缺，重名'Ling Deng'(哥本哈根大学噬菌体方向)无法确认为同一人已剔除；信息不足待补",
+    "sources": [
+      "WebSearch: 华南理工大学生物科学与工程学院 拟聘 邓岭 公示"
+    ],
+    "research_official": "",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "郑穗平",
+    "name_en": "Suiping Zheng",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293924/page.htm",
+    "research_areas": [
+      "发酵工程",
+      "酶工程",
+      "微生物基因组学/代谢调控",
+      "毕赤酵母外源蛋白高效表达",
+      "细胞表面展示"
+    ],
+    "education": "华南理工大学生物化工学士(1989-1993)；发酵工程硕博连读博士(1993-1998，导师郭勇)；2003-2004意大利博洛尼亚大学访学",
+    "career": "1998年至今华南理工大学生物科学与工程学院；2003年副教授，现教授；微生物学教研团队负责人，曾/现任学院副院长",
+    "talent_titles": [
+      "国家级精品课程《酶工程》负责人",
+      "广东省发酵与酶工程重点实验室固定研究人员"
+    ],
+    "representative_papers": [
+      {
+        "title": "Accurate analysis of fusion expression of Pichia pastoris GPI-modified cell wall proteins",
+        "venue": "Journal of Industrial Microbiology and Biotechnology",
+        "year": "2017"
+      },
+      {
+        "title": "Comprehensive structural annotation of Pichia pastoris transcriptome (deep paired-end RNA-seq)",
+        "venue": "BMC Genomics",
+        "year": "2012"
+      },
+      {
+        "title": "High-Level Expression of A Thermo-Alkaline Pectate Lyase in Pichia pastoris for Ramie Degumming",
+        "venue": "Frontiers in Bioengineering and Biotechnology",
+        "year": "2020"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://academic.oup.com/jimb/article/44/9/1355/5995760"
+    ],
+    "tags": {
+      "research_field": [
+        "发酵工程",
+        "酶工程",
+        "蛋白表达/合成生物学"
+      ],
+      "seniority": "资深教授(学院副院长)",
+      "industry_potential": "中 — 应用导向(毕赤酵母蛋白表达、果胶裂解酶苎麻脱胶)，未确认具体专利",
+      "collaboration": "高 — 团队负责人兼副院长，主持国家级课程，合作网络广"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293924/page.htm",
+      "https://academic.oup.com/jimb/article/44/9/1355/5995760"
+    ],
+    "email": "spzheng@scut.edu.cn",
+    "office": "B6-205",
+    "research_official": "发酵工程、生物化工、微生物学、生化与分子生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "陈庭坚",
+    "name_en": "Tingjian Chen",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2019/0121/c15457a304165/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "化学生物学",
+      "蛋白质工程/酶工程(聚合酶定向进化)",
+      "非天然核酸(XNA)",
+      "半合成生命",
+      "核酸药物/检测/生物材料"
+    ],
+    "education": "清华大学化工系学士(2002-2006)、博士(2006-2011，生物化工)",
+    "career": "美国Scripps研究所博士后(2011-2018，Floyd E. Romesberg组)；2018年起华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": [
+      "华南理工大学'兴华学者'精英学者"
+    ],
+    "representative_papers": [
+      {
+        "title": "A semi-synthetic organism with an expanded genetic alphabet",
+        "venue": "Nature",
+        "year": "2014"
+      },
+      {
+        "title": "A solid-phase enzymatic synthesis platform for FANA and chimeric XNA oligonucleotides",
+        "venue": "Nucleic Acids Research",
+        "year": "2025"
+      },
+      {
+        "title": "Reverse Transcription/Replication of 2'-Modified Nucleic Acids with Evolved Thermophilic Polymerases",
+        "venue": "ACS Synthetic Biology",
+        "year": "2023"
+      }
+    ],
+    "patents": [
+      {
+        "title": "Polymerase chain transcription (PCT): exponential synthesis of RNA and modified RNA",
+        "patent_no": "WO2019014359A2",
+        "year": "2019"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://scholar.google.com/citations?user=SICdt8AAAAAJ",
+      "https://www.researchgate.net/profile/Tingjian-Chen"
+    ],
+    "tags": {
+      "research_field": [
+        "生物制造",
+        "医药生物",
+        "合成生物学"
+      ],
+      "seniority": "中生代教授(独立PI/博导，Scripps背景)",
+      "industry_potential": "高 — 方向偏应用(核酸药物/酶法DNA合成/检测/生物材料)，持有美国发明专利",
+      "collaboration": "高 — 方向应用性强、招博士后与研究生、国际合作背景，适合核酸药物/DNA合成产业合作"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2019/0121/c15457a304165/page.htm",
+      "https://patents.google.com/patent/WO2019014359A2/en",
+      "https://www.nature.com/articles/nature13314"
+    ],
+    "email": "chentj@scut.edu.cn",
+    "office": "B6-214",
+    "research_official": "合成生物学、化学生物学、生化与分子生物学、微生物学、生物化工、医药生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "韩双艳",
+    "name_en": "Shuangyan Han",
+    "title": "教授",
+    "title_note": "三级教授，博士生导师",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293893/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "酶工程",
+      "发酵工程",
+      "应用微生物代谢工程",
+      "工业酶设计研发与催化",
+      "碳一(C1)化合物转化",
+      "微生物细胞工厂",
+      "食品安全"
+    ],
+    "education": "1976年生。河南大学发酵工程学士(1995-1999)；华南理工大学生物化工硕士(提前攻博)、发酵工程博士(2000-2004)",
+    "career": "2004讲师→2009副教授→2014教授、博导，华南理工大学生物科学与工程学院；2012-2013美国UC Davis访学；2017-2018科技部中国生物技术发展中心挂职；广东省发酵与酶工程重点实验室副主任",
+    "talent_titles": [
+      "三级教授",
+      "广东省发酵与酶工程重点实验室副主任",
+      "中国食品科学技术学会酶制剂分会理事",
+      "中国生物工程学会一碳生物技术专委会委员"
+    ],
+    "representative_papers": [
+      {
+        "title": "Metabolic engineering of S. cerevisiae for valuable chemicals (综述, 通讯)",
+        "venue": "Critical Reviews in Biotechnology",
+        "year": "2023"
+      },
+      {
+        "title": "High-level expression of thermo-stable alkaline xylanase variant in Pichia pastoris",
+        "venue": "Scientific Reports",
+        "year": "2016"
+      },
+      {
+        "title": "Enhancement of thermoalkaliphilic xylanase production by Pichia pastoris (fed-batch)",
+        "venue": "BMC Biotechnology",
+        "year": "2017"
+      }
+    ],
+    "patents": [
+      {
+        "title": "一种优化的发酵高产几丁质酶的方法",
+        "patent_no": "CN103571810A",
+        "year": "2014"
+      },
+      {
+        "title": "一种热稳定的果胶裂解酶突变体及其制备方法",
+        "patent_no": "申请号 CN2024101215466",
+        "year": "2024"
+      },
+      {
+        "title": "冠突曲霉葡萄糖氧化酶在改善面粉加工品质中的应用",
+        "patent_no": "",
+        "year": ""
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "50+(授权专利20余件)"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76150",
+      "https://baike.baidu.com/item/韩双艳/812807"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "酶工程",
+        "发酵工程",
+        "代谢工程",
+        "生物制造",
+        "C1生物技术",
+        "食品安全"
+      ],
+      "seniority": "资深三级教授(博导，重点实验室副主任)",
+      "industry_potential": "高 — 高度应用导向(工业酶、毕赤酵母重组表达、发酵工艺、食品用酶)，授权专利20余件并获中国专利优秀奖，可直接产业化",
+      "collaboration": "高 — 多项国家重点研发/国自然/省市重大项目负责人，UC Davis访学+科技部挂职，团队活跃产学研网络广"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293893/page.htm",
+      "https://baike.baidu.com/item/韩双艳/812807",
+      "https://patents.google.com/patent/CN103571810A/zh"
+    ],
+    "email": "syhan@scut.edu.cn",
+    "office": "B6-312",
+    "research_official": "合成生物学、酶工程、发酵工程、食品安全",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "马毅",
+    "name_en": "Ma Yi",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294191/page.htm",
+    "research_areas": [
+      "蛋白质科学与蛋白质工程",
+      "合成生物学",
+      "纳米生物学",
+      "生物制药"
+    ],
+    "education": "2004年湖南农业大学学士；2007年湖南大学硕士；2012年华南理工大学与德国法兰克福大学联合培养博士；法兰克福大学博士后",
+    "career": "2013年华南理工大学讲师；2016年晋升副教授(硕导)；2018年法兰克福大学访问学者",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www2.scut.edu.cn/biology_en/2017/0614/c5954a169040/page.htm"
+    ],
+    "tags": {
+      "research_field": [
+        "蛋白质工程",
+        "合成生物学",
+        "纳米生物学",
+        "生物制药"
+      ],
+      "seniority": "副教授(硕导)",
+      "industry_potential": "中 — 蛋白质工程/合成生物学/生物制药方向具应用前景，但未核实到专利/可转化成果",
+      "collaboration": "中 — 有德国法兰克福大学联合培养与访学背景，具国际合作通道"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15458a294191/page.htm",
+      "https://www2.scut.edu.cn/biology_en/2017/0614/c5954a169040/page.htm"
+    ],
+    "email": "bimayikobe@scut.edu.cn",
+    "office": "B6-316",
+    "research_official": "生化与分子生物学、微生物学、合成生物学、纳米生物学、药学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "Baimanov Didar",
+    "name_en": "Didar Baimanov",
+    "title": "副教授",
+    "email": "didar@scut.edu.cn",
+    "office": "B6-316",
+    "profile_url": "https://www2.scut.edu.cn/biology/2025/0915/c15458a602495/page.psp",
+    "research_areas": [
+      "纳米生物界面",
+      "手性纳米材料生物效应",
+      "纳米酶",
+      "蛋白冠(protein corona)",
+      "纳米安全性与纳米医学",
+      "脂质纳米颗粒细胞识别"
+    ],
+    "education": "博士；外籍学者(疑哈萨克斯坦籍)。博士及博士后在中科院国家纳米科学中心/中科院高能物理所(IHEP)从事纳米生物效应研究，与陈春英(Chunying Chen)团队合作。ORCID 0000-0002-5805-3303",
+    "career": "曾任中科院高能物理所博士后/研究人员(纳米材料生物效应与纳米安全方向)；现任华南理工大学生物科学与工程学院副教授、硕/博导",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Mapping and identification of soft corona proteins at nanoparticles and their impact on cellular association",
+        "venue": "Nature Communications",
+        "year": "2020"
+      },
+      {
+        "title": "Selective regulation of macrophage lipid metabolism via nanomaterials' surface chemistry",
+        "venue": "Nature Communications",
+        "year": "2024"
+      },
+      {
+        "title": "Protein Corona-Mediated Inhibition of Nanozyme Activity: Impact of Protein Shape",
+        "venue": "JACS",
+        "year": "2024"
+      },
+      {
+        "title": "Identification of Cell Receptors Responsible for Recognition and Binding of Lipid Nanoparticles",
+        "venue": "JACS",
+        "year": "2025"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "40"
+    },
+    "external_links": [
+      "https://www.researchgate.net/profile/Didar-Baimanov",
+      "https://orcid.org/0000-0002-5805-3303"
+    ],
+    "tags": {
+      "research_field": [
+        "纳米生物界面",
+        "纳米酶",
+        "蛋白冠",
+        "纳米医学",
+        "手性纳米材料"
+      ],
+      "seniority": "青年学者(副教授，多篇Nat Commun/JACS高影响论文)",
+      "industry_potential": "中 — 纳米酶/纳米医学/LNP递送有转化潜力(肿瘤免疫、递送)，目前以基础机理为主，未见以其为发明人专利",
+      "collaboration": "高 — 与国家纳米科学中心陈春英院士团队、高能物理所等紧密合作，跨机构论文多"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2025/0915/c15458a602495/page.psp",
+      "https://www.nature.com/articles/s41467-024-52609-7",
+      "https://pubs.acs.org/doi/abs/10.1021/jacs.3c14046"
+    ],
+    "research_official": "纳米生物界面、手性纳米材料生物效应、纳米酶",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "傅宏鑫",
+    "name_en": "Hongxin Fu",
+    "title": "副教授",
+    "email": "hongxinfu@scut.edu.cn",
+    "office": "B6-305",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293862/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "微生物学",
+      "发酵工程",
+      "生物分离工程",
+      "代谢工程构建高效生产菌株",
+      "廉价原料发酵产生物基化学品/生物燃料(丁酸/丁醇/丁酸丁酯/1,3-丙二醇)",
+      "发酵过程控制与优化"
+    ],
+    "education": "大连理工大学生物化工博士(2009-2016)；其中2013-2015美国俄亥俄州立大学(S.-T. Yang团队)联合培养",
+    "career": "2016-2019华南理工大学博士后(助理研究员)；2020年9月起生物科学与工程学院副教授、硕导；主持国自然青年项目(21808069)等",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Metabolic engineering of Clostridium tyrobutyricum for enhanced butyric acid production from glucose and xylose",
+        "venue": "Metabolic Engineering",
+        "year": "2017"
+      },
+      {
+        "title": "Butyric acid production from lignocellulosic hydrolysates by engineered C. tyrobutyricum (glucose/xylose co-utilization)",
+        "venue": "Bioresource Technology",
+        "year": "2017"
+      },
+      {
+        "title": "Systems Metabolic Engineering of C. tyrobutyricum for 1,3-Propanediol Production From Crude Glycerol",
+        "venue": "Biotechnology and Bioengineering",
+        "year": "2025"
+      }
+    ],
+    "patents": [
+      {
+        "title": "一种合成GABA的基因工程酪丁酸梭菌(Clostridium tyrobutyricum)菌株",
+        "patent_no": "申请号 CN2023102047209",
+        "year": "2023"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "30"
+    },
+    "external_links": [
+      "https://pubmed.ncbi.nlm.nih.gov/28040464/"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "代谢工程",
+        "发酵工程",
+        "梭菌细胞工厂",
+        "生物基化学品/生物燃料",
+        "生物分离"
+      ],
+      "seniority": "青年学者(副教授，海外联合培养，应用导向)",
+      "industry_potential": "高 — 廉价原料(秸秆/甘油/木薯淀粉)发酵产丁酸、丁酸丁酯、1,3-丙二醇、GABA等生物基化学品，紧贴生物制造，已有工程菌株专利，转化路径清晰",
+      "collaboration": "高 — 师承S.-T. Yang(OSU)，与王菊芳团队等合作；归属省发酵与酶工程重点实验室"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293862/page.htm",
+      "https://pubmed.ncbi.nlm.nih.gov/28040464/"
+    ],
+    "research_official": "合成生物学、微生物学、发酵工程、生物分离工程",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "卓敏",
+    "name_en": "Min Zhuo",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293943/page.psp",
+    "research_areas": [
+      "非编码RNA(ncRNA)挖掘与应用",
+      "启动子等调控元件挖掘",
+      "分子生物学",
+      "生物质资源综合利用(团队成员)"
+    ],
+    "education": "湖南科技大学本科(1994-1998)；湖南农业大学生化与分子生物学硕士(1998-2001)；中山大学生化与分子生物学博士(2001-2004)",
+    "career": "2004讲师→2011副教授，华南理工大学生物科学与工程学院；2014-2015美国UNC教堂山访学",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [],
+    "tags": {
+      "research_field": [
+        "分子生物学",
+        "非编码RNA",
+        "基因调控元件"
+      ],
+      "seniority": "副教授",
+      "industry_potential": "低 — 偏基础(ncRNA与调控元件挖掘)，无专利证据",
+      "collaboration": "中 — 隶属朱明军团队，有海外访学经历"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293943/page.psp",
+      "https://www2.scut.edu.cn/biology/15444/list.htm"
+    ],
+    "email": "zhuomin@scut.edu.cn",
+    "office": "",
+    "research_official": "分子生物学与基因组学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "叶燕锐",
+    "name_en": "Yanrui Ye",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294202/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "微生物基因组编辑与人工进化",
+      "抗生素替代分子(抗菌肽)挖掘",
+      "定向固定化(高效菌种与固定化酶)",
+      "谷氨酸棒杆菌基因组工程"
+    ],
+    "education": "合成生物学/基因组工程背景",
+    "career": "华南理工大学生物科学与工程学院副教授；林章凛教授课题组成员；指导iGEM团队获金奖(2016/2020)",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Genomic Iterative Replacements of Large Synthetic DNA Fragments in Corynebacterium glutamicum",
+        "venue": "ACS Synthetic Biology",
+        "year": "2022"
+      },
+      {
+        "title": "CRISPR-Cpf1 assisted genome editing of Corynebacterium glutamicum",
+        "venue": "Nature Communications",
+        "year": "2017"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://scholar.google.com/citations?user=UR4EoMsAAAAJ"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "微生物基因组编辑",
+        "酶工程"
+      ],
+      "seniority": "中级副教授(林章凛团队骨干，iGEM金牌指导)",
+      "industry_potential": "中 — 基因组编辑工具与工业菌株(谷氨酸棒杆菌)、固定化酶及抗菌肽兼具基础与应用，工具/菌株具转化潜力(未列授权专利)",
+      "collaboration": "高 — 林章凛课题组核心成员，长期合作发表，深度参与iGEM指导"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15458a294202/page.htm",
+      "https://scholar.google.com/citations?user=UR4EoMsAAAAJ"
+    ],
+    "email": "esyanruiye@scut.edu.cn",
+    "office": "B6-406",
+    "research_official": "功能酶分子挖掘与结构改造、高效生物催化体系与微生物细胞工厂设计、基于酶催化的绿色生物制造",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "周世水",
+    "name_en": "Shishui Zhou",
+    "title": "副教授",
+    "email": "hgzhouss@scut.edu.cn",
+    "office": "B6-301",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294213/page.psp",
+    "research_areas": [
+      "发酵工程",
+      "微生物学",
+      "微生物工程工艺原理",
+      "生物工程产品质量管理",
+      "发酵工程设备与工艺"
+    ],
+    "education": "博士(学位授予单位/年份未在第三方公开来源确认)",
+    "career": "华南理工大学生物科学与工程学院副教授、硕导；讲授《微生物工程工艺原理》《生物工程产品质量管理》等；参编《微生物工程工艺原理》《发酵工程》教材(偏教学型)",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76172"
+    ],
+    "tags": {
+      "research_field": [
+        "发酵工程",
+        "微生物学",
+        "微生物工程工艺"
+      ],
+      "seniority": "教学型副教授(以教学/教材为主，独立科研公开度低)",
+      "industry_potential": "中 — 发酵工程/微生物工艺贴近生物制造与发酵产业，有工艺优化/中试对接价值，但未检索到核心专利/标志论文",
+      "collaboration": "中 — 工艺与质量管理经验适合产业化配合，公开科研信息稀少"
+    },
+    "confidence": "low",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15458a294213/page.psp",
+      "https://www.x-mol.com/university/faculty/76172"
+    ],
+    "research_official": "发酵工程、微生物学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "周婷",
+    "name_en": "Ting Zhou",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293940/page.htm",
+    "research_areas": [
+      "分析化学/质谱分析",
+      "代谢组学",
+      "脂质分析",
+      "生物质资源综合利用(团队成员)"
+    ],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院副教授；朱明军'生物质资源综合利用'团队成员",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [],
+    "tags": {
+      "research_field": [
+        "分析化学",
+        "代谢组学",
+        "质谱"
+      ],
+      "seniority": "副教授",
+      "industry_potential": "中 — 质谱/代谢组学方法学有诊断与生物质分析潜力，专利号未确认",
+      "collaboration": "中 — 隶属朱明军团队，独立合作证据有限"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293940/page.htm",
+      "https://www2.scut.edu.cn/biology/15444/list.htm"
+    ],
+    "email": "tingzhou@scut.edu.cn",
+    "office": "B6-502",
+    "research_official": "医药生物学、生化与分子生物学、药学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "李志刚",
+    "name_en": "Li Zhigang",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293909/page.htm",
+    "research_areas": [
+      "酶工程",
+      "发酵工程",
+      "分离工程",
+      "双水相/多液相反应与分离偶联",
+      "界面酶催化体系"
+    ],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院副教授、硕导；2011-2017讲师，2017至今副教授",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [
+      {
+        "title": "酶法手性物质拆分相关方法",
+        "patent_no": "",
+        "year": "2021"
+      },
+      {
+        "title": "富集多不饱和脂肪酸的方法",
+        "patent_no": "",
+        "year": "2019"
+      },
+      {
+        "title": "三液相脂肪酶催化体系用于油脂水解/酶法脱胶",
+        "patent_no": "",
+        "year": "2014"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "10"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/309759",
+      "https://xueshu.baidu.com/scholarID/CN-B673QIJJ"
+    ],
+    "tags": {
+      "research_field": [
+        "酶工程",
+        "发酵工程",
+        "分离工程"
+      ],
+      "seniority": "副教授(硕导)",
+      "industry_potential": "高 — 双水相/多液相界面酶催化与分离偶联应用性强(油脂水解、手性药物拆分、PUFA富集)，官方页注明多项专利",
+      "collaboration": "中 — 分离工程与酶催化适合与油脂/制药/生物分离企业合作，未见具体合作方"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293909/page.htm",
+      "https://www.x-mol.com/university/faculty/309759"
+    ],
+    "email": "bizgl@scut.edu.cn",
+    "office": "B6-318",
+    "research_official": "酶工程、发酵工程、分离工程",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "李晶",
+    "name_en": "Jing Li",
+    "title": "副教授",
+    "email": "lij@scut.edu.cn",
+    "office": "B6-414",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293902/page.htm",
+    "research_areas": [
+      "医药生物学",
+      "药物化学",
+      "药学",
+      "降尿酸/抗高尿酸血症新药研发",
+      "黄嘌呤氧化酶(XOR)抑制剂",
+      "URAT1抑制剂",
+      "靶向药物设计",
+      "高尿酸血症筛选模型与动物模型"
+    ],
+    "education": "中国药科大学药学(理科基地班)学士(1998-2002)；药物化学博士(2002-2007)",
+    "career": "2007-2011华南理工大学化学与化工学院讲师；2011年起生物科学与工程学院讲师、副教授；讲授《药物化学》《靶向药物设计与实践》",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [
+      {
+        "title": "一种三环类XOR抑制剂及其制备方法和应用(含PCT/CN2019/125525)",
+        "patent_no": "CN201910583434.1",
+        "year": "2019"
+      },
+      {
+        "title": "氧取代苯基咪唑类XOR/URAT1双重抑制剂及其制备和应用",
+        "patent_no": "CN201910583445.X",
+        "year": "2019"
+      },
+      {
+        "title": "一种苯基咪唑类XOR抑制剂及其制备和应用",
+        "patent_no": "CN201910408343.4",
+        "year": "2019"
+      },
+      {
+        "title": "一种URAT1抑制剂体外活性筛选的细胞模型及构建/筛选方法",
+        "patent_no": "CN202110217540.5",
+        "year": "2021"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.cqvip.com/author/4333640497/detail"
+    ],
+    "tags": {
+      "research_field": [
+        "药物化学",
+        "降尿酸新药",
+        "XOR/URAT1抑制剂",
+        "靶向药物设计",
+        "医药生物学"
+      ],
+      "seniority": "中坚教学科研型副教授(中国药科大学药化博士)",
+      "industry_potential": "高 — 聚焦高尿酸血症/痛风创新药(XOR、URAT1、双重抑制剂)，多项发明专利(含PCT)及筛选模型专利，医药转化方向明确、市场需求大",
+      "collaboration": "中 — 药化-药学交叉、有专利产出，具备与药企合作及新药开发对接潜力"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293902/page.htm",
+      "https://www.cqvip.com/author/4333640497/detail"
+    ],
+    "research_official": "医药生物学、药物化学、药学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "李趣欢",
+    "name_en": "Quhuan Li",
+    "title": "副教授",
+    "email": "liqh@scut.edu.cn",
+    "office": "B6-401",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294177/page.htm",
+    "research_areas": [
+      "细胞分子生物力学",
+      "生物信息学",
+      "细胞黏附分子(整合素/选择素)力学调控",
+      "炎症与肿瘤转移力学生物学",
+      "分子动力学模拟(steered MD)",
+      "肿瘤生物力学与药物输运"
+    ],
+    "education": "博士；生物力学/力学生物学方向，归属华南理工大学生物力学研究所",
+    "career": "华南理工大学生物科学与工程学院副教授、硕导；主持国自然青年基金、广东省自然科学基金、广东省海外高层次人才项目等",
+    "talent_titles": [
+      "广东省海外高层次人才(2021-2023)"
+    ],
+    "representative_papers": [
+      {
+        "title": "Force-Regulated Calcium Signaling of RPMI 8226 Mediated by Integrin α4β7/MAdCAM-1 in Flow",
+        "venue": "(生物力学相关期刊)",
+        "year": "2023"
+      },
+      {
+        "title": "Force-enhanced biophysical connectivity of platelet β3 integrin signaling through Talin (steered MD)",
+        "venue": "(2022)",
+        "year": "2022"
+      },
+      {
+        "title": "Spatiotemporal characteristics of P-selectin-induced β2 integrin activation of neutrophils under flow",
+        "venue": "Frontiers in Immunology",
+        "year": "2022"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "20"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76176"
+    ],
+    "tags": {
+      "research_field": [
+        "细胞分子生物力学",
+        "力学生物学",
+        "整合素/选择素",
+        "分子动力学模拟",
+        "生物信息学"
+      ],
+      "seniority": "青年学者(副教授，海外高层次人才)",
+      "industry_potential": "低 — 以细胞黏附力学机理、整合素活化、分子动力学模拟等基础研究为主，未见授权专利，距直接产业转化较远",
+      "collaboration": "中 — 生物力学+生物信息交叉，适合与免疫、肿瘤、计算建模团队合作；归属生物力学研究所"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15458a294177/page.htm",
+      "https://www.x-mol.com/university/faculty/76176"
+    ],
+    "research_official": "细胞分子生物力学、生物信息学",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "杨小蓉",
+    "name_en": "Xiaorong Yang",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293936/page.htm",
+    "research_areas": [
+      "生物大分子结构-运动-功能关系",
+      "生物大分子与小分子相互作用",
+      "物理化学/分析化学",
+      "生物药剂学"
+    ],
+    "education": "重庆大学精细化工本科(1992-1996)；中科院北京化学所分析化学硕士(2000-2003)；德国Stuttgart大学物理化学博士(2003-2007)",
+    "career": "美国Penn State博士后(2008-2014)；2014年10月起华南理工大学生物科学与工程学院副教授",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [],
+    "tags": {
+      "research_field": [
+        "生物物理化学",
+        "生物大分子相互作用"
+      ],
+      "seniority": "中级副教授(2014起，教学为主)",
+      "industry_potential": "低 — 偏基础的生物大分子结构与相互作用研究，未检索到专利或应用转化",
+      "collaboration": "低 — 公开学术产出/合作信息有限，以本科教学为主"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293936/page.htm"
+    ],
+    "email": "birxyang@scut.edu.cn",
+    "office": "B6-508",
+    "research_official": "生化与分子生物学、医药生物学、生物学、生物化工、环境生物技术",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "杨晓锋",
+    "name_en": "Xiaofeng Yang",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293957/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "蛋白质智能设计(AI for protein)",
+      "蛋白与多肽药物",
+      "噬菌体裂解酶挖掘",
+      "蛋白表达与纯化(自聚集标签)"
+    ],
+    "education": "合成生物学/自聚集标签方向背景",
+    "career": "华南理工大学生物科学与工程学院副教授，硕/博导；领导AI蛋白设计/合成生物学课题组(与林章凛团队渊源)",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "DeepMineLys: Deep mining of phage lysins from human microbiome",
+        "venue": "Cell Reports",
+        "year": "2024"
+      },
+      {
+        "title": "Cleavable Self-Aggregating Tags (cSAT) for Therapeutic Peptide Expression and Purification",
+        "venue": "(自聚集标签研究)",
+        "year": "2022"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.researchgate.net/profile/Xiaofeng-Yang-4"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "AI蛋白质设计",
+        "多肽/蛋白药物"
+      ],
+      "seniority": "中级偏上副教授(硕/博导，发Cell Reports等)",
+      "industry_potential": "高 — AI驱动蛋白/多肽药物设计、噬菌体裂解酶(抗耐药菌)及无柱层析蛋白纯化技术，转化潜力大(未检索到授权专利)",
+      "collaboration": "高 — 与广东工业大学林章凛团队等合作发表(Cell Reports)，跨机构合成生物学合作活跃"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293957/page.htm",
+      "https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00912-4"
+    ],
+    "email": "biyangxf@scut.edu.cn",
+    "office": "B6-406",
+    "research_official": "合成生物学、蛋白质工程、AI+Bio",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "田霄飞",
+    "name_en": "Tian Xiaofei",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/_t1780/2018/1107/c15458a293932/page.psp",
+    "research_areas": [
+      "真菌次级代谢产物发酵及生物制备技术",
+      "绿色生物制浆漂白技术",
+      "微生物辐照与水热灭菌技术"
+    ],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院副教授",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [],
+    "tags": {
+      "research_field": [
+        "发酵工程",
+        "生物制浆",
+        "灭菌技术"
+      ],
+      "seniority": "副教授",
+      "industry_potential": "中 — 绿色生物制浆漂白/生物制备有轻工/造纸应用，未核实专利",
+      "collaboration": "中 — 工艺应用方向可对接轻工企业，公开信息有限"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/_t1780/2018/1107/c15458a293932/page.psp"
+    ],
+    "email": "xtien@scut.edu.cn",
+    "office": "B6-305",
+    "research_official": "微生物技术",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "罗剑飞",
+    "name_en": "Jianfei Luo",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294197/page.htm",
+    "research_areas": [
+      "微生物生态学",
+      "氨氧化古菌/细菌(AOA/AOB)",
+      "硫氧化菌",
+      "元素生物地球化学循环",
+      "难培养微生物分离/富集/培养",
+      "环境微生物修复",
+      "生物能源"
+    ],
+    "education": "",
+    "career": "华南理工大学生物科学与工程学院副教授；微生物生态与环境保护研究团队(林炜铁团队)成员",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Sealing solid agar in serum bottles for rapid isolation/preservation of chemoautotrophic ammonia-oxidizing bacteria",
+        "venue": "Water Research",
+        "year": "2024"
+      },
+      {
+        "title": "Removal of Mg2+ inhibition benefited growth/isolation of ammonia-oxidizing bacteria",
+        "venue": "Science of the Total Environment",
+        "year": "2022"
+      },
+      {
+        "title": "A Two-Step Strategy for Rapid Enrichment of Nitrosocosmicus-Like Ammonia-Oxidizing Thaumarchaea",
+        "venue": "Frontiers in Microbiology",
+        "year": "2019"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www2.scut.edu.cn/biology/15444/list.htm"
+    ],
+    "tags": {
+      "research_field": [
+        "微生物生态学",
+        "环境微生物",
+        "氨氧化古菌/硝化",
+        "硫氧化菌"
+      ],
+      "seniority": "副教授",
+      "industry_potential": "中 — 硝化/水产养殖与废水处理微生物有环境工程应用，但偏基础生态，未确认专利",
+      "collaboration": "中 — 与林炜铁团队合作，环境/水处理方向有跨学科空间，偏学术导向"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15458a294197/page.htm",
+      "https://pubmed.ncbi.nlm.nih.gov/35577082/"
+    ],
+    "email": "ljfjf2002@scut.edu.cn",
+    "office": "B6-301",
+    "research_official": "环境微生物学、微生物生态学、环境微生物技术",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "黄黎珍",
+    "name_en": "Lizhen Huang",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294068/page.htm",
+    "research_areas": [
+      "药物代谢模型体系",
+      "药物毒性机制/肝毒性",
+      "人源化疾病动物模型(TgCYP3A4/hPXR小鼠)",
+      "基因打靶(TALEN/CRISPR-Cas9/piggyBac)",
+      "细胞色素P450肝细胞模型"
+    ],
+    "education": "江西农业大学动物医学学士(2000-2004)；南方医科大学实验动物学硕士(2004-2007)、人体解剖与组织胚胎学博士(2007-2010)",
+    "career": "2011年起华南理工大学生物科学与工程学院副教授；主持国家自然科学基金青年项目等",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Optimized cytotoxicity assay for CYP3A4-mediated metabolic activation via modified piggyBac (第一作者)",
+        "venue": "Toxicology in Vitro",
+        "year": "2016"
+      },
+      {
+        "title": "Diclofenac and metabolites in immune activation/acute hepatotoxicity in TgCYP3A4/hPXR mice",
+        "venue": "International Immunopharmacology",
+        "year": "2020"
+      }
+    ],
+    "patents": [
+      {
+        "title": "人细胞色素P450 3A5酶及P450氧化还原酶共表达体系(权利人华南理工大学)",
+        "patent_no": "CN103937829A",
+        "year": "2014"
+      },
+      {
+        "title": "CRISPR/Cas9介导药物转运体敲除Caco-2细胞模型及方法",
+        "patent_no": "申请号 CN201710911586.0",
+        "year": "2017"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "RG约63篇/被引约755(RG口径)"
+    },
+    "external_links": [
+      "https://www.researchgate.net/profile/Lizhen-Huang-5",
+      "https://patents.google.com/patent/CN103937829A/zh"
+    ],
+    "tags": {
+      "research_field": [
+        "药物代谢",
+        "药物毒理学/肝毒性",
+        "CYP450体外模型",
+        "基因编辑",
+        "实验动物学"
+      ],
+      "seniority": "中级副教授(2011起)",
+      "industry_potential": "中 — 面向制药应用(药物代谢/安全性筛选、CYP3A4毒性、人源化DILI模型、Caco-2转运体)，持发明专利(细胞模型平台)，但无商业化证据",
+      "collaboration": "中 — 团队稳定，与CRO/制药ADMET需求契合，国际/高影响合作可见度有限"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15458a294068/page.htm",
+      "https://patents.google.com/patent/CN103937829A/zh"
+    ],
+    "email": "huanglzh@scut.edu.cn",
+    "office": "B6-216",
+    "research_official": "CRISPR技术创新与生物医学应用",
+    "roster_status": "现任(官网师资页2026)"
+  },
+  {
+    "name": "吴建华",
+    "name_en": "Wu Jianhua",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2020/0413/c15457a372174/page.htm",
+    "research_areas": [
+      "细胞分子生物力学",
+      "细胞黏附与胞内信号转导",
+      "计算生物物理与生物信息学",
+      "计算机抗体分子药物设计",
+      "靶向止(凝)血药物开发"
+    ],
+    "education": "浙江大学流体力学(1978-1982)；武汉理工大学工学博士(1985-1988)；北京大学博士后(1989-1991)",
+    "career": "2007年起华南理工大学生物科学与工程学院教授、博导；生物力学研究所所长、生物力学学科带头人；美国佐治亚理工访问教授(2001-2003)",
+    "talent_titles": [
+      "生物力学研究所所长",
+      "生物力学学科带头人"
+    ],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "70+"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76156"
+    ],
+    "tags": {
+      "research_field": [
+        "生物力学",
+        "计算生物物理",
+        "靶向药物设计"
+      ],
+      "seniority": "资深教授(博导/研究所所长，资历深)",
+      "industry_potential": "中 — 靶向止凝血药物与计算机抗体设计有医药方向，偏基础/计算，未核实专利",
+      "collaboration": "高 — 研究所所长、学科带头人，跨力学/计算/生物信息，海外背景"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2020/0413/c15457a372174/page.htm",
+      "https://www.x-mol.com/university/faculty/76156"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "林章凛",
+    "name_en": "Lin Zhanglin",
+    "title": "教授",
+    "title_note": "2022年起主要任职中国科学院深圳先进技术研究院，SCUT为既有/曾任职页面",
+    "profile_url": "https://www2.scut.edu.cn/biology/2019/1113/c15457a345008/page.htm",
+    "research_areas": [
+      "合成生物学(微生物抗逆基因线路、工业微生物基因组与噬菌体设计合成、AI在生物学应用)",
+      "生物制药(多肽药物高效制备)",
+      "蛋白质定向进化/蛋白质工程"
+    ],
+    "education": "清华大学化工/经济学双学士(1985-1990)；美国马里兰大学生化工程硕士(1990-1993)、分子与细胞生物学博士(1993-1996)；美国加州理工学院(Frances Arnold实验室)博士后(1996-1999)",
+    "career": "华南理工大学生物科学与工程学院教授、博导；曾任清华大学化工系生物工程教授约15年；2022年起任中科院深圳先进技术研究院教授",
+    "talent_titles": [
+      "教育部长江学者特聘教授",
+      "清华大学百人计划",
+      "973计划(合成生物学)首席科学家"
+    ],
+    "representative_papers": [
+      {
+        "title": "Streamlined protein expression and purification using cleavable self-aggregating tags (cSAT)",
+        "venue": "Microbial Cell Factories",
+        "year": "2011"
+      },
+      {
+        "title": "Genomic Iterative Replacements of Large Synthetic DNA Fragments in Corynebacterium glutamicum",
+        "venue": "ACS Synthetic Biology",
+        "year": "2022"
+      },
+      {
+        "title": "An iterative deep learning-guided algorithm for directed protein evolution (DeepDE)",
+        "venue": "iScience",
+        "year": "2025"
+      }
+    ],
+    "patents": [
+      {
+        "title": "Inducible self-cleaving protease tag for purifying recombinant proteins",
+        "patent_no": "US20130012687A1",
+        "year": "2013"
+      },
+      {
+        "title": "Method for purifying proteins/peptides using cleavable self-aggregating tags (cSAT)",
+        "patent_no": "WO2022253266A1",
+        "year": "2022"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://www.semanticscholar.org/author/Zhanglin-Lin/3541501",
+      "http://www.cssb.tsinghua.edu.cn/en/core-staff/item/124-2015-10-22-13-22-38"
+    ],
+    "tags": {
+      "research_field": [
+        "合成生物学",
+        "蛋白质定向进化/工程",
+        "生物制药",
+        "AI for protein"
+      ],
+      "seniority": "顶尖资深学者(长江学者特聘教授；原清华、现中科院深圳先进院)",
+      "industry_potential": "高 — 蛋白质纯化(cSAT)、多肽药物制备、定向进化工业生物催化剂强应用导向，拥有美国及PCT专利",
+      "collaboration": "高 — 知名学者，国际(Caltech)与国内(清华/中科院深圳先进院)网络广泛(注:现主要任职中科院深圳先进院)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2019/1113/c15457a345008/page.htm",
+      "https://patents.google.com/patent/US20130012687A1/en"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "王领",
+    "name_en": "Wang Ling",
+    "title": "教授",
+    "title_note": "官网/科研之友标教授(博导)，LinkedIn标副教授，存在表述冲突，以官网为准",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15457a294205/page.htm",
+    "research_areas": [
+      "药物分子设计方法",
+      "抗肿瘤药物设计与发现",
+      "药物化学",
+      "药理学",
+      "药物化学生物学"
+    ],
+    "education": "药物化学博士",
+    "career": "华南理工大学生物科学与工程学院生物制药系主任、院长助理；曾任国家自然科学基金委化学科学部药物化学生物学流项主任",
+    "talent_titles": [
+      "广东省杰出青年基金获得者",
+      "生物制药系主任"
+    ],
+    "representative_papers": [
+      {
+        "title": "抗肿瘤药物设计相关研究(第一/通讯)",
+        "venue": "Journal of Medicinal Chemistry",
+        "year": ""
+      },
+      {
+        "title": "药物分子设计相关研究",
+        "venue": "European Journal of Medicinal Chemistry",
+        "year": ""
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "1550+",
+      "h_index": "24",
+      "paper_count_est": "60+(第一/通讯SCI约40篇)"
+    },
+    "external_links": [
+      "https://www.scholarmate.com/P/mAB3Ez"
+    ],
+    "tags": {
+      "research_field": [
+        "药物化学",
+        "计算药物设计",
+        "抗肿瘤药物"
+      ],
+      "seniority": "中坚-资深(教授/博导/省杰青)",
+      "industry_potential": "高 — 抗肿瘤药物设计与发现直接面向新药研发，引用量高产出活跃(未核实专利)",
+      "collaboration": "高 — 曾任基金委流项主任、系主任，学术网络广，h指数突出"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15457a294205/page.htm",
+      "https://www.scholarmate.com/P/mAB3Ez"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "肖波涛",
+    "name_en": "Botao Xiao",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2017/0929/c3441a211241/page.htm",
+    "research_areas": [
+      "细胞分子生物力学",
+      "单分子生物学",
+      "纳米医药生物学",
+      "DNA与染色体组装",
+      "高通量微纳米测控"
+    ],
+    "education": "博士(生物物理/单分子方向)，曾在美国机构研究",
+    "career": "曾在美国西北大学(J.F. Marko组)、UC Berkeley(R. Heald组)从事单分子生物物理研究；2017年至今华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Force-driven unbinding of proteins HU and Fis from DNA quantified using a thermodynamic Maxwell relation",
+        "venue": "Nucleic Acids Research",
+        "year": "2011"
+      },
+      {
+        "title": "Histone H1 compacts DNA under force and during chromatin assembly",
+        "venue": "Molecular Biology of the Cell",
+        "year": "2012"
+      },
+      {
+        "title": "A Horizontal Magnetic Tweezers and Its Use for Studying Single DNA Molecules",
+        "venue": "Micromachines",
+        "year": "2018"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "30"
+    },
+    "external_links": [
+      "https://www.researchgate.net/scientific-contributions/Botao-Xiao-39664476"
+    ],
+    "tags": {
+      "research_field": [
+        "生物物理",
+        "单分子生物学",
+        "DNA/染色质力学",
+        "纳米生物学"
+      ],
+      "seniority": "资深教授(博导，海外名校训练，国基金连续资助)",
+      "industry_potential": "中 — 含纳米医药、高通量微纳米测控等应用交叉，仪器(磁镊)研发有转化空间；未确认专利",
+      "collaboration": "高 — 前沿交叉学科，与哈佛、美国西北大学及企业合作"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2017/0929/c3441a211241/page.htm",
+      "https://www.researchgate.net/scientific-contributions/Botao-Xiao-39664476"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "魏坤",
+    "name_en": "Wei Kun",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293919/page.htm",
+    "research_areas": [
+      "纳米靶向药物",
+      "仿生类骨纳米生物材料",
+      "纳米生物材料药物载体制剂",
+      "中草药雾化给药",
+      "分子组装介观纳米材料"
+    ],
+    "education": "2003年湖南大学博士；华南理工大学博士后",
+    "career": "华南理工大学生物科学与工程学院教授、博导；广州生物纳米材料与技术工程中心副主任",
+    "talent_titles": [
+      "欧洲自然科学院院士(存争议头衔)",
+      "中国医药生物技术协会纳米生物技术常务委员"
+    ],
+    "representative_papers": [],
+    "patents": [
+      {
+        "title": "单分散纳米球药物载体/缓释纳米球等(专利权人华南理工大学，自述约23项授权发明专利)",
+        "patent_no": "",
+        "year": ""
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "90+"
+    },
+    "external_links": [
+      "https://www.scholarmate.com/P/FfuaIn",
+      "https://www.x-mol.com/university/faculty/76162"
+    ],
+    "tags": {
+      "research_field": [
+        "纳米生物材料",
+        "靶向给药",
+        "中药现代化"
+      ],
+      "seniority": "资深教授(博导)",
+      "industry_potential": "高 — 纳米药物载体+多项授权发明专利(权利人华工)，涉中草药雾化给药，转化导向明确",
+      "collaboration": "高 — 兼任多个行业协会/基金会职务，产学研网络广"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15457a293919/page.htm",
+      "https://baike.baidu.com/item/魏坤/15476327"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "关溯",
+    "name_en": "Su Guan",
+    "title": "副教授",
+    "profile_url": "",
+    "research_areas": [
+      "中药系统药理学/网络药理学",
+      "自身免疫与退行性疾病机制及药物研究",
+      "药物代谢动力学与药物转运体",
+      "肝毒理学",
+      "中西药相互作用"
+    ],
+    "education": "临床医学学士、心血管药理学硕士(华中科技大学同济医学院)；药理学与肝毒理学博士(香港大学)",
+    "career": "华南理工大学生物科学与工程学院制药工程系副教授；曾在广州中医药大学、香港浸会大学(博后/副研究员)、Mayo Clinic访学",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Shared therapeutic and hepatotoxic mechanisms of Tripterygium wilfordii polyglycosides via IL-17/Th17 (autoimmune skin diseases)",
+        "venue": "Phytomedicine",
+        "year": "2022"
+      }
+    ],
+    "patents": [
+      {
+        "title": "一种中药系统药理学分析平台及分析方法(作者归属待核实)",
+        "patent_no": "CN103093108B",
+        "year": "2013"
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "79?"
+    },
+    "external_links": [
+      "https://scholar.google.com/citations?user=pSwxy8MAAAAJ",
+      "https://www.researchgate.net/profile/Su-Guan",
+      "https://www.linkedin.com/in/su-guan-49065868/"
+    ],
+    "tags": {
+      "research_field": [
+        "中药系统/网络药理学",
+        "药代动力学",
+        "肝毒理学",
+        "自身免疫药理"
+      ],
+      "seniority": "副教授(约20年科研经验)",
+      "industry_potential": "高 — 应用型中药新药研发/DMPK/系统药理平台，且有相关专利，与制药/中药研发直接相关",
+      "collaboration": "中 — 应用导向明确，跨临床/药理/计算，港校与Mayo经历显示开放度"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.linkedin.com/in/su-guan-49065868/",
+      "https://pubmed.ncbi.nlm.nih.gov/35750104/",
+      "https://patents.google.com/patent/CN103093108B/zh"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "张毅",
+    "name_en": "Yi Zhang",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15458a294209/page.htm",
+    "research_areas": [
+      "发酵工程",
+      "工业微生物菌种选育",
+      "生物化工",
+      "可降解高分子材料(PLA/PVA)",
+      "植物源绿色农药(PA1b)",
+      "重金属污染水处理"
+    ],
+    "education": "博士(曾获教育部留学回国人员基金，有海外经历)",
+    "career": "华南理工大学生物科学与工程学院副教授、硕导；主持国自然1项、教育部留学回国基金1项、广东省产学研1项、省自然科学基金2项及横向项目6项",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "60"
+    },
+    "external_links": [
+      "https://www2.scut.edu.cn/biology_en/2015/0703/c5954a93253/page.htm"
+    ],
+    "tags": {
+      "research_field": [
+        "发酵工程",
+        "工业微生物",
+        "生物化工",
+        "可降解材料"
+      ],
+      "seniority": "中级副教授(硕导)",
+      "industry_potential": "高 — 应用性强(发酵工程、可降解PLA/PVA、绿色农药、水处理)，官网称已申请10项发明专利、6项授权",
+      "collaboration": "中 — 有广东省产学研及6项横向项目经验，缺乏可独立核实的具体企业合作记录"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1108/c15458a294209/page.htm",
+      "https://www2.scut.edu.cn/biology_en/2015/0703/c5954a93253/page.htm"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "方颖",
+    "name_en": "Ying Fang",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15458a293835/page.htm",
+    "research_areas": [
+      "生物力学",
+      "细胞与分子工程",
+      "细胞黏附与胞内信号转导(PSGL-1/P-selectin/Mac-1)",
+      "计算生物物理/分子动力学模拟",
+      "计算机抗体分子药物设计与靶向止凝血药物"
+    ],
+    "education": "武汉水运工程学院学士(1982-1986)；中山大学硕士(1996-1999)",
+    "career": "曾任北京大学力学系、中山大学讲师；2001-2003美国佐治亚理工访问科学家；2007年起华南理工大学生物科学与工程学院副教授，生物力学研究所细胞与分子工程实验室主任",
+    "talent_titles": [
+      "细胞与分子工程实验室主任"
+    ],
+    "representative_papers": [
+      {
+        "title": "Biphasic Force-Regulated Phosphorylation Site Exposure of ERM Bound with PSGL-1 (SMD)",
+        "venue": "International Journal of Molecular Sciences",
+        "year": "2020"
+      },
+      {
+        "title": "MD Simulations Reveal Force-Dependent Dissociation of Mac-1/GPIbα Complex",
+        "venue": "Frontiers in Molecular Biosciences",
+        "year": "2021"
+      },
+      {
+        "title": "Force-dependent calcium signaling of human neutrophils on P-selectin in flow",
+        "venue": "Protein & Cell",
+        "year": "2017"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "30"
+    },
+    "external_links": [
+      "https://www.x-mol.com/university/faculty/76187",
+      "https://www.researchgate.net/profile/Ying-Fang-11"
+    ],
+    "tags": {
+      "research_field": [
+        "生物力学",
+        "免疫细胞黏附/信号",
+        "计算生物物理",
+        "抗体药物设计"
+      ],
+      "seniority": "资深副教授(硕导，实验室主任)",
+      "industry_potential": "中 — 含靶向止凝血与计算机抗体设计应用方向，但以基础生物力学/模拟为主，未检索到专利",
+      "collaboration": "高 — 与吴建华团队及佐治亚理工长期合作，跨实验/计算/药物设计"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2018/1107/c15458a293835/page.htm",
+      "https://www.x-mol.com/university/faculty/76187"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "郭沛",
+    "name_en": "Pei Guo",
+    "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2021/0301/c15458a420216/page.htm",
+    "research_areas": [
+      "生物物理学",
+      "结构生物学",
+      "生物分子核磁共振(NMR)",
+      "非经典核酸结构(minidumbbell/G-quadruplex)",
+      "DNA短串联重复序列不稳定性"
+    ],
+    "education": "华中师范大学化学+英语双学位(2008-2012)；香港中文大学化学博士(2012-2016)",
+    "career": "香港中文大学博士后(2016-2019，Sik Lok Lam组)；2019年5月起华南理工大学生物科学与工程学院副教授",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Minidumbbell: A New Form of Native DNA Structure",
+        "venue": "JACS",
+        "year": "2016"
+      },
+      {
+        "title": "Minidumbbell structures formed by ATTCT pentanucleotide repeats in SCA10",
+        "venue": "Nucleic Acids Research",
+        "year": "2020"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "381",
+      "h_index": "",
+      "paper_count_est": "12"
+    },
+    "external_links": [
+      "https://scholar.google.com/citations?user=m3mEiMIAAAAJ",
+      "https://www.researchgate.net/profile/Pei-Guo-8"
+    ],
+    "tags": {
+      "research_field": [
+        "结构生物学",
+        "生物分子核磁共振",
+        "核酸结构",
+        "生物物理"
+      ],
+      "seniority": "青年副教授(2019起)",
+      "industry_potential": "低 — 纯基础结构生物学(非经典DNA/RNA溶液NMR)，未检索到专利",
+      "collaboration": "中 — 疾病相关重复扩增/核酸NMR有转化邻接性，但发文体量小、合作者较单一"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2021/0301/c15458a420216/page.htm",
+      "https://scholar.google.com/citations?user=m3mEiMIAAAAJ"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "陈巍",
+    "name_en": "Wei Chen",
+    "title": "副教授",
+    "profile_url": "",
+    "research_areas": [
+      "酶学与酶工程",
+      "微生物代谢调控",
+      "蛋白质高效表达",
+      "高值天然产物生物合成"
+    ],
+    "education": "华南理工大学生物工程学士(2002-2006)；发酵工程博士(2006-2012)",
+    "career": "2014年12月起华南理工大学生物科学与工程学院副教授；主持国家自然科学基金青年项目、广东省发酵与酶工程重点实验室开放基金等",
+    "talent_titles": [],
+    "representative_papers": [],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=7qYdnut9YPCEjHbcSZE0mw%3D%3D"
+    ],
+    "tags": {
+      "research_field": [
+        "酶工程",
+        "微生物代谢工程",
+        "合成生物学",
+        "生物制造"
+      ],
+      "seniority": "中级副教授(2014起，约2012博士)",
+      "industry_potential": "中-偏高 — 应用型生物制造方向(酶工程/代谢/天然产物合成)，但未确认专利与近期成果",
+      "collaboration": "中 — 应用方向适合酶工程/合成生物/发酵产学研，需进一步核实成果"
+    },
+    "confidence": "medium",
+    "data_caveat": "重名极常见，官网page.htm未检索到；核心数据来自SCUT研招专家库(yanzhao)；论文/专利/指标未能消歧，留空",
+    "sources": [
+      "https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=7qYdnut9YPCEjHbcSZE0mw%3D%3D"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "陈泽虹",
+    "name_en": "Zehong Chen",
+    "title": "副教授",
+    "profile_url": "",
+    "research_areas": [
+      "纤维素/纳米纤维素气凝胶",
+      "生物质功能材料",
+      "柔性储能与传感材料",
+      "碳气凝胶电极/电催化材料"
+    ],
+    "education": "华南理工大学制浆造纸工程国家重点实验室博士(彭新文课题组，约2016-2021)",
+    "career": "华南理工大学生物科学与工程学院副教授；博士期间在制浆造纸工程国家重点实验室彭新文课题组从事纤维素材料研究",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Recent Progress on Nanocellulose Aerogels: Preparation, Modification, Composite Fabrication, Applications",
+        "venue": "Advanced Materials",
+        "year": "2021"
+      },
+      {
+        "title": "Anisotropic Carbon Aerogel from Cellulose Nanofibers for Compression Stress Transfer and Pressure Sensing",
+        "venue": "ACS Sustainable Chemistry & Engineering",
+        "year": "2021"
+      }
+    ],
+    "patents": [
+      {
+        "title": "一种弹性碳气凝胶及其制备方法和应用(发明人含陈泽虹、钟林新、彭新文等)",
+        "patent_no": "ZL201711057227.X",
+        "year": ""
+      }
+    ],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": ""
+    },
+    "external_links": [
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202005569"
+    ],
+    "tags": {
+      "research_field": [
+        "纤维素/生物质材料",
+        "气凝胶",
+        "柔性储能",
+        "纳米材料"
+      ],
+      "seniority": "青年副教授(中级偏上)",
+      "industry_potential": "高 — 研究偏应用(纳米纤维素气凝胶/柔性储能)，有授权发明专利",
+      "collaboration": "高 — 与彭新文、钟林新等华工生物质/材料团队及制浆造纸国重室密切合作"
+    },
+    "confidence": "medium",
+    "data_caveat": "官网biology个人page.htm未检索到，学院归属由多条中文检索摘要+任务前提佐证；与制浆造纸国重室交叉",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/15417/list.htm",
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202005569",
+      "https://patents.google.com/"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  },
+  {
+    "name": "杜宇辉",
+    "name_en": "Yuhui Du",
+    "title": "副研究员",
+    "profile_url": "https://www2.scut.edu.cn/biology/2022/0303/c15459a461975/page.htm",
+    "research_areas": [
+      "合成生物学",
+      "微生物学",
+      "人工生命构建",
+      "微生物分子进化机制",
+      "聚合酶/末端转移酶(TdT)工程",
+      "酶法/非天然核酸合成"
+    ],
+    "education": "天津大学化工学院本科(2007-2011)、硕士(2011-2014)；南开大学生命科学学院博士(2014-2018)；北京理工大学博士后(2019-2021)",
+    "career": "2022年1月起华南理工大学生物科学与工程学院副研究员；隶属教育部合成生物学与生物医药国际联合研究实验室，与陈庭坚团队紧密合作",
+    "talent_titles": [],
+    "representative_papers": [
+      {
+        "title": "Template-independent synthesis and 3'-end labelling of 2'-modified oligonucleotides with TdT",
+        "venue": "Nucleic Acids Research",
+        "year": "2024"
+      },
+      {
+        "title": "From polymerase engineering to semi-synthetic life: artificial expansion of the central dogma",
+        "venue": "RSC Chemical Biology",
+        "year": "2022"
+      }
+    ],
+    "patents": [],
+    "metrics": {
+      "google_scholar_citations": "",
+      "h_index": "",
+      "paper_count_est": "~19"
+    },
+    "external_links": [
+      "https://scholar.google.com/citations?user=EbxKGlIAAAAJ"
+    ],
+    "tags": {
+      "research_field": [
+        "生物制造",
+        "合成生物学",
+        "医药生物"
+      ],
+      "seniority": "青年PI/副研究员(2018博士，依托陈庭坚团队)",
+      "industry_potential": "高 — 应用导向强(末端转移酶/聚合酶工程、酶法DNA合成、非天然核酸)，与DNA合成/存储、生物制造高度相关(未核实本人为发明人专利)",
+      "collaboration": "高 — 与陈庭坚团队协同、招硕士生、方向产业相关性强"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www2.scut.edu.cn/biology/2022/0303/c15459a461975/page.htm",
+      "https://academic.oup.com/nar/article/52/17/10085/7734168"
+    ],
+    "email": "",
+    "office": "",
+    "research_official": "",
+    "roster_status": "未在现任师资页(教授/副教授)名单，待核实(可能属研究员序列/退休/调离/院系调整)"
+  }
+]

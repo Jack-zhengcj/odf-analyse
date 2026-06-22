@@ -1,0 +1,87 @@
+[
+  {
+    "name": "梁书利", "name_en": "Liang Shuli", "title": "副教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15457a294179/page.htm",
+    "research_areas": ["发酵工程", "合成生物学", "微生物学", "毕赤酵母高效蛋白表达", "微生物代谢调控", "高值天然产物生物合成"],
+    "education": "华南理工大学生物工程学士(2002-2006)；发酵工程硕博连读博士(2006-2012)",
+    "career": "2014年12月起华南理工大学生物科学与工程学院副教授、硕导；与林影团队在毕赤酵母方向密切合作；2016年指导iGEM金奖",
+    "talent_titles": [],
+    "representative_papers": [
+      {"title": "Recycling of a selectable marker with a self-excisable plasmid in Pichia pastoris", "venue": "Scientific Reports", "year": "2017"},
+      {"title": "Combined strategies for improving expression of Citrobacter amalonaticus phytase in Pichia pastoris", "venue": "BMC Biotechnology", "year": "2015"}
+    ],
+    "patents": [
+      {"title": "一种重组毕赤酵母工程菌及其在合成莱鲍迪苷A中的应用", "patent_no": "ZL201410477408.8", "year": "2017"},
+      {"title": "一种嗜热链霉菌漆酶及工程菌、重组漆酶与应用", "patent_no": "ZL201410188145.9", "year": "2017"}
+    ],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": "10"},
+    "external_links": ["https://www.researchgate.net/scientific-contributions/Ying-Lin-2132866341"],
+    "tags": {"research_field": ["发酵工程", "合成生物学", "毕赤酵母表达", "酶工程"], "seniority": "副教授/硕导(中青年骨干)", "industry_potential": "中 — 毕赤酵母蛋白表达、天然产物(莱鲍迪苷A)、漆酶等应用方向，多为共同发明人，独立成果体量有限", "collaboration": "高 — 与林影团队同方向紧密合作，iGEM指导经验，工程菌/酶易对接产业"},
+    "confidence": "medium",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1108/c15457a294179/page.htm"]
+  },
+  {
+    "name": "林炜铁", "name_en": "Lin Weitie", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1108/c15457a294195/page.htm",
+    "research_areas": ["微生物学", "环境/水产养殖微生物学", "微生物生态学", "氨氧化古菌/细菌", "硝化与硫氧化微生物", "元素生物地球化学循环"],
+    "education": "华南理工大学生物化工学士(1982-1986)；发酵工程博士(1986-1991)",
+    "career": "华南理工大学生物科学与工程学院教授(2011起)、博导；领衔学院微生物生态与环境保护研究团队",
+    "talent_titles": ["微生物生态与环境保护团队负责人"],
+    "representative_papers": [
+      {"title": "Production and Excretion of Polyamines To Tolerate High Ammonia in soil AOA Candidatus Nitrosocosmicus agrestis", "venue": "mSystems", "year": "2021"},
+      {"title": "Parasulfuritortus cantonensis gen. nov., sp. nov., a microaerophilic sulfur-oxidizing bacterium", "venue": "Int. J. of Systematic and Evolutionary Microbiology", "year": "2021"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www2.scut.edu.cn/biology/15444/list.htm"],
+    "tags": {"research_field": ["微生物生态学", "环境微生物", "氨氧化古菌/硝化", "硫氧化菌"], "seniority": "资深教授(博导)", "industry_potential": "中 — 硝化/反硝化、水产养殖与废水处理微生物有环境工程应用，但偏基础生态，未检索到本人专利", "collaboration": "中 — 与团队成员(罗剑飞等)合作发文，环境/水处理有跨学科空间，偏学术导向"},
+    "confidence": "medium",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1108/c15457a294195/page.htm", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8573960/"]
+  },
+  {
+    "name": "林影", "name_en": "Lin Ying", "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2018/1107/c15457a293916/page.htm",
+    "research_areas": ["酶学与酶工程", "合成生物学", "微生物组学", "发酵工程", "毕赤酵母(Pichia pastoris)外源蛋白表达", "酶分子定向进化"],
+    "education": "华南理工大学微生物工程学士(1983)、发酵工程硕士(1986)、发酵工程博士(1997)",
+    "career": "华南理工大学生物科学与工程学院教授、博导；微生物学科团队负责人，曾任学院常务副院长；现任广东省发酵与酶工程重点实验室主任；国家级精品课程《酶工程》负责人",
+    "talent_titles": ["广东省发酵与酶工程重点实验室主任", "国家级精品课程《酶工程》负责人", "中国专利优秀奖"],
+    "representative_papers": [
+      {"title": "Surface display of active lipase in Pichia pastoris using Sed1 as an anchor protein", "venue": "Biotechnology Letters", "year": "2010"},
+      {"title": "Construction of efficient xylose utilizing Pichia pastoris for industrial enzyme production", "venue": "Microbial Cell Factories", "year": "2015"},
+      {"title": "Production of lycopene by metabolically engineered Pichia pastoris", "venue": "Bioscience, Biotechnology, and Biochemistry", "year": "2019"}
+    ],
+    "patents": [
+      {"title": "非甲醇诱导型毕赤酵母蛋白表达系统及其用途", "patent_no": "CN101104859A", "year": "2008"},
+      {"title": "一种重组毕赤酵母工程菌及其在合成莱鲍迪苷A中的应用", "patent_no": "ZL201410477408.8", "year": "2017"},
+      {"title": "一种新型碱性脂肪酶基因及产脂肪酶菌株", "patent_no": "ZL201210388055.5", "year": "2014"}
+    ],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": "100+(含SCI约62篇)"},
+    "external_links": ["https://www.x-mol.com/university/faculty/76148", "https://baike.baidu.com/item/林影/1472082"],
+    "tags": {"research_field": ["酶工程", "毕赤酵母表达系统", "合成生物学", "发酵工程"], "seniority": "资深学术带头人(教授/博导，省重点实验室主任)", "industry_potential": "高 — 毕赤酵母表达平台、工业酶(脂肪酶/漆酶)、天然产物(莱鲍迪苷A/番茄红素)强应用导向，多项授权专利并获中国专利优秀奖", "collaboration": "高 — 省发酵与酶工程重点实验室平台，团队庞大(梁书利等)，产业转化潜力大"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2018/1107/c15457a293916/page.htm", "https://patents.google.com/patent/CN101104859A/zh", "https://www.x-mol.com/university/faculty/76148"]
+  },
+  {
+    "name": "林章凛", "name_en": "Lin Zhanglin", "title": "教授",
+    "title_note": "2022年起主要任职中国科学院深圳先进技术研究院，SCUT为既有/曾任职页面",
+    "profile_url": "https://www2.scut.edu.cn/biology/2019/1113/c15457a345008/page.htm",
+    "research_areas": ["合成生物学(微生物抗逆基因线路、工业微生物基因组与噬菌体设计合成、AI在生物学应用)", "生物制药(多肽药物高效制备)", "蛋白质定向进化/蛋白质工程"],
+    "education": "清华大学化工/经济学双学士(1985-1990)；美国马里兰大学生化工程硕士(1990-1993)、分子与细胞生物学博士(1993-1996)；美国加州理工学院(Frances Arnold实验室)博士后(1996-1999)",
+    "career": "华南理工大学生物科学与工程学院教授、博导；曾任清华大学化工系生物工程教授约15年；2022年起任中科院深圳先进技术研究院教授",
+    "talent_titles": ["教育部长江学者特聘教授", "清华大学百人计划", "973计划(合成生物学)首席科学家"],
+    "representative_papers": [
+      {"title": "Streamlined protein expression and purification using cleavable self-aggregating tags (cSAT)", "venue": "Microbial Cell Factories", "year": "2011"},
+      {"title": "Genomic Iterative Replacements of Large Synthetic DNA Fragments in Corynebacterium glutamicum", "venue": "ACS Synthetic Biology", "year": "2022"},
+      {"title": "An iterative deep learning-guided algorithm for directed protein evolution (DeepDE)", "venue": "iScience", "year": "2025"}
+    ],
+    "patents": [
+      {"title": "Inducible self-cleaving protease tag for purifying recombinant proteins", "patent_no": "US20130012687A1", "year": "2013"},
+      {"title": "Method for purifying proteins/peptides using cleavable self-aggregating tags (cSAT)", "patent_no": "WO2022253266A1", "year": "2022"}
+    ],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": ""},
+    "external_links": ["https://www.semanticscholar.org/author/Zhanglin-Lin/3541501", "http://www.cssb.tsinghua.edu.cn/en/core-staff/item/124-2015-10-22-13-22-38"],
+    "tags": {"research_field": ["合成生物学", "蛋白质定向进化/工程", "生物制药", "AI for protein"], "seniority": "顶尖资深学者(长江学者特聘教授；原清华、现中科院深圳先进院)", "industry_potential": "高 — 蛋白质纯化(cSAT)、多肽药物制备、定向进化工业生物催化剂强应用导向，拥有美国及PCT专利", "collaboration": "高 — 知名学者，国际(Caltech)与国内(清华/中科院深圳先进院)网络广泛(注:现主要任职中科院深圳先进院)"},
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2019/1113/c15457a345008/page.htm", "https://patents.google.com/patent/US20130012687A1/en"]
+  }
+]
