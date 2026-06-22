@@ -1,0 +1,80 @@
+[
+  {
+    "name": "谢建凌",
+    "name_en": "Jianling Xie",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2023/0208/c15457a490879/page.htm",
+    "research_areas": ["蛋白质合成与折叠", "mTOR/mRNA翻译调控信号通路", "癌症研究", "衰老", "药物研发"],
+    "education": "本科墨西哥城La Salle大学生化制药；硕士、博士英国莱斯特大学细胞生理与药学",
+    "career": "博士后英国南安普顿大学；研究员澳大利亚SAHMRI、弗林德斯大学；现华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": [],
+    "representative_papers": [
+      {"title": "MNKs act as a regulatory switch for eIF4E1 and eIF4E3 driven mRNA translation in DLBCL", "venue": "Nature Communications", "year": "2014"},
+      {"title": "Reciprocal signaling between mTORC1 and MNK2 controls cell growth and oncogenesis", "venue": "Cellular and Molecular Life Sciences", "year": "2020"},
+      {"title": "Signaling Pathways Involved in the Regulation of mRNA Translation", "venue": "Molecular and Cellular Biology", "year": "2018"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": "30"},
+    "external_links": ["https://www.researchgate.net/profile/Jianling-Xie"],
+    "tags": {
+      "research_field": ["分子生物学", "细胞信号转导", "肿瘤生物学", "蛋白质翻译"],
+      "seniority": "资深教授(博导，海外多机构研究经历)",
+      "industry_potential": "中 — 研究偏基础(mTOR/翻译调控)，与癌症治疗、重组蛋白(CHO)生产相关有转化潜力；未发现专利",
+      "collaboration": "高 — 长期国际合作(英国莱斯特/南安普顿、澳洲SAHMRI/弗林德斯)，方向多学科交叉"
+    },
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2023/0208/c15457a490879/page.htm", "https://www.researchgate.net/profile/Jianling-Xie"]
+  },
+  {
+    "name": "肖波涛",
+    "name_en": "Botao Xiao",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2017/0929/c3441a211241/page.htm",
+    "research_areas": ["细胞分子生物力学", "单分子生物学", "纳米医药生物学", "DNA与染色体组装", "高通量微纳米测控"],
+    "education": "博士(生物物理/单分子方向)，曾在美国机构研究",
+    "career": "曾在美国西北大学(J.F. Marko组)、UC Berkeley(R. Heald组)从事单分子生物物理研究；2017年至今华南理工大学生物科学与工程学院教授、博导",
+    "talent_titles": [],
+    "representative_papers": [
+      {"title": "Force-driven unbinding of proteins HU and Fis from DNA quantified using a thermodynamic Maxwell relation", "venue": "Nucleic Acids Research", "year": "2011"},
+      {"title": "Histone H1 compacts DNA under force and during chromatin assembly", "venue": "Molecular Biology of the Cell", "year": "2012"},
+      {"title": "A Horizontal Magnetic Tweezers and Its Use for Studying Single DNA Molecules", "venue": "Micromachines", "year": "2018"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "", "h_index": "", "paper_count_est": "30"},
+    "external_links": ["https://www.researchgate.net/scientific-contributions/Botao-Xiao-39664476"],
+    "tags": {
+      "research_field": ["生物物理", "单分子生物学", "DNA/染色质力学", "纳米生物学"],
+      "seniority": "资深教授(博导，海外名校训练，国基金连续资助)",
+      "industry_potential": "中 — 含纳米医药、高通量微纳米测控等应用交叉，仪器(磁镊)研发有转化空间；未确认专利",
+      "collaboration": "高 — 前沿交叉学科，与哈佛、美国西北大学及企业合作"
+    },
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2017/0929/c3441a211241/page.htm", "https://www.researchgate.net/scientific-contributions/Botao-Xiao-39664476"]
+  },
+  {
+    "name": "熊伟",
+    "name_en": "Wei Xiong",
+    "title": "教授",
+    "profile_url": "https://www2.scut.edu.cn/biology/2024/0828/c15457a560367/page.htm",
+    "research_areas": ["合成生物学", "生物碳中和与一碳代谢", "人工智能+生物", "能源生物技术", "合成代谢与低碳生物设计"],
+    "education": "博士，清华大学(2010)",
+    "career": "博士后美国亚利桑那州立大学；研究员美国能源部国家可再生能源实验室(NREL)；现华南理工大学生物科学与工程学院院长、终聘教授、海外高层次人才",
+    "talent_titles": ["海外高层次人才", "学院院长"],
+    "representative_papers": [
+      {"title": "Acetyl-CoA synthesis through a bicyclic carbon-fixing pathway in gas-fermenting bacteria", "venue": "Nature Synthesis", "year": "2022"},
+      {"title": "CO2 fixation by anaerobic non-photosynthetic mixotrophy for improved carbon conversion", "venue": "Nature Communications", "year": "2016"},
+      {"title": "Insights into CO2 Fixation Pathway of Clostridium autoethanogenum by Targeted Mutagenesis", "venue": "mBio", "year": "2016"}
+    ],
+    "patents": [],
+    "metrics": {"google_scholar_citations": "2000+", "h_index": "", "paper_count_est": "50"},
+    "external_links": ["https://scholar.google.com/citations?user=scYzTwkAAAAJ", "https://research-hub.nrel.gov/en/persons/wei-xiong"],
+    "tags": {
+      "research_field": ["合成生物学", "微生物代谢工程", "一碳/CO2固定", "能源生物技术", "AI+生物"],
+      "seniority": "学院院长/终聘教授/海外高层次人才(Nature子刊通讯作者)",
+      "industry_potential": "高 — 气体发酵/CO2固定/低碳合成生物学强应用导向，直接对接碳中和与生物制造",
+      "collaboration": "高 — 国际背景(NREL/ASU)，AI+生物多学科交叉，团队招募活跃"
+    },
+    "confidence": "high",
+    "sources": ["https://www2.scut.edu.cn/biology/2024/0828/c15457a560367/page.htm", "https://www.nature.com/articles/s44160-022-00095-4", "https://scholar.google.com/citations?user=scYzTwkAAAAJ"]
+  }
+]
